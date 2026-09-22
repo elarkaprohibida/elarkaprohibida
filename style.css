@@ -655,10 +655,12 @@ a{
 }
 
 .maps-subheading {
-    text-align: left;
-    font-size: 17px;
+    text-align: center;
+    font-size: 24px;
     margin: 20px 0 0;
-    opacity: 0.9;
+    opacity: 0.95;
+    color: #00ff99;
+    text-shadow: 0 0 10px rgba(0, 255, 153, 0.4);
 }
 
 .maps-subheading.with-divider {
