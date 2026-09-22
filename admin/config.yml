@@ -118,6 +118,35 @@ collections:
               - {label: "Destacado", name: "featured", widget: "boolean", default: false}
           - {label: "Pasos de entrega", name: "steps", widget: "list"}
 
+  - name: "hall-of-fame"
+    label: "Salón de la Fama"
+    files:
+      - file: "data/hall-of-fame.json"
+        name: "hall-of-fame"
+        label: "Salón de la Fama"
+        fields:
+          - {label: "Texto introductorio", name: "intro", widget: "text"}
+          - label: "Eventos"
+            name: "events"
+            widget: "list"
+            summary: "{{fields.title}} - {{fields.date}}"
+            fields:
+              - {label: "Título del evento", name: "title", widget: "string"}
+              - {label: "Fecha", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Imagen / cartel", name: "image", widget: "image", required: false}
+              - {label: "Descripción", name: "description", widget: "text", required: false}
+              - label: "Ganadores"
+                name: "winners"
+                widget: "list"
+                summary: "{{fields.position}} - {{fields.player}}"
+                fields:
+                  - label: "Puesto"
+                    name: "position"
+                    widget: "select"
+                    options: [{label: "Oro", value: "gold"}, {label: "Plata", value: "silver"}, {label: "Bronce", value: "bronze"}]
+                  - {label: "Jugador", name: "player", widget: "string"}
+                  - {label: "Premio", name: "prize", widget: "string"}
+
   - name: "site"
     label: "Ajustes generales"
     files:
