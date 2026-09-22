@@ -25,7 +25,7 @@
             list.innerHTML = events.map(e => {
                 const winners = [...(e.winners || [])].sort((a, b) => ORDER.indexOf(a.position) - ORDER.indexOf(b.position));
                 const dateLabel = e.date
-                    ? new Date(e.date).toLocaleDateString('es-ES', { year: 'numeric', month: 'long', day: 'numeric' })
+                    ? new Date(e.date + 'T00:00:00').toLocaleDateString('es-ES', { year: 'numeric', month: 'long', day: 'numeric' })
                     : '';
 
                 return `
