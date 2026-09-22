@@ -66,13 +66,26 @@ collections:
           - {label: "Título de bienvenida", name: "welcomeTitle", widget: "string"}
           - {label: "Párrafos de bienvenida", name: "welcomeText", widget: "list"}
           - {label: "Características", name: "features", widget: "list"}
-          - label: "Mapas disponibles"
-            name: "maps"
+          - label: "Mapas Fijos"
+            name: "mapasFijos"
             widget: "list"
             summary: "{{fields.name}}"
             fields:
               - {label: "Nombre", name: "name", widget: "string"}
               - {label: "Imagen", name: "image", widget: "image"}
+          - label: "Mapas Rotativos"
+            name: "mapasRotativos"
+            widget: "list"
+            summary: "{{fields.label}}"
+            fields:
+              - {label: "Nombre del grupo", name: "label", widget: "string"}
+              - label: "Mapas"
+                name: "maps"
+                widget: "list"
+                summary: "{{fields.name}}"
+                fields:
+                  - {label: "Nombre", name: "name", widget: "string"}
+                  - {label: "Imagen", name: "image", widget: "image"}
           - label: "Mods destacados"
             name: "mods"
             widget: "list"

@@ -4,14 +4,29 @@
         "Servidor PvE con una comunidad activa y administración comprometida.",
         "Explora, construye, cría y disfruta de una experiencia equilibrada junto a otros supervivientes."
     ],
-    "maps": [
+    "mapasFijos": [
         { "name": "The Island", "image": "images/the-island.png" },
         { "name": "Ragnarok", "image": "images/ragnarok.png" },
         { "name": "Astraeos", "image": "images/astraeos.png" },
-        { "name": "Valguero", "image": "images/valguero.png" },
-        { "name": "The Center", "image": "images/the-center.png" },
-        { "name": "Genesis 1", "image": "images/genesis-1.png" },
-        { "name": "Aberration", "image": "images/aberration.png" }
+        { "name": "Genesis 1", "image": "images/genesis-1.png" }
+    ],
+    "mapasRotativos": [
+        {
+            "label": "Grupo 1",
+            "maps": [
+                { "name": "Scorched Earth", "image": "images/scorched-earth.png" },
+                { "name": "Extinción", "image": "images/extincion.png" },
+                { "name": "Lost Colony", "image": "images/lost-colony.png" }
+            ]
+        },
+        {
+            "label": "Grupo 2",
+            "maps": [
+                { "name": "Aberration", "image": "images/aberration.png" },
+                { "name": "Valguero", "image": "images/valguero.png" },
+                { "name": "The Center", "image": "images/the-center.png" }
+            ]
+        }
     ],
     "features": [
         "✔ 150 puntos por cada hora jugada",
