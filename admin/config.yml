@@ -146,6 +146,7 @@ collections:
                     options: [{label: "Oro", value: "gold"}, {label: "Plata", value: "silver"}, {label: "Bronce", value: "bronze"}]
                   - {label: "Jugador", name: "player", widget: "string"}
                   - {label: "Premio", name: "prize", widget: "string"}
+              - {label: "Participantes", name: "participants", widget: "list", required: false}
 
   - name: "site"
     label: "Ajustes generales"

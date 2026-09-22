@@ -45,6 +45,14 @@
                                 </div>
                             `).join('')}
                         </div>
+                        ${(e.participants || []).length ? `
+                            <div class="participants">
+                                <h3>Participantes</h3>
+                                <div class="participants-list">
+                                    ${e.participants.map(p => `<span class="participant-chip">${p}</span>`).join('')}
+                                </div>
+                            </div>
+                        ` : ''}
                     </div>
                 `;
             }).join('');

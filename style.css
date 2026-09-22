@@ -769,6 +769,32 @@ a{
     color: #00ff99;
 }
 
+.participants {
+    margin-top: 24px;
+    padding-top: 18px;
+    border-top: 1px solid rgba(0, 255, 153, 0.2);
+}
+
+.participants h3 {
+    margin: 0 0 12px;
+    font-size: 15px;
+    opacity: 0.85;
+}
+
+.participants-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.participant-chip {
+    background: rgba(0, 255, 153, 0.08);
+    border: 1px solid rgba(0, 255, 153, 0.25);
+    border-radius: 20px;
+    padding: 6px 14px;
+    font-size: 13px;
+}
+
 @media (max-width: 900px) {
     .events-list {
         width: 90%;

@@ -6,7 +6,13 @@
             "date": "2026-09-21",
             "image": "images/dodo-velada-2026.png",
             "description": "Combates de Dodos en Eventos/Ragnarok. Mapa PvP, prohibido matarse entre participantes fuera del evento. El Staff Prohibido subió de nivel a todos los Dodos antes del combate para que todos compitieran igualados.",
-            "winners": []
+            "winners": [
+                { "position": "gold", "player": "MORE", "prize": "Campeona del Desafío de Dodos" }
+            ],
+            "participants": [
+                "Topo-eguna", "♡ Kyrtash ♡", "Boromola", "Rafael /C", "Victor", "Javitron", "Alvin",
+                "Sercu", "ZERO", "*Maga*", "Gunter", "MORE", "llimonero"
+            ]
         }
     ]
 }
