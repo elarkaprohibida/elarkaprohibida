@@ -2,6 +2,23 @@
     "intro": "Aquí reconocemos a los jugadores que se destacaron en nuestros eventos especiales. ¡Gracias por hacer de ARKA PROHIBIDA una comunidad increíble!",
     "events": [
         {
+            "title": "🐗 El Boaratos Prohibido",
+            "date": "2026-09-07",
+            "image": "images/boaratos-prohibido-2026.png",
+            "description": "Temporada de caza de Boaratos: quien domara el ejemplar con más Vida y Daño combinados se llevaba la gloria. La edición más reñida hasta la fecha, con el 3er puesto decidido por empate.",
+            "winners": [
+                { "position": "gold", "player": "The king1989", "prize": "84 pts (Vida + Daño)" },
+                { "position": "silver", "player": "♡ Kyrtash ♡", "prize": "83 pts (Vida + Daño)" },
+                { "position": "bronze", "player": "Winiko26", "prize": "82 pts (Vida + Daño)" },
+                { "position": "bronze", "player": "cacharro94", "prize": "82 pts (Vida + Daño)" },
+                { "position": "bronze", "player": "☠️dmx☠️", "prize": "82 pts (Vida + Daño)" }
+            ],
+            "participants": [
+                "Sercu", "Megu17", "PABLOKO", "Winiko26", "Topo-eguna", "cacharro94", "IvaN_KhaN",
+                "Jesúses", "Boromola", "Rafael /C", "MORE", "☠️dmx☠️", "♡ Kyrtash ♡", "The king1989", "Victor"
+            ]
+        },
+        {
             "title": "🦤 La Dodo Velada 2026",
             "date": "2026-09-21",
             "image": "images/dodo-velada-2026.png",

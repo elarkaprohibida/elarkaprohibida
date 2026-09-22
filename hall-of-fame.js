@@ -15,7 +15,7 @@
             const intro = document.getElementById('hofIntro');
             if (intro) intro.textContent = cfg.intro;
 
-            const events = [...(cfg.events || [])].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+            const events = cfg.events || [];
 
             if (!events.length) {
                 list.innerHTML = '<p class="shop-empty">Aún no hay eventos registrados.</p>';
