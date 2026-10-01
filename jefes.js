@@ -9,11 +9,30 @@
     const mapName = document.getElementById('bossMapName');
     const bossList = document.getElementById('bossList');
 
+    function slug(name) {
+        return name.toLowerCase()
+            .normalize('NFD').replace(/[̀-ͯ]/g, '')
+            .replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+    }
+
+    function itemHtml(text) {
+        if (/^(Todo lo de|Lo mismo)/.test(text)) {
+            return `<li class="item-note">${text}</li>`;
+        }
+        const name = text.replace(/^\d+×\s*/, '');
+        return `
+            <li>
+                <img class="item-icon" src="images/items/${slug(name)}.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'">
+                <span>${text}</span>
+            </li>
+        `;
+    }
+
     function listHtml(label, items) {
         if (!items || !items.length) return '';
         return `
             <span class="price-label">${label}</span>
-            <ul>${items.map(i => `<li>${i}</li>`).join('')}</ul>
+            <ul class="item-list">${items.map(itemHtml).join('')}</ul>
         `;
     }
 

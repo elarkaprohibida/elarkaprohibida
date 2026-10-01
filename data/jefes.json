@@ -5,7 +5,7 @@
             "image": "images/the-island.png",
             "bosses": [
                 {
-                    "name": "Broodmother Lysrix",
+                    "name": "Matriarca (Broodmother Lysrix)",
                     "type": "Guardián",
                     "summon": "Obelisco verde. Se invoca desde un obelisco (necesitas los tributos en el inventario).",
                     "difficulties": [
@@ -13,59 +13,59 @@
                             "label": "Gamma (fácil)",
                             "level": "30",
                             "tributes": [
-                                "1× Artifact of the Clever",
-                                "1× Artifact of the Hunter",
-                                "1× Artifact of the Massive"
+                                "1× Artefacto del Astuto",
+                                "1× Artefacto del Cazador",
+                                "1× Artefacto de la Inmensidad"
                             ],
                             "tek": [
-                                "Tek Foundation",
-                                "Tek Quarter & Triangle Ceiling",
-                                "Tek Replicator",
-                                "Tek Triangle & Quarter Foundation",
-                                "Tek Triangle Roof & Corner"
+                                "Cimiento Tek",
+                                "Techo Tek de cuarto y triangular",
+                                "Impresora 3D Tek",
+                                "Cimiento Tek triangular y de cuarto",
+                                "Tejado triangular y esquina Tek"
                             ]
                         },
                         {
                             "label": "Beta (media)",
                             "level": "50",
                             "tributes": [
-                                "1× Artifact of the Clever",
-                                "1× Artifact of the Hunter",
-                                "1× Artifact of the Massive",
-                                "5× Argentavis Talon",
-                                "5× Sarcosuchus Skin",
-                                "5× Sauropod Vertebra",
-                                "5× Titanoboa Venom"
+                                "1× Artefacto del Astuto",
+                                "1× Artefacto del Cazador",
+                                "1× Artefacto de la Inmensidad",
+                                "5× Garra de Argentavis",
+                                "5× Piel de Sarcosuchus",
+                                "5× Vértebra de saurópodo",
+                                "5× Veneno de Titanoboa"
                             ],
                             "tek": [
                                 "Todo lo de Gamma, más:",
-                                "Tek Boots",
-                                "Tek Ceiling & Hatchframe",
-                                "Tek Fence Foundation & Support",
-                                "Tek Ladder",
-                                "Tek Quarter Wall & Railing",
-                                "Tek Roof, Ramp & Stairs",
-                                "Tek Sloped Wall",
-                                "Tek Wall, Doorways & Windowframe"
+                                "Botas Tek",
+                                "Techo y marco de trampilla Tek",
+                                "Cimiento y soporte de valla Tek",
+                                "Escalera de mano Tek",
+                                "Cuarto de pared y barandilla Tek",
+                                "Tejado, rampa y escaleras Tek",
+                                "Pared inclinada Tek",
+                                "Pared, marco de puerta y de ventana Tek"
                             ]
                         },
                         {
                             "label": "Alfa (difícil)",
                             "level": "70",
                             "tributes": [
-                                "1× Artifact of the Clever",
-                                "1× Artifact of the Hunter",
-                                "1× Artifact of the Massive",
-                                "10× Argentavis Talon",
-                                "10× Sarcosuchus Skin",
-                                "10× Sauropod Vertebra",
-                                "10× Titanoboa Venom"
+                                "1× Artefacto del Astuto",
+                                "1× Artefacto del Cazador",
+                                "1× Artefacto de la Inmensidad",
+                                "10× Garra de Argentavis",
+                                "10× Piel de Sarcosuchus",
+                                "10× Vértebra de saurópodo",
+                                "10× Veneno de Titanoboa"
                             ],
                             "tek": [
                                 "Todo lo de Beta, más:",
-                                "Mosasaur Tek Saddle",
-                                "Tek Helmet",
-                                "Tek Turret"
+                                "Montura Tek de Mosasaurio",
+                                "Casco Tek",
+                                "Torreta Tek"
                             ]
                         }
                     ],
@@ -80,57 +80,57 @@
                             "label": "Gamma (fácil)",
                             "level": "45",
                             "tributes": [
-                                "1× Artifact of the Brute",
-                                "1× Artifact of the Devourer",
-                                "1× Artifact of the Pack"
+                                "1× Artefacto del Bruto",
+                                "1× Artefacto del Devorador",
+                                "1× Artefacto de la Manada"
                             ],
                             "tek": [
-                                "Tek Doors & Windows",
-                                "Tek Gauntlets",
-                                "Tek Replicator"
+                                "Puertas y ventanas Tek",
+                                "Guantes Tek",
+                                "Impresora 3D Tek"
                             ]
                         },
                         {
                             "label": "Beta (media)",
                             "level": "65",
                             "tributes": [
-                                "1× Artifact of the Brute",
-                                "1× Artifact of the Devourer",
-                                "1× Artifact of the Pack",
-                                "5× Megalania Toxin",
-                                "5× Megalodon Tooth",
-                                "5× Spinosaurus Sail",
-                                "5× Therizino Claws",
-                                "5× Thylacoleo Hook-Claw"
+                                "1× Artefacto del Bruto",
+                                "1× Artefacto del Devorador",
+                                "1× Artefacto de la Manada",
+                                "5× Toxina de Megalania",
+                                "5× Diente de Megalodón",
+                                "5× Aleta dorsal de Espinosaurio",
+                                "5× Garras de Tericinosaurio",
+                                "5× Garra de Thylacoleo"
                             ],
                             "tek": [
                                 "Todo lo de Gamma, más:",
-                                "Tek Gate",
-                                "Tek Gateway",
-                                "Tek Generator",
-                                "Tek Large Cellar Door",
-                                "Tek Rifle",
-                                "Tek Trough"
+                                "Puerta Tek para dinosaurios",
+                                "Marco de puerta Tek para dinosaurios",
+                                "Generador Tek",
+                                "Puerta de sótano grande Tek",
+                                "Rifle Tek",
+                                "Comedero Tek"
                             ]
                         },
                         {
                             "label": "Alfa (difícil)",
                             "level": "85",
                             "tributes": [
-                                "1× Artifact of the Brute",
-                                "1× Artifact of the Devourer",
-                                "1× Artifact of the Pack",
-                                "10× Megalania Toxin",
-                                "10× Megalodon Tooth",
-                                "10× Spinosaurus Sail",
-                                "10× Therizino Claws",
-                                "10× Thylacoleo Hook-Claw"
+                                "1× Artefacto del Bruto",
+                                "1× Artefacto del Devorador",
+                                "1× Artefacto de la Manada",
+                                "10× Toxina de Megalania",
+                                "10× Diente de Megalodón",
+                                "10× Aleta dorsal de Espinosaurio",
+                                "10× Garras de Tericinosaurio",
+                                "10× Garra de Thylacoleo"
                             ],
                             "tek": [
                                 "Todo lo de Beta, más:",
-                                "Rex Tek Saddle",
-                                "Tek Grenade",
-                                "Tek Large Wall"
+                                "Montura Tek de Tiranosaurio Rex",
+                                "Granada Tek",
+                                "Pared grande Tek"
                             ]
                         }
                     ],
@@ -145,69 +145,69 @@
                             "label": "Gamma (fácil)",
                             "level": "55",
                             "tributes": [
-                                "1× Artifact of the Cunning",
-                                "1× Artifact of the Immune",
-                                "1× Artifact of the Skylord",
-                                "1× Artifact of the Strong"
+                                "1× Artefacto de la Astucia",
+                                "1× Artefacto del Inmune",
+                                "1× Artefacto del Señor de los Cielos",
+                                "1× Artefacto del Fuerte"
                             ],
                             "tek": [
-                                "Megalodon Tek Saddle",
-                                "Small Tek Teleporter",
-                                "Tapejara Tek Saddle",
-                                "Tek Behemoth Cellar Door",
-                                "Tek Behemoth Gate",
-                                "Tek Behemoth Gateway",
-                                "Tek Leggings",
-                                "Tek Replicator"
+                                "Montura Tek de Megalodón",
+                                "Teletransportador Tek pequeño",
+                                "Montura Tek de Tapejara",
+                                "Puerta de sótano colosal Tek",
+                                "Puerta colosal Tek",
+                                "Marco colosal Tek",
+                                "Pantalones Tek",
+                                "Impresora 3D Tek"
                             ]
                         },
                         {
                             "label": "Beta (media)",
                             "level": "75",
                             "tributes": [
-                                "1× Artifact of the Cunning",
-                                "1× Artifact of the Immune",
-                                "1× Artifact of the Skylord",
-                                "1× Artifact of the Strong",
-                                "5× Allosaurus Brain",
-                                "5× Basilosaurus Blubber",
-                                "1× Giganotosaurus Heart",
-                                "5× Tusoteuthis Tentacle",
-                                "5× Tyrannosaurus Arm",
-                                "5× Yutyrannus Lungs"
+                                "1× Artefacto de la Astucia",
+                                "1× Artefacto del Inmune",
+                                "1× Artefacto del Señor de los Cielos",
+                                "1× Artefacto del Fuerte",
+                                "5× Cerebro de Alosaurio",
+                                "5× Grasa de Basilosaurio",
+                                "1× Corazón de Giganotosaurio",
+                                "5× Tentáculo de Tusoteuthis",
+                                "5× Brazo de Tiranosaurio",
+                                "5× Pulmones de Yutirano"
                             ],
                             "tek": [
                                 "Todo lo de Gamma, más:",
-                                "Medium Tek Teleporter",
-                                "Tek Dedicated Storage",
-                                "Tek Doors & Windows",
-                                "Tek Fence Foundation & Support",
-                                "Tek Forcefield",
-                                "Tek Roof, Ramp & Stairs",
-                                "Tek Transmitter",
-                                "Vacuum Compartment & Moonpool"
+                                "Teletransportador Tek mediano",
+                                "Almacén especializado Tek",
+                                "Puertas y ventanas Tek",
+                                "Cimiento y soporte de valla Tek",
+                                "Campo de fuerza Tek",
+                                "Tejado, rampa y escaleras Tek",
+                                "Transmisor Tek",
+                                "Compartimento de vacío y piscina lunar"
                             ]
                         },
                         {
                             "label": "Alfa (difícil)",
                             "level": "100",
                             "tributes": [
-                                "1× Artifact of the Cunning",
-                                "1× Artifact of the Immune",
-                                "1× Artifact of the Skylord",
-                                "1× Artifact of the Strong",
-                                "10× Allosaurus Brain",
-                                "10× Basilosaurus Blubber",
-                                "2× Giganotosaurus Heart",
-                                "10× Tusoteuthis Tentacle",
-                                "15× Tyrannosaurus Arm",
-                                "10× Yutyrannus Lungs"
+                                "1× Artefacto de la Astucia",
+                                "1× Artefacto del Inmune",
+                                "1× Artefacto del Señor de los Cielos",
+                                "1× Artefacto del Fuerte",
+                                "10× Cerebro de Alosaurio",
+                                "10× Grasa de Basilosaurio",
+                                "2× Corazón de Giganotosaurio",
+                                "10× Tentáculo de Tusoteuthis",
+                                "15× Brazo de Tiranosaurio",
+                                "10× Pulmones de Yutirano"
                             ],
                             "tek": [
                                 "Todo lo de Beta, más:",
-                                "Large Tek Teleporter",
-                                "Tek Chestpiece",
-                                "Tek Cloning Chamber"
+                                "Teletransportador Tek grande",
+                                "Pechera Tek",
+                                "Cámara de clonación Tek"
                             ]
                         }
                     ],
@@ -222,53 +222,53 @@
                             "label": "Gamma (fácil)",
                             "level": "60",
                             "tributes": [
-                                "1× Gamma Broodmother Trophy",
-                                "1× Gamma Megapithecus Trophy",
-                                "1× Gamma Dragon Trophy"
+                                "1× Trofeo: Matriarca (Gamma)",
+                                "1× Trofeo: Megapithecus (Gamma)",
+                                "1× Trofeo: Dragón (Gamma)"
                             ],
                             "tek": [
-                                "Gamma Ascension Implant"
+                                "Implante de Ascensión Gamma"
                             ]
                         },
                         {
                             "label": "Beta (media)",
                             "level": "80",
                             "tributes": [
-                                "1× Beta Broodmother Trophy",
-                                "1× Beta Megapithecus Trophy",
-                                "1× Beta Dragon Trophy",
-                                "1× Alpha Raptor Claw",
-                                "1× Alpha Carnotaurus Arm",
-                                "1× Alpha Tyrannosaur Tooth"
+                                "1× Trofeo: Matriarca (Beta)",
+                                "1× Trofeo: Megapithecus (Beta)",
+                                "1× Trofeo: Dragón (Beta)",
+                                "1× Garra de Raptor Alfa",
+                                "1× Brazo de Carnotauro Alfa",
+                                "1× Diente de Tiranosaurio Alfa"
                             ],
                             "tek": [
                                 "Todo lo de Gamma, más:",
-                                "Beta Ascension Implant"
+                                "Implante de Ascensión Beta"
                             ]
                         },
                         {
                             "label": "Alfa (difícil)",
                             "level": "100",
                             "tributes": [
-                                "1× Alpha Broodmother Trophy",
-                                "1× Alpha Megapithecus Trophy",
-                                "1× Alpha Dragon Trophy",
-                                "1× Alpha Raptor Claw",
-                                "1× Alpha Carnotaurus Arm",
-                                "1× Alpha Tyrannosaur Tooth",
-                                "1× Alpha Megalodon Fin",
-                                "1× Alpha Mosasaur Tooth",
-                                "1× Alpha Tusoteuthis Eye",
-                                "1× Alpha Leedsichthys Blubber"
+                                "1× Trofeo: Matriarca (Alfa)",
+                                "1× Trofeo: Megapithecus (Alfa)",
+                                "1× Trofeo: Dragón (Alfa)",
+                                "1× Garra de Raptor Alfa",
+                                "1× Brazo de Carnotauro Alfa",
+                                "1× Diente de Tiranosaurio Alfa",
+                                "1× Aleta de Megalodón Alfa",
+                                "1× Diente de Mosasaurio Alfa",
+                                "1× Ojo de Tusoteuthis Alfa",
+                                "1× Grasa de Leedsichthys Alfa"
                             ],
                             "tek": [
                                 "Todo lo de Beta, más:",
-                                "Alpha Ascension Implant",
-                                "Tek Binoculars"
+                                "Implante de Ascensión Alfa",
+                                "Prismáticos Tek"
                             ]
                         }
                     ],
-                    "tips": "Necesitas los trofeos de Broodmother, Megapithecus y Dragón de esa dificultad (o mayor). Al derrotarlo consigues el implante de Ascensión."
+                    "tips": "Necesitas los trofeos de Matriarca, Megapithecus y Dragón de esa dificultad (o mayor). Al derrotarlo consigues el implante de Ascensión."
                 }
             ]
         },
@@ -285,104 +285,104 @@
                             "label": "Gamma (fácil)",
                             "level": "70",
                             "tributes": [
-                                "1× Artifact of the Clever",
-                                "1× Artifact of the Cunning",
-                                "1× Artifact of the Devious",
-                                "1× Artifact of the Devourer",
-                                "1× Artifact of the Hunter",
-                                "1× Artifact of the Immune",
-                                "1× Artifact of the Massive",
-                                "1× Artifact of the Pack",
-                                "1× Artifact of the Skylord",
-                                "1× Artifact of the Strong"
+                                "1× Artefacto del Astuto",
+                                "1× Artefacto de la Astucia",
+                                "1× Artefacto del Engaño",
+                                "1× Artefacto del Devorador",
+                                "1× Artefacto del Cazador",
+                                "1× Artefacto del Inmune",
+                                "1× Artefacto de la Inmensidad",
+                                "1× Artefacto de la Manada",
+                                "1× Artefacto del Señor de los Cielos",
+                                "1× Artefacto del Fuerte"
                             ],
                             "tek": [
-                                "Megalodon Tek Saddle",
-                                "Rex Tek Saddle",
-                                "Small Tek Teleporter",
-                                "Tapejara Tek Saddle",
-                                "Tek Behemoth Cellar Door",
-                                "Tek Behemoth Gate",
-                                "Tek Behemoth Gateway",
-                                "Tek Gauntlets",
-                                "Tek Generator",
-                                "Tek Leggings",
-                                "Tek Light",
-                                "Tek Replicator",
-                                "Tek Trough"
+                                "Montura Tek de Megalodón",
+                                "Montura Tek de Tiranosaurio Rex",
+                                "Teletransportador Tek pequeño",
+                                "Montura Tek de Tapejara",
+                                "Puerta de sótano colosal Tek",
+                                "Puerta colosal Tek",
+                                "Marco colosal Tek",
+                                "Guantes Tek",
+                                "Generador Tek",
+                                "Pantalones Tek",
+                                "Luz Tek",
+                                "Impresora 3D Tek",
+                                "Comedero Tek"
                             ]
                         },
                         {
                             "label": "Beta (media)",
                             "level": "80",
                             "tributes": [
-                                "1× Artifact of the Clever",
-                                "1× Artifact of the Cunning",
-                                "1× Artifact of the Devious",
-                                "1× Artifact of the Devourer",
-                                "1× Artifact of the Hunter",
-                                "1× Artifact of the Immune",
-                                "1× Artifact of the Massive",
-                                "1× Artifact of the Pack",
-                                "1× Artifact of the Skylord",
-                                "1× Artifact of the Strong",
-                                "10× Argentavis Talon",
-                                "5× Basilosaurus Blubber",
-                                "10× Megalania Toxin",
-                                "10× Megalodon Tooth",
-                                "10× Sarcosuchus Skin",
-                                "10× Sauropod Vertebra",
-                                "10× Spinosaurus Sail",
-                                "10× Thylacoleo Hook-Claw",
-                                "10× Titanoboa Venom",
-                                "10× Tusoteuthis Tentacle"
+                                "1× Artefacto del Astuto",
+                                "1× Artefacto de la Astucia",
+                                "1× Artefacto del Engaño",
+                                "1× Artefacto del Devorador",
+                                "1× Artefacto del Cazador",
+                                "1× Artefacto del Inmune",
+                                "1× Artefacto de la Inmensidad",
+                                "1× Artefacto de la Manada",
+                                "1× Artefacto del Señor de los Cielos",
+                                "1× Artefacto del Fuerte",
+                                "10× Garra de Argentavis",
+                                "5× Grasa de Basilosaurio",
+                                "10× Toxina de Megalania",
+                                "10× Diente de Megalodón",
+                                "10× Piel de Sarcosuchus",
+                                "10× Vértebra de saurópodo",
+                                "10× Aleta dorsal de Espinosaurio",
+                                "10× Garra de Thylacoleo",
+                                "10× Veneno de Titanoboa",
+                                "10× Tentáculo de Tusoteuthis"
                             ],
                             "tek": [
                                 "Todo lo de Gamma, más:",
-                                "Medium Tek Teleporter",
-                                "Tek Dedicated Storage",
-                                "Tek Doors & Windows",
-                                "Tek Fence Foundation & Support",
-                                "Tek Forcefield",
-                                "Tek Rifle",
-                                "Tek Roof, Ramp & Stairs",
-                                "Tek Sword",
-                                "Tek Transmitter",
-                                "Vacuum Compartment & Moonpool"
+                                "Teletransportador Tek mediano",
+                                "Almacén especializado Tek",
+                                "Puertas y ventanas Tek",
+                                "Cimiento y soporte de valla Tek",
+                                "Campo de fuerza Tek",
+                                "Rifle Tek",
+                                "Tejado, rampa y escaleras Tek",
+                                "Espada Tek",
+                                "Transmisor Tek",
+                                "Compartimento de vacío y piscina lunar"
                             ]
                         },
                         {
                             "label": "Alfa (difícil)",
                             "level": "90",
                             "tributes": [
-                                "1× Artifact of the Clever",
-                                "1× Artifact of the Cunning",
-                                "1× Artifact of the Devious",
-                                "1× Artifact of the Devourer",
-                                "1× Artifact of the Hunter",
-                                "1× Artifact of the Immune",
-                                "1× Artifact of the Massive",
-                                "1× Artifact of the Pack",
-                                "1× Artifact of the Skylord",
-                                "1× Artifact of the Strong",
-                                "25× Argentavis Talon",
-                                "10× Basilosaurus Blubber",
-                                "25× Megalania Toxin",
-                                "25× Megalodon Tooth",
-                                "25× Sarcosuchus Skin",
-                                "25× Sauropod Vertebra",
-                                "25× Spinosaurus Sail",
-                                "25× Thylacoleo Hook-Claw",
-                                "25× Titanoboa Venom",
-                                "25× Tusoteuthis Tentacle"
+                                "1× Artefacto del Astuto",
+                                "1× Artefacto de la Astucia",
+                                "1× Artefacto del Engaño",
+                                "1× Artefacto del Devorador",
+                                "1× Artefacto del Cazador",
+                                "1× Artefacto del Inmune",
+                                "1× Artefacto de la Inmensidad",
+                                "1× Artefacto de la Manada",
+                                "1× Artefacto del Señor de los Cielos",
+                                "1× Artefacto del Fuerte",
+                                "25× Garra de Argentavis",
+                                "10× Grasa de Basilosaurio",
+                                "25× Toxina de Megalania",
+                                "25× Diente de Megalodón",
+                                "25× Piel de Sarcosuchus",
+                                "25× Vértebra de saurópodo",
+                                "25× Aleta dorsal de Espinosaurio",
+                                "25× Garra de Thylacoleo",
+                                "25× Veneno de Titanoboa",
+                                "25× Tentáculo de Tusoteuthis"
                             ],
                             "tek": [
                                 "Todo lo de Beta, más:",
-                                "Large Tek Teleporter",
-                                "Tek Chestpiece",
-                                "Tek Cloning Chamber",
-                                "Tek Grenade",
-                                "Tek Shield"
+                                "Teletransportador Tek grande",
+                                "Pechera Tek",
+                                "Cámara de clonación Tek",
+                                "Granada Tek",
+                                "Escudo Tek"
                             ]
                         }
                     ],
@@ -417,64 +417,64 @@
                             "label": "Gamma (fácil)",
                             "level": "30",
                             "tributes": [
-                                "1× Artifact of the Clever",
-                                "1× Artifact of the Hunter",
-                                "1× Artifact of the Massive"
+                                "1× Artefacto del Astuto",
+                                "1× Artefacto del Cazador",
+                                "1× Artefacto de la Inmensidad"
                             ],
                             "tek": [
-                                "Tek Foundation",
-                                "Tek Quarter & Triangle Ceiling",
-                                "Tek Replicator",
-                                "Tek Triangle & Quarter Foundation",
-                                "Tek Triangle Roof & Corner"
+                                "Cimiento Tek",
+                                "Techo Tek de cuarto y triangular",
+                                "Impresora 3D Tek",
+                                "Cimiento Tek triangular y de cuarto",
+                                "Tejado triangular y esquina Tek"
                             ]
                         },
                         {
                             "label": "Beta (media)",
                             "level": "50",
                             "tributes": [
-                                "1× Artifact of the Clever",
-                                "1× Artifact of the Hunter",
-                                "1× Artifact of the Massive",
-                                "5× Argentavis Talon",
-                                "5× Sarcosuchus Skin",
-                                "5× Sauropod Vertebra",
-                                "5× Titanoboa Venom"
+                                "1× Artefacto del Astuto",
+                                "1× Artefacto del Cazador",
+                                "1× Artefacto de la Inmensidad",
+                                "5× Garra de Argentavis",
+                                "5× Piel de Sarcosuchus",
+                                "5× Vértebra de saurópodo",
+                                "5× Veneno de Titanoboa"
                             ],
                             "tek": [
                                 "Todo lo de Gamma, más:",
-                                "Tek Boots",
-                                "Tek Ceiling & Hatchframe",
-                                "Tek Fence Foundation & Support",
-                                "Tek Ladder",
-                                "Tek Pillar",
-                                "Tek Quarter Wall & Railing",
-                                "Tek Roof, Ramp & Stairs",
-                                "Tek Sloped Wall",
-                                "Tek Wall, Doorways & Windowframe"
+                                "Botas Tek",
+                                "Techo y marco de trampilla Tek",
+                                "Cimiento y soporte de valla Tek",
+                                "Escalera de mano Tek",
+                                "Pilar Tek",
+                                "Cuarto de pared y barandilla Tek",
+                                "Tejado, rampa y escaleras Tek",
+                                "Pared inclinada Tek",
+                                "Pared, marco de puerta y de ventana Tek"
                             ]
                         },
                         {
                             "label": "Alfa (difícil)",
                             "level": "70",
                             "tributes": [
-                                "1× Artifact of the Clever",
-                                "1× Artifact of the Hunter",
-                                "1× Artifact of the Massive",
-                                "10× Argentavis Talon",
-                                "10× Sarcosuchus Skin",
-                                "10× Sauropod Vertebra",
-                                "10× Titanoboa Venom"
+                                "1× Artefacto del Astuto",
+                                "1× Artefacto del Cazador",
+                                "1× Artefacto de la Inmensidad",
+                                "10× Garra de Argentavis",
+                                "10× Piel de Sarcosuchus",
+                                "10× Vértebra de saurópodo",
+                                "10× Veneno de Titanoboa"
                             ],
                             "tek": [
                                 "Todo lo de Beta, más:",
-                                "Mosasaur Tek Saddle",
-                                "Tek Helmet",
-                                "Tek Turret"
+                                "Montura Tek de Mosasaurio",
+                                "Casco Tek",
+                                "Torreta Tek"
                             ]
                         }
                     ],
-                    "tips": "Usa los mismos tributos que la Broodmother y da los mismos engramas."
+                    "tips": "Usa los mismos tributos que la Matriarca (Broodmother) y da los mismos engramas."
                 },
                 {
                     "name": "Thodes",
@@ -485,57 +485,57 @@
                             "label": "Gamma (fácil)",
                             "level": "45",
                             "tributes": [
-                                "1× Artifact of the Brute",
-                                "1× Artifact of the Pack",
-                                "1× Artifact of the Devourer"
+                                "1× Artefacto del Bruto",
+                                "1× Artefacto de la Manada",
+                                "1× Artefacto del Devorador"
                             ],
                             "tek": [
-                                "Tek Doors & Windows",
-                                "Tek Gauntlets",
-                                "Tek Replicator"
+                                "Puertas y ventanas Tek",
+                                "Guantes Tek",
+                                "Impresora 3D Tek"
                             ]
                         },
                         {
                             "label": "Beta (media)",
                             "level": "65",
                             "tributes": [
-                                "1× Artifact of the Brute",
-                                "1× Artifact of the Pack",
-                                "1× Artifact of the Devourer",
-                                "5× Megalodon Tooth",
-                                "5× Megalania Toxin",
-                                "5× Spinosaurus Sail",
-                                "5× Therizino Claws",
-                                "5× Thylacoleo Hook-Claw"
+                                "1× Artefacto del Bruto",
+                                "1× Artefacto de la Manada",
+                                "1× Artefacto del Devorador",
+                                "5× Diente de Megalodón",
+                                "5× Toxina de Megalania",
+                                "5× Aleta dorsal de Espinosaurio",
+                                "5× Garras de Tericinosaurio",
+                                "5× Garra de Thylacoleo"
                             ],
                             "tek": [
                                 "Todo lo de Gamma, más:",
-                                "Tek Gate",
-                                "Tek Gateway",
-                                "Tek Generator",
-                                "Tek Large Cellar Door",
-                                "Tek Rifle",
-                                "Tek Trough"
+                                "Puerta Tek para dinosaurios",
+                                "Marco de puerta Tek para dinosaurios",
+                                "Generador Tek",
+                                "Puerta de sótano grande Tek",
+                                "Rifle Tek",
+                                "Comedero Tek"
                             ]
                         },
                         {
                             "label": "Alfa (difícil)",
                             "level": "85",
                             "tributes": [
-                                "1× Artifact of the Brute",
-                                "1× Artifact of the Pack",
-                                "1× Artifact of the Devourer",
-                                "10× Megalodon Tooth",
-                                "10× Megalania Toxin",
-                                "10× Spinosaurus Sail",
-                                "10× Therizino Claws",
-                                "10× Thylacoleo Hook-Claw"
+                                "1× Artefacto del Bruto",
+                                "1× Artefacto de la Manada",
+                                "1× Artefacto del Devorador",
+                                "10× Diente de Megalodón",
+                                "10× Toxina de Megalania",
+                                "10× Aleta dorsal de Espinosaurio",
+                                "10× Garras de Tericinosaurio",
+                                "10× Garra de Thylacoleo"
                             ],
                             "tek": [
                                 "Todo lo de Beta, más:",
-                                "Rex Tek Saddle",
-                                "Tek Grenade",
-                                "Tek Large Wall"
+                                "Montura Tek de Tiranosaurio Rex",
+                                "Granada Tek",
+                                "Pared grande Tek"
                             ]
                         }
                     ],
@@ -550,69 +550,69 @@
                             "label": "Gamma (fácil)",
                             "level": "55",
                             "tributes": [
-                                "1× Artifact of the Cunning",
-                                "1× Artifact of the Immune",
-                                "1× Artifact of the Skylord",
-                                "1× Artifact of the Strong"
+                                "1× Artefacto de la Astucia",
+                                "1× Artefacto del Inmune",
+                                "1× Artefacto del Señor de los Cielos",
+                                "1× Artefacto del Fuerte"
                             ],
                             "tek": [
-                                "Megalodon Tek Saddle",
-                                "Small Tek Teleporter",
-                                "Tapejara Tek Saddle",
-                                "Tek Behemoth Cellar Door",
-                                "Tek Behemoth Gate",
-                                "Tek Behemoth Gateway",
-                                "Tek Leggings",
-                                "Tek Replicator"
+                                "Montura Tek de Megalodón",
+                                "Teletransportador Tek pequeño",
+                                "Montura Tek de Tapejara",
+                                "Puerta de sótano colosal Tek",
+                                "Puerta colosal Tek",
+                                "Marco colosal Tek",
+                                "Pantalones Tek",
+                                "Impresora 3D Tek"
                             ]
                         },
                         {
                             "label": "Beta (media)",
                             "level": "75",
                             "tributes": [
-                                "1× Artifact of the Cunning",
-                                "1× Artifact of the Immune",
-                                "1× Artifact of the Skylord",
-                                "1× Artifact of the Strong",
-                                "5× Allosaurus Brain",
-                                "5× Basilosaurus Blubber",
-                                "1× Giganotosaurus Heart",
-                                "5× Tusoteuthis Tentacle",
-                                "5× Tyrannosaurus Arm",
-                                "5× Yutyrannus Lungs"
+                                "1× Artefacto de la Astucia",
+                                "1× Artefacto del Inmune",
+                                "1× Artefacto del Señor de los Cielos",
+                                "1× Artefacto del Fuerte",
+                                "5× Cerebro de Alosaurio",
+                                "5× Grasa de Basilosaurio",
+                                "1× Corazón de Giganotosaurio",
+                                "5× Tentáculo de Tusoteuthis",
+                                "5× Brazo de Tiranosaurio",
+                                "5× Pulmones de Yutirano"
                             ],
                             "tek": [
                                 "Todo lo de Gamma, más:",
-                                "Medium Tek Teleporter",
-                                "Tek Dedicated Storage",
-                                "Tek Doors & Windows",
-                                "Tek Fence Foundation & Support",
-                                "Tek Forcefield",
-                                "Tek Roof, Ramp & Stairs",
-                                "Tek Transmitter",
-                                "Vacuum Compartment & Moonpool"
+                                "Teletransportador Tek mediano",
+                                "Almacén especializado Tek",
+                                "Puertas y ventanas Tek",
+                                "Cimiento y soporte de valla Tek",
+                                "Campo de fuerza Tek",
+                                "Tejado, rampa y escaleras Tek",
+                                "Transmisor Tek",
+                                "Compartimento de vacío y piscina lunar"
                             ]
                         },
                         {
                             "label": "Alfa (difícil)",
                             "level": "100",
                             "tributes": [
-                                "1× Artifact of the Cunning",
-                                "1× Artifact of the Immune",
-                                "1× Artifact of the Skylord",
-                                "1× Artifact of the Strong",
-                                "10× Allosaurus Brain",
-                                "10× Basilosaurus Blubber",
-                                "2× Giganotosaurus Heart",
-                                "10× Tusoteuthis Tentacle",
-                                "15× Tyrannosaurus Arm",
-                                "10× Yutyrannus Lungs"
+                                "1× Artefacto de la Astucia",
+                                "1× Artefacto del Inmune",
+                                "1× Artefacto del Señor de los Cielos",
+                                "1× Artefacto del Fuerte",
+                                "10× Cerebro de Alosaurio",
+                                "10× Grasa de Basilosaurio",
+                                "2× Corazón de Giganotosaurio",
+                                "10× Tentáculo de Tusoteuthis",
+                                "15× Brazo de Tiranosaurio",
+                                "10× Pulmones de Yutirano"
                             ],
                             "tek": [
                                 "Todo lo de Beta, más:",
-                                "Large Tek Teleporter",
-                                "Tek Chestpiece",
-                                "Tek Cloning Chamber"
+                                "Teletransportador Tek grande",
+                                "Pechera Tek",
+                                "Cámara de clonación Tek"
                             ]
                         }
                     ],
@@ -627,57 +627,57 @@
                             "label": "Gamma (fácil)",
                             "level": "60",
                             "tributes": [
-                                "60× Hex Coins",
-                                "1× Gamma Natrix Trophy",
-                                "1× Gamma Thodes Trophy",
-                                "1× Gamma Hydraskos Trophy"
+                                "60× Monedas Hex",
+                                "1× Trofeo: Natrix (Gamma)",
+                                "1× Trofeo: Thodes (Gamma)",
+                                "1× Trofeo: Hydraskos (Gamma)"
                             ],
                             "tek": [
-                                "Small Tek Teleporter",
-                                "Tek Gauntlets",
-                                "Tek Generator",
-                                "Tek Leggings",
-                                "Tek Replicator",
-                                "Tek Sleeping Pod",
-                                "Tek Trough"
+                                "Teletransportador Tek pequeño",
+                                "Guantes Tek",
+                                "Generador Tek",
+                                "Pantalones Tek",
+                                "Impresora 3D Tek",
+                                "Cápsula de sueño Tek",
+                                "Comedero Tek"
                             ]
                         },
                         {
                             "label": "Beta (media)",
                             "level": "75",
                             "tributes": [
-                                "150× Hex Coins",
-                                "1× Beta Natrix Trophy",
-                                "1× Beta Thodes Trophy",
-                                "1× Beta Hydraskos Trophy"
+                                "150× Monedas Hex",
+                                "1× Trofeo: Natrix (Beta)",
+                                "1× Trofeo: Thodes (Beta)",
+                                "1× Trofeo: Hydraskos (Beta)"
                             ],
                             "tek": [
                                 "Todo lo de Gamma, más:",
-                                "Medium Tek Teleporter",
-                                "Rock Drake Tek Saddle",
-                                "Tek Boots",
-                                "Tek Chestpiece",
-                                "Tek Dedicated Storage",
-                                "Tek Helmet",
-                                "Tek Rifle"
+                                "Teletransportador Tek mediano",
+                                "Montura Tek de Dragón de Roca",
+                                "Botas Tek",
+                                "Pechera Tek",
+                                "Almacén especializado Tek",
+                                "Casco Tek",
+                                "Rifle Tek"
                             ]
                         },
                         {
                             "label": "Alfa (difícil)",
                             "level": "100",
                             "tributes": [
-                                "300× Hex Coins",
-                                "1× Alpha Natrix Trophy",
-                                "1× Alpha Thodes Trophy",
-                                "1× Alpha Hydraskos Trophy"
+                                "300× Monedas Hex",
+                                "1× Trofeo: Natrix (Alfa)",
+                                "1× Trofeo: Thodes (Alfa)",
+                                "1× Trofeo: Hydraskos (Alfa)"
                             ],
                             "tek": [
                                 "Todo lo de Beta, más:",
-                                "Large Tek Teleporter",
-                                "Rex Tek Saddle",
-                                "Tek Cloning Chamber",
-                                "Tek Forcefield",
-                                "Tek Railgun"
+                                "Teletransportador Tek grande",
+                                "Montura Tek de Tiranosaurio Rex",
+                                "Cámara de clonación Tek",
+                                "Campo de fuerza Tek",
+                                "Cañón electromagnético Tek"
                             ]
                         }
                     ],
@@ -692,57 +692,57 @@
                             "label": "Gamma (fácil)",
                             "level": "60",
                             "tributes": [
-                                "20× Astral Soul",
-                                "1× Gamma Natrix Trophy",
-                                "1× Gamma Thodes Trophy",
-                                "1× Gamma Hydraskos Trophy"
+                                "20× Alma Astral",
+                                "1× Trofeo: Natrix (Gamma)",
+                                "1× Trofeo: Thodes (Gamma)",
+                                "1× Trofeo: Hydraskos (Gamma)"
                             ],
                             "tek": [
-                                "Small Tek Teleporter",
-                                "Tek Gauntlets",
-                                "Tek Generator",
-                                "Tek Leggings",
-                                "Tek Replicator",
-                                "Tek Sleeping Pod",
-                                "Tek Trough"
+                                "Teletransportador Tek pequeño",
+                                "Guantes Tek",
+                                "Generador Tek",
+                                "Pantalones Tek",
+                                "Impresora 3D Tek",
+                                "Cápsula de sueño Tek",
+                                "Comedero Tek"
                             ]
                         },
                         {
                             "label": "Beta (media)",
                             "level": "75",
                             "tributes": [
-                                "50× Astral Soul",
-                                "1× Beta Natrix Trophy",
-                                "1× Beta Thodes Trophy",
-                                "1× Beta Hydraskos Trophy"
+                                "50× Alma Astral",
+                                "1× Trofeo: Natrix (Beta)",
+                                "1× Trofeo: Thodes (Beta)",
+                                "1× Trofeo: Hydraskos (Beta)"
                             ],
                             "tek": [
                                 "Todo lo de Gamma, más:",
-                                "Medium Tek Teleporter",
-                                "Rock Drake Tek Saddle",
-                                "Tek Boots",
-                                "Tek Chestpiece",
-                                "Tek Dedicated Storage",
-                                "Tek Helmet",
-                                "Tek Rifle"
+                                "Teletransportador Tek mediano",
+                                "Montura Tek de Dragón de Roca",
+                                "Botas Tek",
+                                "Pechera Tek",
+                                "Almacén especializado Tek",
+                                "Casco Tek",
+                                "Rifle Tek"
                             ]
                         },
                         {
                             "label": "Alfa (difícil)",
                             "level": "100",
                             "tributes": [
-                                "100× Astral Soul",
-                                "1× Alpha Natrix Trophy",
-                                "1× Alpha Thodes Trophy",
-                                "1× Alpha Hydraskos Trophy"
+                                "100× Alma Astral",
+                                "1× Trofeo: Natrix (Alfa)",
+                                "1× Trofeo: Thodes (Alfa)",
+                                "1× Trofeo: Hydraskos (Alfa)"
                             ],
                             "tek": [
                                 "Todo lo de Beta, más:",
-                                "Large Tek Teleporter",
-                                "Rex Tek Saddle",
-                                "Tek Cloning Chamber",
-                                "Tek Forcefield",
-                                "Tek Railgun"
+                                "Teletransportador Tek grande",
+                                "Montura Tek de Tiranosaurio Rex",
+                                "Cámara de clonación Tek",
+                                "Campo de fuerza Tek",
+                                "Cañón electromagnético Tek"
                             ]
                         }
                     ],
@@ -757,11 +757,11 @@
                             "label": "Única",
                             "level": "",
                             "tributes": [
-                                "2× Corrupt Heart",
-                                "1× Alpha Rex Trophy",
-                                "5× Alpha Raptor Claw",
-                                "10× Acro Adrenal Gland",
-                                "10× Astral Soul"
+                                "2× Corazón Corrompido",
+                                "1× Trofeo: Rex Alfa",
+                                "5× Garra de Raptor Alfa",
+                                "10× Glándula suprarrenal de Acrocantosaurio",
+                                "10× Alma Astral"
                             ],
                             "tek": []
                         }
@@ -777,12 +777,12 @@
                             "label": "Única",
                             "level": "",
                             "tributes": [
-                                "5× Corrupt Heart",
-                                "5× Fire Talon",
-                                "1× Giganotosaurus Heart",
-                                "10× Boaratos Tusk",
-                                "3× Flaming Boaratos Tusk",
-                                "10× Astral Soul"
+                                "5× Corazón Corrompido",
+                                "5× Garra de Guiverno de Fuego",
+                                "1× Corazón de Giganotosaurio",
+                                "10× Colmillo de Boaratos",
+                                "3× Colmillo de Boaratos Llameante",
+                                "10× Alma Astral"
                             ],
                             "tek": []
                         }
@@ -798,11 +798,11 @@
                             "label": "Única",
                             "level": "",
                             "tributes": [
-                                "2× Corrupt Heart",
-                                "25× Corrupted Nodule",
-                                "5× Lightning Talon",
-                                "25× Megalodon Tooth",
-                                "10× Thylacoleo Hook-Claw"
+                                "2× Corazón Corrompido",
+                                "25× Nódulo Corrupto",
+                                "5× Garra de Guiverno Eléctrico",
+                                "25× Diente de Megalodón",
+                                "10× Garra de Thylacoleo"
                             ],
                             "tek": []
                         }
@@ -818,11 +818,11 @@
                             "label": "Única",
                             "level": "",
                             "tributes": [
-                                "2× Corrupt Heart",
-                                "25× Corrupted Nodule",
-                                "5× Fire Talon",
-                                "5× Poison Talon",
-                                "10× Therizino Claws"
+                                "2× Corazón Corrompido",
+                                "25× Nódulo Corrupto",
+                                "5× Garra de Guiverno de Fuego",
+                                "5× Garra de Guiverno Venenoso",
+                                "10× Garras de Tericinosaurio"
                             ],
                             "tek": []
                         }
@@ -852,10 +852,10 @@
                             "level": "",
                             "tributes": [],
                             "tek": [
-                                "Small Tek Teleporter",
-                                "Tek Generator",
-                                "Tek Sensor",
-                                "Tek Trough"
+                                "Teletransportador Tek pequeño",
+                                "Generador Tek",
+                                "Sensor Tek",
+                                "Comedero Tek"
                             ]
                         },
                         {
@@ -864,10 +864,10 @@
                             "tributes": [],
                             "tek": [
                                 "Todo lo de Gamma, más:",
-                                "Medium Tek Teleporter",
-                                "Tek Boots",
-                                "Tek Gauntlets",
-                                "Tek Helmet"
+                                "Teletransportador Tek mediano",
+                                "Botas Tek",
+                                "Guantes Tek",
+                                "Casco Tek"
                             ]
                         },
                         {
@@ -876,9 +876,9 @@
                             "tributes": [],
                             "tek": [
                                 "Todo lo de Beta, más:",
-                                "Large Tek Teleporter",
-                                "Tek Forcefield",
-                                "Tek Grenade Launcher"
+                                "Teletransportador Tek grande",
+                                "Campo de fuerza Tek",
+                                "Lanzagranadas Tek"
                             ]
                         }
                     ],
@@ -894,11 +894,11 @@
                             "level": "",
                             "tributes": [],
                             "tek": [
-                                "Gamma Terran Ascension Implant",
-                                "Tek Claws",
-                                "Tek Dedicated Storage",
-                                "Tek Replicator",
-                                "Unassembled TEK Hover Skiff"
+                                "Implante de Ascensión Terrana Gamma",
+                                "Garras Tek",
+                                "Almacén especializado Tek",
+                                "Impresora 3D Tek",
+                                "Deslizador TEK desmontado"
                             ]
                         },
                         {
@@ -907,10 +907,10 @@
                             "tributes": [],
                             "tek": [
                                 "Todo lo de Gamma, más:",
-                                "Astrocetus Tek Saddle",
-                                "Beta Terran Ascension Implant",
-                                "Tek Leggings",
-                                "Tek Shoulder Cannon"
+                                "Montura Tek de Astrocetus",
+                                "Implante de Ascensión Terrana Beta",
+                                "Pantalones Tek",
+                                "Cañón de hombro Tek"
                             ]
                         },
                         {
@@ -919,9 +919,9 @@
                             "tributes": [],
                             "tek": [
                                 "Todo lo de Beta, más:",
-                                "Alpha Terran Ascension Implant",
-                                "Cruise Missile",
-                                "Tek Chestpiece"
+                                "Implante de Ascensión Terrana Alfa",
+                                "Misil de crucero",
+                                "Pechera Tek"
                             ]
                         }
                     ],
@@ -942,59 +942,59 @@
                             "label": "Gamma (fácil)",
                             "level": "55",
                             "tributes": [
-                                "2× Fire Talon",
-                                "2× Lightning Talon",
-                                "2× Poison Talon",
-                                "1× Artifact of the Gatekeeper",
-                                "1× Artifact of the Crag",
-                                "1× Artifact of the Destroyer"
+                                "2× Garra de Guiverno de Fuego",
+                                "2× Garra de Guiverno Eléctrico",
+                                "2× Garra de Guiverno Venenoso",
+                                "1× Artefacto del Guardián",
+                                "1× Artefacto del Risco",
+                                "1× Artefacto del Destructor"
                             ],
                             "tek": [
-                                "Small Tek Teleporter",
-                                "Tek Gauntlets",
-                                "Tek Generator",
-                                "Tek Leggings",
-                                "Tek Replicator",
-                                "Tek Trough"
+                                "Teletransportador Tek pequeño",
+                                "Guantes Tek",
+                                "Generador Tek",
+                                "Pantalones Tek",
+                                "Impresora 3D Tek",
+                                "Comedero Tek"
                             ]
                         },
                         {
                             "label": "Beta (media)",
                             "level": "70",
                             "tributes": [
-                                "10× Fire Talon",
-                                "10× Lightning Talon",
-                                "10× Poison Talon",
-                                "1× Artifact of the Gatekeeper",
-                                "1× Artifact of the Crag",
-                                "1× Artifact of the Destroyer"
+                                "10× Garra de Guiverno de Fuego",
+                                "10× Garra de Guiverno Eléctrico",
+                                "10× Garra de Guiverno Venenoso",
+                                "1× Artefacto del Guardián",
+                                "1× Artefacto del Risco",
+                                "1× Artefacto del Destructor"
                             ],
                             "tek": [
                                 "Todo lo de Gamma, más:",
-                                "Medium Tek Teleporter",
-                                "Tapejara Tek Saddle",
-                                "Tek Dedicated Storage",
-                                "Tek Rifle"
+                                "Teletransportador Tek mediano",
+                                "Montura Tek de Tapejara",
+                                "Almacén especializado Tek",
+                                "Rifle Tek"
                             ]
                         },
                         {
                             "label": "Alfa (difícil)",
                             "level": "95",
                             "tributes": [
-                                "20× Fire Talon",
-                                "20× Lightning Talon",
-                                "20× Poison Talon",
-                                "1× Artifact of the Gatekeeper",
-                                "1× Artifact of the Crag",
-                                "1× Artifact of the Destroyer"
+                                "20× Garra de Guiverno de Fuego",
+                                "20× Garra de Guiverno Eléctrico",
+                                "20× Garra de Guiverno Venenoso",
+                                "1× Artefacto del Guardián",
+                                "1× Artefacto del Risco",
+                                "1× Artefacto del Destructor"
                             ],
                             "tek": [
                                 "Todo lo de Beta, más:",
-                                "Large Tek Teleporter",
-                                "Rex Tek Saddle",
-                                "Tek Cloning Chamber",
-                                "Tek Forcefield",
-                                "Tek Grenade"
+                                "Teletransportador Tek grande",
+                                "Montura Tek de Tiranosaurio Rex",
+                                "Cámara de clonación Tek",
+                                "Campo de fuerza Tek",
+                                "Granada Tek"
                             ]
                         }
                     ],
@@ -1015,18 +1015,18 @@
                             "label": "Única",
                             "level": "",
                             "tributes": [
-                                "1× Artifact of Chaos",
-                                "100× Corrupt Heart",
-                                "10× Fire Talon",
-                                "10× Sarcosuchus Skin"
+                                "1× Artefacto del Caos",
+                                "100× Corazón Corrompido",
+                                "10× Garra de Guiverno de Fuego",
+                                "10× Piel de Sarcosuchus"
                             ],
                             "tek": [
-                                "Tek Boots",
-                                "Tek Dedicated Storage",
-                                "Tek Generator",
-                                "Tek Railgun",
-                                "Tek Replicator",
-                                "Tek Trough"
+                                "Botas Tek",
+                                "Almacén especializado Tek",
+                                "Generador Tek",
+                                "Cañón electromagnético Tek",
+                                "Impresora 3D Tek",
+                                "Comedero Tek"
                             ]
                         }
                     ],
@@ -1041,20 +1041,20 @@
                             "label": "Única",
                             "level": "",
                             "tributes": [
-                                "1× Artifact of Growth",
-                                "100× Corrupt Heart",
-                                "10× Sauropod Vertebra",
-                                "10× Tyrannosaurus Arm"
+                                "1× Artefacto del Crecimiento",
+                                "100× Corazón Corrompido",
+                                "10× Vértebra de saurópodo",
+                                "10× Brazo de Tiranosaurio"
                             ],
                             "tek": [
-                                "Large Tek Teleporter",
-                                "Medium Tek Teleporter",
-                                "Rex Tek Saddle",
-                                "Small Tek Teleporter",
-                                "Tek Gauntlets",
-                                "Tek Leggings",
-                                "Tek Replicator",
-                                "Tek Sword"
+                                "Teletransportador Tek grande",
+                                "Teletransportador Tek mediano",
+                                "Montura Tek de Tiranosaurio Rex",
+                                "Teletransportador Tek pequeño",
+                                "Guantes Tek",
+                                "Pantalones Tek",
+                                "Impresora 3D Tek",
+                                "Espada Tek"
                             ]
                         }
                     ],
@@ -1069,18 +1069,18 @@
                             "label": "Única",
                             "level": "",
                             "tributes": [
-                                "1× Artifact of the Void",
-                                "100× Corrupt Heart",
-                                "10× Spinosaurus Sail",
-                                "10× Therizino Claws"
+                                "1× Artefacto del Vacío",
+                                "100× Corazón Corrompido",
+                                "10× Aleta dorsal de Espinosaurio",
+                                "10× Garras de Tericinosaurio"
                             ],
                             "tek": [
-                                "Tapejara Tek Saddle",
-                                "Tek Chestpiece",
-                                "Tek Forcefield",
-                                "Tek Helmet",
-                                "Tek Replicator",
-                                "Tek Rifle"
+                                "Montura Tek de Tapejara",
+                                "Pechera Tek",
+                                "Campo de fuerza Tek",
+                                "Casco Tek",
+                                "Impresora 3D Tek",
+                                "Rifle Tek"
                             ]
                         }
                     ],
@@ -1095,28 +1095,28 @@
                             "label": "Gamma (fácil)",
                             "level": "",
                             "tributes": [
-                                "5× Alpha Tyrannosaur Tooth",
-                                "150× Corrupt Heart",
-                                "10× Titanoboa Venom",
-                                "1× Desert Titan Trophy",
-                                "1× Forest Titan Trophy",
-                                "1× Ice Titan Trophy"
+                                "5× Diente de Tiranosaurio Alfa",
+                                "150× Corazón Corrompido",
+                                "10× Veneno de Titanoboa",
+                                "1× Trofeo: Titán del Desierto",
+                                "1× Trofeo: Titán del Bosque",
+                                "1× Trofeo: Titán de Hielo"
                             ],
                             "tek": [
-                                "Homo Deus Record"
+                                "Registro Homo Deus"
                             ]
                         },
                         {
                             "label": "Beta (media)",
                             "level": "",
                             "tributes": [
-                                "10× Alpha Tyrannosaur Tooth",
-                                "300× Corrupt Heart",
-                                "20× Titanoboa Venom",
-                                "1× Desert Titan Trophy",
-                                "1× Forest Titan Trophy",
-                                "1× Ice Titan Trophy",
-                                "1× King Titan Trophy (Gamma)"
+                                "10× Diente de Tiranosaurio Alfa",
+                                "300× Corazón Corrompido",
+                                "20× Veneno de Titanoboa",
+                                "1× Trofeo: Titán del Desierto",
+                                "1× Trofeo: Titán del Bosque",
+                                "1× Trofeo: Titán de Hielo",
+                                "1× Trofeo: Rey Titán (Gamma)"
                             ],
                             "tek": [
                                 "Lo mismo que en Gamma"
@@ -1126,15 +1126,15 @@
                             "label": "Alfa (difícil)",
                             "level": "",
                             "tributes": [
-                                "10× Alpha Tyrannosaur Tooth",
-                                "300× Corrupt Heart",
-                                "20× Giganotosaurus Heart",
-                                "20× Spinosaurus Sail",
-                                "20× Titanoboa Venom",
-                                "1× Desert Titan Trophy",
-                                "1× Forest Titan Trophy",
-                                "1× Ice Titan Trophy",
-                                "1× King Titan Trophy (Beta)"
+                                "10× Diente de Tiranosaurio Alfa",
+                                "300× Corazón Corrompido",
+                                "20× Corazón de Giganotosaurio",
+                                "20× Aleta dorsal de Espinosaurio",
+                                "20× Veneno de Titanoboa",
+                                "1× Trofeo: Titán del Desierto",
+                                "1× Trofeo: Titán del Bosque",
+                                "1× Trofeo: Titán de Hielo",
+                                "1× Trofeo: Rey Titán (Beta)"
                             ],
                             "tek": [
                                 "Lo mismo que en Gamma"
@@ -1158,62 +1158,62 @@
                             "label": "Gamma (fácil)",
                             "level": "55",
                             "tributes": [
-                                "1× Alpha Zombie Brains",
-                                "5× Neophyte Horns",
-                                "100× Minor Aberrant Sigil",
-                                "100× Minor Crimson Sigil"
+                                "1× Cerebro de Zombi Alfa",
+                                "5× Cuernos de Neófito",
+                                "100× Sello Aberrante Menor",
+                                "100× Sello Carmesí Menor"
                             ],
                             "tek": [
-                                "Gigadesmodus Platform Saddle",
-                                "Gigadesmodus Saddle",
-                                "Small Tek Teleporter",
-                                "Tek Gauntlets",
-                                "Tek Generator",
-                                "Tek Leggings",
-                                "Tek Replicator",
-                                "Tek Sleeping Pod",
-                                "Tek Spear",
-                                "Tek Trough"
+                                "Montura de plataforma de Gigadesmodus",
+                                "Montura de Gigadesmodus",
+                                "Teletransportador Tek pequeño",
+                                "Guantes Tek",
+                                "Generador Tek",
+                                "Pantalones Tek",
+                                "Impresora 3D Tek",
+                                "Cápsula de sueño Tek",
+                                "Lanza Tek",
+                                "Comedero Tek"
                             ]
                         },
                         {
                             "label": "Beta (media)",
                             "level": "70",
                             "tributes": [
-                                "1× Alpha Ossidon Skull",
-                                "5× Alpha Zombie Brains",
-                                "10× Neophyte Horns",
-                                "150× Greater Aberrant Sigil",
-                                "150× Greater Crimson Sigil"
+                                "1× Cráneo de Ossidón Alfa",
+                                "5× Cerebro de Zombi Alfa",
+                                "10× Cuernos de Neófito",
+                                "150× Sello Aberrante Mayor",
+                                "150× Sello Carmesí Mayor"
                             ],
                             "tek": [
                                 "Todo lo de Gamma, más:",
-                                "Medium Tek Teleporter",
-                                "Tek Boots",
-                                "Tek Chestpiece",
-                                "Tek Dedicated Storage",
-                                "Tek Helmet",
-                                "Tek Rifle"
+                                "Teletransportador Tek mediano",
+                                "Botas Tek",
+                                "Pechera Tek",
+                                "Almacén especializado Tek",
+                                "Casco Tek",
+                                "Rifle Tek"
                             ]
                         },
                         {
                             "label": "Alfa (difícil)",
                             "level": "95",
                             "tributes": [
-                                "5× Alpha Ossidon Skull",
-                                "10× Alpha Zombie Brains",
-                                "15× Neophyte Horns",
-                                "200× Prime Aberrant Sigil",
-                                "200× Prime Crimson Sigil"
+                                "5× Cráneo de Ossidón Alfa",
+                                "10× Cerebro de Zombi Alfa",
+                                "15× Cuernos de Neófito",
+                                "200× Sello Aberrante Supremo",
+                                "200× Sello Carmesí Supremo"
                             ],
                             "tek": [
                                 "Todo lo de Beta, más:",
-                                "Large Tek Teleporter",
-                                "Rex Tek Saddle",
-                                "Tek Cloning Chamber",
-                                "Tek Forcefield",
-                                "Tek Railgun",
-                                "Tek Shield"
+                                "Teletransportador Tek grande",
+                                "Montura Tek de Tiranosaurio Rex",
+                                "Cámara de clonación Tek",
+                                "Campo de fuerza Tek",
+                                "Cañón electromagnético Tek",
+                                "Escudo Tek"
                             ]
                         }
                     ],
@@ -1228,62 +1228,62 @@
                             "label": "Gamma (fácil)",
                             "level": "55",
                             "tributes": [
-                                "1× Alpha Zombie Brains",
-                                "5× Neophyte Horns",
-                                "100× Minor Aberrant Sigil",
-                                "100× Minor Crimson Sigil"
+                                "1× Cerebro de Zombi Alfa",
+                                "5× Cuernos de Neófito",
+                                "100× Sello Aberrante Menor",
+                                "100× Sello Carmesí Menor"
                             ],
                             "tek": [
-                                "Gigadesmodus Platform Saddle",
-                                "Gigadesmodus Saddle",
-                                "Small Tek Teleporter",
-                                "Tek Gauntlets",
-                                "Tek Generator",
-                                "Tek Leggings",
-                                "Tek Replicator",
-                                "Tek Sleeping Pod",
-                                "Tek Spear",
-                                "Tek Trough"
+                                "Montura de plataforma de Gigadesmodus",
+                                "Montura de Gigadesmodus",
+                                "Teletransportador Tek pequeño",
+                                "Guantes Tek",
+                                "Generador Tek",
+                                "Pantalones Tek",
+                                "Impresora 3D Tek",
+                                "Cápsula de sueño Tek",
+                                "Lanza Tek",
+                                "Comedero Tek"
                             ]
                         },
                         {
                             "label": "Beta (media)",
                             "level": "70",
                             "tributes": [
-                                "1× Alpha Ossidon Skull",
-                                "5× Alpha Zombie Brains",
-                                "10× Neophyte Horns",
-                                "150× Greater Aberrant Sigil",
-                                "150× Greater Crimson Sigil"
+                                "1× Cráneo de Ossidón Alfa",
+                                "5× Cerebro de Zombi Alfa",
+                                "10× Cuernos de Neófito",
+                                "150× Sello Aberrante Mayor",
+                                "150× Sello Carmesí Mayor"
                             ],
                             "tek": [
                                 "Todo lo de Gamma, más:",
-                                "Medium Tek Teleporter",
-                                "Tek Boots",
-                                "Tek Chestpiece",
-                                "Tek Dedicated Storage",
-                                "Tek Helmet",
-                                "Tek Rifle"
+                                "Teletransportador Tek mediano",
+                                "Botas Tek",
+                                "Pechera Tek",
+                                "Almacén especializado Tek",
+                                "Casco Tek",
+                                "Rifle Tek"
                             ]
                         },
                         {
                             "label": "Alfa (difícil)",
                             "level": "95",
                             "tributes": [
-                                "5× Alpha Ossidon Skull",
-                                "10× Alpha Zombie Brains",
-                                "15× Neophyte Horns",
-                                "200× Prime Aberrant Sigil",
-                                "200× Prime Crimson Sigil"
+                                "5× Cráneo de Ossidón Alfa",
+                                "10× Cerebro de Zombi Alfa",
+                                "15× Cuernos de Neófito",
+                                "200× Sello Aberrante Supremo",
+                                "200× Sello Carmesí Supremo"
                             ],
                             "tek": [
                                 "Todo lo de Beta, más:",
-                                "Large Tek Teleporter",
-                                "Rex Tek Saddle",
-                                "Tek Cloning Chamber",
-                                "Tek Forcefield",
-                                "Tek Railgun",
-                                "Tek Shield"
+                                "Teletransportador Tek grande",
+                                "Montura Tek de Tiranosaurio Rex",
+                                "Cámara de clonación Tek",
+                                "Campo de fuerza Tek",
+                                "Cañón electromagnético Tek",
+                                "Escudo Tek"
                             ]
                         }
                     ],
@@ -1304,68 +1304,68 @@
                             "label": "Gamma (fácil)",
                             "level": "60",
                             "tributes": [
-                                "1× Artifact of the Depths",
-                                "1× Artifact of the Shadows",
-                                "1× Artifact of the Stalker"
+                                "1× Artefacto de las Profundidades",
+                                "1× Artefacto de las Sombras",
+                                "1× Artefacto del Acechador"
                             ],
                             "tek": [
-                                "Gamma Aberrant Implant",
-                                "Small Tek Teleporter",
-                                "Tek Gauntlets",
-                                "Tek Generator",
-                                "Tek Leggings",
-                                "Tek Replicator",
-                                "Tek Sleeping Pod",
-                                "Tek Trough"
+                                "Implante Aberrante Gamma",
+                                "Teletransportador Tek pequeño",
+                                "Guantes Tek",
+                                "Generador Tek",
+                                "Pantalones Tek",
+                                "Impresora 3D Tek",
+                                "Cápsula de sueño Tek",
+                                "Comedero Tek"
                             ]
                         },
                         {
                             "label": "Beta (media)",
                             "level": "75",
                             "tributes": [
-                                "1× Artifact of the Depths",
-                                "1× Artifact of the Shadows",
-                                "1× Artifact of the Stalker",
-                                "4× Basilisk Scale",
-                                "12× Nameless Venom",
-                                "2× Reaper Pheromone Gland",
-                                "2× Rock Drake Feather"
+                                "1× Artefacto de las Profundidades",
+                                "1× Artefacto de las Sombras",
+                                "1× Artefacto del Acechador",
+                                "4× Escama de Basilisco",
+                                "12× Veneno de Sin Nombre",
+                                "2× Glándula de feromonas de Segador",
+                                "2× Pluma de Dragón de Roca"
                             ],
                             "tek": [
                                 "Todo lo de Gamma, más:",
-                                "Beta Aberrant Implant",
-                                "Medium Tek Teleporter",
-                                "Rock Drake Tek Saddle",
-                                "Tek Boots",
-                                "Tek Chestpiece",
-                                "Tek Dedicated Storage",
-                                "Tek Helmet",
-                                "Tek Rifle"
+                                "Implante Aberrante Beta",
+                                "Teletransportador Tek mediano",
+                                "Montura Tek de Dragón de Roca",
+                                "Botas Tek",
+                                "Pechera Tek",
+                                "Almacén especializado Tek",
+                                "Casco Tek",
+                                "Rifle Tek"
                             ]
                         },
                         {
                             "label": "Alfa (difícil)",
                             "level": "100",
                             "tributes": [
-                                "1× Artifact of the Depths",
-                                "1× Artifact of the Shadows",
-                                "1× Artifact of the Stalker",
-                                "8× Basilisk Scale",
-                                "20× Nameless Venom",
-                                "7× Reaper Pheromone Gland",
-                                "7× Rock Drake Feather",
-                                "1× Alpha Basilisk Fang",
-                                "1× Alpha Karkinos Claw",
-                                "1× Alpha Reaper King Barb"
+                                "1× Artefacto de las Profundidades",
+                                "1× Artefacto de las Sombras",
+                                "1× Artefacto del Acechador",
+                                "8× Escama de Basilisco",
+                                "20× Veneno de Sin Nombre",
+                                "7× Glándula de feromonas de Segador",
+                                "7× Pluma de Dragón de Roca",
+                                "1× Colmillo de Basilisco Alfa",
+                                "1× Garra de Karkinos Alfa",
+                                "1× Osamenta de Rey Segador Alfa"
                             ],
                             "tek": [
                                 "Todo lo de Beta, más:",
-                                "Alpha Aberrant Implant",
-                                "Large Tek Teleporter",
-                                "Rex Tek Saddle",
-                                "Tek Cloning Chamber",
-                                "Tek Forcefield",
-                                "Tek Railgun"
+                                "Implante Aberrante Alfa",
+                                "Teletransportador Tek grande",
+                                "Montura Tek de Tiranosaurio Rex",
+                                "Cámara de clonación Tek",
+                                "Campo de fuerza Tek",
+                                "Cañón electromagnético Tek"
                             ]
                         }
                     ],
@@ -1386,84 +1386,84 @@
                             "label": "Gamma (fácil)",
                             "level": "70",
                             "tributes": [
-                                "1× Artifact of the Devourer",
-                                "1× Artifact of the Pack",
-                                "1× Artifact of the Skylord",
-                                "5× Allosaurus Brain",
-                                "5× Argentavis Talon",
-                                "5× Sauropod Vertebra",
-                                "5× Sarcosuchus Skin",
-                                "5× Titanoboa Venom"
+                                "1× Artefacto del Devorador",
+                                "1× Artefacto de la Manada",
+                                "1× Artefacto del Señor de los Cielos",
+                                "5× Cerebro de Alosaurio",
+                                "5× Garra de Argentavis",
+                                "5× Vértebra de saurópodo",
+                                "5× Piel de Sarcosuchus",
+                                "5× Veneno de Titanoboa"
                             ],
                             "tek": [
-                                "Megalodon Tek Saddle",
-                                "Small Tek Teleporter",
-                                "Tapejara Tek Saddle",
-                                "Tek Behemoth Gate",
-                                "Tek Behemoth Gateway",
-                                "Tek Ceiling & Hatchframe",
-                                "Tek Gauntlets",
-                                "Tek Generator",
-                                "Tek Large Cellar Door",
-                                "Tek Leggings",
-                                "Tek Replicator",
-                                "Tek Trough",
-                                "Tek Wall, Doorways & Windowframe"
+                                "Montura Tek de Megalodón",
+                                "Teletransportador Tek pequeño",
+                                "Montura Tek de Tapejara",
+                                "Puerta colosal Tek",
+                                "Marco colosal Tek",
+                                "Techo y marco de trampilla Tek",
+                                "Guantes Tek",
+                                "Generador Tek",
+                                "Puerta de sótano grande Tek",
+                                "Pantalones Tek",
+                                "Impresora 3D Tek",
+                                "Comedero Tek",
+                                "Pared, marco de puerta y de ventana Tek"
                             ]
                         },
                         {
                             "label": "Beta (media)",
                             "level": "80",
                             "tributes": [
-                                "1× Artifact of the Cunning",
-                                "1× Artifact of the Immune",
-                                "1× Artifact of the Strong",
-                                "10× Allosaurus Brain",
-                                "8× Argentavis Talon",
-                                "8× Sauropod Vertebra",
-                                "8× Sarcosuchus Skin",
-                                "5× Titanoboa Venom",
-                                "10× Tyrannosaurus Arm"
+                                "1× Artefacto de la Astucia",
+                                "1× Artefacto del Inmune",
+                                "1× Artefacto del Fuerte",
+                                "10× Cerebro de Alosaurio",
+                                "8× Garra de Argentavis",
+                                "8× Vértebra de saurópodo",
+                                "8× Piel de Sarcosuchus",
+                                "5× Veneno de Titanoboa",
+                                "10× Brazo de Tiranosaurio"
                             ],
                             "tek": [
                                 "Todo lo de Gamma, más:",
-                                "Tek Forcefield",
-                                "Tek Gate",
-                                "Tek Gateway",
-                                "Tek Rifle",
-                                "Tek Transmitter",
-                                "Vacuum Compartment & Moonpool"
+                                "Campo de fuerza Tek",
+                                "Puerta Tek para dinosaurios",
+                                "Marco de puerta Tek para dinosaurios",
+                                "Rifle Tek",
+                                "Transmisor Tek",
+                                "Compartimento de vacío y piscina lunar"
                             ]
                         },
                         {
                             "label": "Alfa (difícil)",
                             "level": "90",
                             "tributes": [
-                                "1× Artifact of the Brute",
-                                "1× Artifact of the Crag",
-                                "1× Artifact of the Destroyer",
-                                "1× Artifact of the Gatekeeper",
-                                "15× Allosaurus Brain",
-                                "15× Argentavis Talon",
-                                "2× Giganotosaurus Heart",
-                                "10× Sarcosuchus Skin",
-                                "10× Titanoboa Venom",
-                                "15× Tyrannosaurus Arm"
+                                "1× Artefacto del Bruto",
+                                "1× Artefacto del Risco",
+                                "1× Artefacto del Destructor",
+                                "1× Artefacto del Guardián",
+                                "15× Cerebro de Alosaurio",
+                                "15× Garra de Argentavis",
+                                "2× Corazón de Giganotosaurio",
+                                "10× Piel de Sarcosuchus",
+                                "10× Veneno de Titanoboa",
+                                "15× Brazo de Tiranosaurio"
                             ],
                             "tek": [
                                 "Todo lo de Beta, más:",
-                                "Large Tek Teleporter",
-                                "Rex Tek Saddle",
-                                "Tek Chestpiece",
-                                "Tek Cloning Chamber",
-                                "Tek Grenade"
+                                "Teletransportador Tek grande",
+                                "Montura Tek de Tiranosaurio Rex",
+                                "Pechera Tek",
+                                "Cámara de clonación Tek",
+                                "Granada Tek"
                             ]
                         }
                     ],
                     "tips": "Exclusivo de ARK: Survival Ascended. Los buitres que invoca hacen mucho daño a los jugadores montados."
                 },
                 {
-                    "name": "Broodmother salvaje",
+                    "name": "Matriarca salvaje (Broodmother)",
                     "type": "Jefe errante",
                     "summon": "Aparece salvaje por el mapa. No necesita tributos.",
                     "difficulties": [],
@@ -1476,7 +1476,7 @@
             "image": "images/the-center.png",
             "bosses": [
                 {
-                    "name": "Broodmother Lysrix",
+                    "name": "Matriarca (Broodmother Lysrix)",
                     "type": "Guardián",
                     "summon": "Se invoca desde un obelisco (necesitas los tributos en el inventario).",
                     "difficulties": [
@@ -1484,58 +1484,58 @@
                             "label": "Gamma (fácil)",
                             "level": "30",
                             "tributes": [
-                                "1× Artifact of the Clever",
-                                "1× Artifact of the Hunter",
-                                "1× Artifact of the Massive"
+                                "1× Artefacto del Astuto",
+                                "1× Artefacto del Cazador",
+                                "1× Artefacto de la Inmensidad"
                             ],
                             "tek": [
-                                "Tek Foundation",
-                                "Tek Replicator"
+                                "Cimiento Tek",
+                                "Impresora 3D Tek"
                             ]
                         },
                         {
                             "label": "Beta (media)",
                             "level": "50",
                             "tributes": [
-                                "1× Artifact of the Clever",
-                                "1× Artifact of the Hunter",
-                                "1× Artifact of the Massive",
-                                "5× Argentavis Talon",
-                                "5× Sarcosuchus Skin",
-                                "5× Sauropod Vertebra",
-                                "5× Titanoboa Venom"
+                                "1× Artefacto del Astuto",
+                                "1× Artefacto del Cazador",
+                                "1× Artefacto de la Inmensidad",
+                                "5× Garra de Argentavis",
+                                "5× Piel de Sarcosuchus",
+                                "5× Vértebra de saurópodo",
+                                "5× Veneno de Titanoboa"
                             ],
                             "tek": [
                                 "Todo lo de Gamma, más:",
-                                "Tek Boots",
-                                "Tek Ceiling & Hatchframe",
-                                "Tek Fence Foundation & Support",
-                                "Tek Ladder",
-                                "Tek Pillar",
-                                "Tek Quarter & Triangle Ceiling",
-                                "Tek Quarter Wall & Railing",
-                                "Tek Roof, Ramp & Stairs",
-                                "Tek Sloped Wall",
-                                "Tek Wall, Doorways & Windowframe"
+                                "Botas Tek",
+                                "Techo y marco de trampilla Tek",
+                                "Cimiento y soporte de valla Tek",
+                                "Escalera de mano Tek",
+                                "Pilar Tek",
+                                "Techo Tek de cuarto y triangular",
+                                "Cuarto de pared y barandilla Tek",
+                                "Tejado, rampa y escaleras Tek",
+                                "Pared inclinada Tek",
+                                "Pared, marco de puerta y de ventana Tek"
                             ]
                         },
                         {
                             "label": "Alfa (difícil)",
                             "level": "70",
                             "tributes": [
-                                "1× Artifact of the Clever",
-                                "1× Artifact of the Hunter",
-                                "1× Artifact of the Massive",
-                                "10× Argentavis Talon",
-                                "10× Sarcosuchus Skin",
-                                "10× Sauropod Vertebra",
-                                "10× Titanoboa Venom"
+                                "1× Artefacto del Astuto",
+                                "1× Artefacto del Cazador",
+                                "1× Artefacto de la Inmensidad",
+                                "10× Garra de Argentavis",
+                                "10× Piel de Sarcosuchus",
+                                "10× Vértebra de saurópodo",
+                                "10× Veneno de Titanoboa"
                             ],
                             "tek": [
                                 "Todo lo de Beta, más:",
-                                "Mosasaur Tek Saddle",
-                                "Tek Helmet",
-                                "Tek Turret"
+                                "Montura Tek de Mosasaurio",
+                                "Casco Tek",
+                                "Torreta Tek"
                             ]
                         }
                     ],
@@ -1550,56 +1550,56 @@
                             "label": "Gamma (fácil)",
                             "level": "45",
                             "tributes": [
-                                "1× Artifact of the Brute",
-                                "1× Artifact of the Devourer",
-                                "1× Artifact of the Pack"
+                                "1× Artefacto del Bruto",
+                                "1× Artefacto del Devorador",
+                                "1× Artefacto de la Manada"
                             ],
                             "tek": [
-                                "Tek Doors & Windows",
-                                "Tek Gauntlets",
-                                "Tek Replicator"
+                                "Puertas y ventanas Tek",
+                                "Guantes Tek",
+                                "Impresora 3D Tek"
                             ]
                         },
                         {
                             "label": "Beta (media)",
                             "level": "65",
                             "tributes": [
-                                "1× Artifact of the Brute",
-                                "1× Artifact of the Devourer",
-                                "1× Artifact of the Pack",
-                                "5× Megalania Toxin",
-                                "5× Megalodon Tooth",
-                                "5× Spinosaurus Sail",
-                                "5× Therizino Claws",
-                                "5× Thylacoleo Hook-Claw"
+                                "1× Artefacto del Bruto",
+                                "1× Artefacto del Devorador",
+                                "1× Artefacto de la Manada",
+                                "5× Toxina de Megalania",
+                                "5× Diente de Megalodón",
+                                "5× Aleta dorsal de Espinosaurio",
+                                "5× Garras de Tericinosaurio",
+                                "5× Garra de Thylacoleo"
                             ],
                             "tek": [
                                 "Todo lo de Gamma, más:",
-                                "Tek Gate",
-                                "Tek Gateway",
-                                "Tek Generator",
-                                "Tek Large Cellar Door",
-                                "Tek Rifle",
-                                "Tek Trough"
+                                "Puerta Tek para dinosaurios",
+                                "Marco de puerta Tek para dinosaurios",
+                                "Generador Tek",
+                                "Puerta de sótano grande Tek",
+                                "Rifle Tek",
+                                "Comedero Tek"
                             ]
                         },
                         {
                             "label": "Alfa (difícil)",
                             "level": "85",
                             "tributes": [
-                                "1× Artifact of the Brute",
-                                "1× Artifact of the Devourer",
-                                "1× Artifact of the Pack",
-                                "10× Megalania Toxin",
-                                "10× Megalodon Tooth",
-                                "10× Spinosaurus Sail",
-                                "10× Therizino Claws",
-                                "10× Thylacoleo Hook-Claw"
+                                "1× Artefacto del Bruto",
+                                "1× Artefacto del Devorador",
+                                "1× Artefacto de la Manada",
+                                "10× Toxina de Megalania",
+                                "10× Diente de Megalodón",
+                                "10× Aleta dorsal de Espinosaurio",
+                                "10× Garras de Tericinosaurio",
+                                "10× Garra de Thylacoleo"
                             ],
                             "tek": [
                                 "Todo lo de Beta, más:",
-                                "Rex Tek Saddle",
-                                "Tek Grenade"
+                                "Montura Tek de Tiranosaurio Rex",
+                                "Granada Tek"
                             ]
                         }
                     ],

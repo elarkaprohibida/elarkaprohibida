@@ -1012,3 +1012,32 @@ a{
         max-width: 320px;
     }
 }
+
+.boss-difficulty .item-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.item-list li {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 4px 0;
+}
+
+.item-icon {
+    width: 28px;
+    height: 28px;
+    flex-shrink: 0;
+    object-fit: contain;
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(0, 255, 153, 0.2);
+    border-radius: 6px;
+    padding: 2px;
+    box-sizing: border-box;
+}
+
+.item-list .item-note {
+    font-style: italic;
+    opacity: 0.75;
+}
