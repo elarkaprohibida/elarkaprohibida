@@ -162,6 +162,41 @@ collections:
               - {label: "Consejos", name: "tips", widget: "text", required: false}
               - {label: "Enlace a Dododex", name: "dododex", widget: "string", required: false}
 
+  - name: "jefes"
+    label: "Jefes"
+    files:
+      - file: "data/jefes.json"
+        name: "jefes"
+        label: "Jefes por mapa"
+        fields:
+          - label: "Mapas"
+            name: "maps"
+            widget: "list"
+            summary: "{{fields.name}}"
+            fields:
+              - {label: "Nombre", name: "name", widget: "string"}
+              - {label: "Imagen", name: "image", widget: "image"}
+              - label: "Jefes"
+                name: "bosses"
+                widget: "list"
+                required: false
+                summary: "{{fields.name}}"
+                fields:
+                  - {label: "Nombre", name: "name", widget: "string"}
+                  - {label: "Tipo", name: "type", widget: "string", required: false}
+                  - {label: "Dónde / cómo invocarlo", name: "summon", widget: "text", required: false}
+                  - label: "Dificultades"
+                    name: "difficulties"
+                    widget: "list"
+                    required: false
+                    summary: "{{fields.label}}"
+                    fields:
+                      - {label: "Dificultad", name: "label", widget: "string"}
+                      - {label: "Nivel mínimo", name: "level", widget: "string", required: false}
+                      - {label: "Tributos", name: "tributes", widget: "list", required: false}
+                      - {label: "Engramas Tek", name: "tek", widget: "list", required: false}
+                  - {label: "Consejos", name: "tips", widget: "text", required: false}
+
   - name: "hall-of-fame"
     label: "Salón de la Fama"
     files:

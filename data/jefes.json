@@ -1,0 +1,1611 @@
+{
+    "maps": [
+        {
+            "name": "The Island",
+            "image": "images/the-island.png",
+            "bosses": [
+                {
+                    "name": "Broodmother Lysrix",
+                    "type": "Guardián",
+                    "summon": "Obelisco verde. Se invoca desde un obelisco (necesitas los tributos en el inventario).",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "30",
+                            "tributes": [
+                                "1× Artifact of the Clever",
+                                "1× Artifact of the Hunter",
+                                "1× Artifact of the Massive"
+                            ],
+                            "tek": [
+                                "Tek Foundation",
+                                "Tek Quarter & Triangle Ceiling",
+                                "Tek Replicator",
+                                "Tek Triangle & Quarter Foundation",
+                                "Tek Triangle Roof & Corner"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "50",
+                            "tributes": [
+                                "1× Artifact of the Clever",
+                                "1× Artifact of the Hunter",
+                                "1× Artifact of the Massive",
+                                "5× Argentavis Talon",
+                                "5× Sarcosuchus Skin",
+                                "5× Sauropod Vertebra",
+                                "5× Titanoboa Venom"
+                            ],
+                            "tek": [
+                                "Todo lo de Gamma, más:",
+                                "Tek Boots",
+                                "Tek Ceiling & Hatchframe",
+                                "Tek Fence Foundation & Support",
+                                "Tek Ladder",
+                                "Tek Quarter Wall & Railing",
+                                "Tek Roof, Ramp & Stairs",
+                                "Tek Sloped Wall",
+                                "Tek Wall, Doorways & Windowframe"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "70",
+                            "tributes": [
+                                "1× Artifact of the Clever",
+                                "1× Artifact of the Hunter",
+                                "1× Artifact of the Massive",
+                                "10× Argentavis Talon",
+                                "10× Sarcosuchus Skin",
+                                "10× Sauropod Vertebra",
+                                "10× Titanoboa Venom"
+                            ],
+                            "tek": [
+                                "Todo lo de Beta, más:",
+                                "Mosasaur Tek Saddle",
+                                "Tek Helmet",
+                                "Tek Turret"
+                            ]
+                        }
+                    ],
+                    "tips": "Lleva Rex o Therizinos con buena vida: las arañas pequeñas hacen mucho daño. Los dinos que puedes llevar a la arena son limitados (Rex, Therizino, Yutyrannus, Daeodon...). No se permiten voladores."
+                },
+                {
+                    "name": "Megapithecus",
+                    "type": "Guardián",
+                    "summon": "Obelisco azul. Se invoca desde un obelisco (necesitas los tributos en el inventario).",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "45",
+                            "tributes": [
+                                "1× Artifact of the Brute",
+                                "1× Artifact of the Devourer",
+                                "1× Artifact of the Pack"
+                            ],
+                            "tek": [
+                                "Tek Doors & Windows",
+                                "Tek Gauntlets",
+                                "Tek Replicator"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "65",
+                            "tributes": [
+                                "1× Artifact of the Brute",
+                                "1× Artifact of the Devourer",
+                                "1× Artifact of the Pack",
+                                "5× Megalania Toxin",
+                                "5× Megalodon Tooth",
+                                "5× Spinosaurus Sail",
+                                "5× Therizino Claws",
+                                "5× Thylacoleo Hook-Claw"
+                            ],
+                            "tek": [
+                                "Todo lo de Gamma, más:",
+                                "Tek Gate",
+                                "Tek Gateway",
+                                "Tek Generator",
+                                "Tek Large Cellar Door",
+                                "Tek Rifle",
+                                "Tek Trough"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "85",
+                            "tributes": [
+                                "1× Artifact of the Brute",
+                                "1× Artifact of the Devourer",
+                                "1× Artifact of the Pack",
+                                "10× Megalania Toxin",
+                                "10× Megalodon Tooth",
+                                "10× Spinosaurus Sail",
+                                "10× Therizino Claws",
+                                "10× Thylacoleo Hook-Claw"
+                            ],
+                            "tek": [
+                                "Todo lo de Beta, más:",
+                                "Rex Tek Saddle",
+                                "Tek Grenade",
+                                "Tek Large Wall"
+                            ]
+                        }
+                    ],
+                    "tips": "Lanza piedras y te desmonta: lleva dinos con mucha vida y daño. Los dinos que puedes llevar a la arena son limitados (Rex, Therizino, Yutyrannus, Daeodon...). No se permiten voladores."
+                },
+                {
+                    "name": "Dragón",
+                    "type": "Guardián",
+                    "summon": "Obelisco rojo. Se invoca desde un obelisco (necesitas los tributos en el inventario).",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "55",
+                            "tributes": [
+                                "1× Artifact of the Cunning",
+                                "1× Artifact of the Immune",
+                                "1× Artifact of the Skylord",
+                                "1× Artifact of the Strong"
+                            ],
+                            "tek": [
+                                "Megalodon Tek Saddle",
+                                "Small Tek Teleporter",
+                                "Tapejara Tek Saddle",
+                                "Tek Behemoth Cellar Door",
+                                "Tek Behemoth Gate",
+                                "Tek Behemoth Gateway",
+                                "Tek Leggings",
+                                "Tek Replicator"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "75",
+                            "tributes": [
+                                "1× Artifact of the Cunning",
+                                "1× Artifact of the Immune",
+                                "1× Artifact of the Skylord",
+                                "1× Artifact of the Strong",
+                                "5× Allosaurus Brain",
+                                "5× Basilosaurus Blubber",
+                                "1× Giganotosaurus Heart",
+                                "5× Tusoteuthis Tentacle",
+                                "5× Tyrannosaurus Arm",
+                                "5× Yutyrannus Lungs"
+                            ],
+                            "tek": [
+                                "Todo lo de Gamma, más:",
+                                "Medium Tek Teleporter",
+                                "Tek Dedicated Storage",
+                                "Tek Doors & Windows",
+                                "Tek Fence Foundation & Support",
+                                "Tek Forcefield",
+                                "Tek Roof, Ramp & Stairs",
+                                "Tek Transmitter",
+                                "Vacuum Compartment & Moonpool"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "100",
+                            "tributes": [
+                                "1× Artifact of the Cunning",
+                                "1× Artifact of the Immune",
+                                "1× Artifact of the Skylord",
+                                "1× Artifact of the Strong",
+                                "10× Allosaurus Brain",
+                                "10× Basilosaurus Blubber",
+                                "2× Giganotosaurus Heart",
+                                "10× Tusoteuthis Tentacle",
+                                "15× Tyrannosaurus Arm",
+                                "10× Yutyrannus Lungs"
+                            ],
+                            "tek": [
+                                "Todo lo de Beta, más:",
+                                "Large Tek Teleporter",
+                                "Tek Chestpiece",
+                                "Tek Cloning Chamber"
+                            ]
+                        }
+                    ],
+                    "tips": "Su fuego hace muchísimo daño y su rugido aturde. Muchos jugadores usan Rex con mutaciones o Daeodon para curar."
+                },
+                {
+                    "name": "Overseer",
+                    "type": "Final del mapa",
+                    "summon": "Entrada de la Cueva Tek (en el volcán). Los trofeos NO se gastan al entrar.",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "60",
+                            "tributes": [
+                                "1× Gamma Broodmother Trophy",
+                                "1× Gamma Megapithecus Trophy",
+                                "1× Gamma Dragon Trophy"
+                            ],
+                            "tek": [
+                                "Gamma Ascension Implant"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "80",
+                            "tributes": [
+                                "1× Beta Broodmother Trophy",
+                                "1× Beta Megapithecus Trophy",
+                                "1× Beta Dragon Trophy",
+                                "1× Alpha Raptor Claw",
+                                "1× Alpha Carnotaurus Arm",
+                                "1× Alpha Tyrannosaur Tooth"
+                            ],
+                            "tek": [
+                                "Todo lo de Gamma, más:",
+                                "Beta Ascension Implant"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "100",
+                            "tributes": [
+                                "1× Alpha Broodmother Trophy",
+                                "1× Alpha Megapithecus Trophy",
+                                "1× Alpha Dragon Trophy",
+                                "1× Alpha Raptor Claw",
+                                "1× Alpha Carnotaurus Arm",
+                                "1× Alpha Tyrannosaur Tooth",
+                                "1× Alpha Megalodon Fin",
+                                "1× Alpha Mosasaur Tooth",
+                                "1× Alpha Tusoteuthis Eye",
+                                "1× Alpha Leedsichthys Blubber"
+                            ],
+                            "tek": [
+                                "Todo lo de Beta, más:",
+                                "Alpha Ascension Implant",
+                                "Tek Binoculars"
+                            ]
+                        }
+                    ],
+                    "tips": "Necesitas los trofeos de Broodmother, Megapithecus y Dragón de esa dificultad (o mayor). Al derrotarlo consigues el implante de Ascensión."
+                }
+            ]
+        },
+        {
+            "name": "Ragnarok",
+            "image": "images/ragnarok.png",
+            "bosses": [
+                {
+                    "name": "Nunatak",
+                    "type": "Guardián",
+                    "summon": "Arena de Ragnarok. Se invoca desde un obelisco (necesitas los tributos en el inventario).",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "70",
+                            "tributes": [
+                                "1× Artifact of the Clever",
+                                "1× Artifact of the Cunning",
+                                "1× Artifact of the Devious",
+                                "1× Artifact of the Devourer",
+                                "1× Artifact of the Hunter",
+                                "1× Artifact of the Immune",
+                                "1× Artifact of the Massive",
+                                "1× Artifact of the Pack",
+                                "1× Artifact of the Skylord",
+                                "1× Artifact of the Strong"
+                            ],
+                            "tek": [
+                                "Megalodon Tek Saddle",
+                                "Rex Tek Saddle",
+                                "Small Tek Teleporter",
+                                "Tapejara Tek Saddle",
+                                "Tek Behemoth Cellar Door",
+                                "Tek Behemoth Gate",
+                                "Tek Behemoth Gateway",
+                                "Tek Gauntlets",
+                                "Tek Generator",
+                                "Tek Leggings",
+                                "Tek Light",
+                                "Tek Replicator",
+                                "Tek Trough"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "80",
+                            "tributes": [
+                                "1× Artifact of the Clever",
+                                "1× Artifact of the Cunning",
+                                "1× Artifact of the Devious",
+                                "1× Artifact of the Devourer",
+                                "1× Artifact of the Hunter",
+                                "1× Artifact of the Immune",
+                                "1× Artifact of the Massive",
+                                "1× Artifact of the Pack",
+                                "1× Artifact of the Skylord",
+                                "1× Artifact of the Strong",
+                                "10× Argentavis Talon",
+                                "5× Basilosaurus Blubber",
+                                "10× Megalania Toxin",
+                                "10× Megalodon Tooth",
+                                "10× Sarcosuchus Skin",
+                                "10× Sauropod Vertebra",
+                                "10× Spinosaurus Sail",
+                                "10× Thylacoleo Hook-Claw",
+                                "10× Titanoboa Venom",
+                                "10× Tusoteuthis Tentacle"
+                            ],
+                            "tek": [
+                                "Todo lo de Gamma, más:",
+                                "Medium Tek Teleporter",
+                                "Tek Dedicated Storage",
+                                "Tek Doors & Windows",
+                                "Tek Fence Foundation & Support",
+                                "Tek Forcefield",
+                                "Tek Rifle",
+                                "Tek Roof, Ramp & Stairs",
+                                "Tek Sword",
+                                "Tek Transmitter",
+                                "Vacuum Compartment & Moonpool"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "90",
+                            "tributes": [
+                                "1× Artifact of the Clever",
+                                "1× Artifact of the Cunning",
+                                "1× Artifact of the Devious",
+                                "1× Artifact of the Devourer",
+                                "1× Artifact of the Hunter",
+                                "1× Artifact of the Immune",
+                                "1× Artifact of the Massive",
+                                "1× Artifact of the Pack",
+                                "1× Artifact of the Skylord",
+                                "1× Artifact of the Strong",
+                                "25× Argentavis Talon",
+                                "10× Basilosaurus Blubber",
+                                "25× Megalania Toxin",
+                                "25× Megalodon Tooth",
+                                "25× Sarcosuchus Skin",
+                                "25× Sauropod Vertebra",
+                                "25× Spinosaurus Sail",
+                                "25× Thylacoleo Hook-Claw",
+                                "25× Titanoboa Venom",
+                                "25× Tusoteuthis Tentacle"
+                            ],
+                            "tek": [
+                                "Todo lo de Beta, más:",
+                                "Large Tek Teleporter",
+                                "Tek Chestpiece",
+                                "Tek Cloning Chamber",
+                                "Tek Grenade",
+                                "Tek Shield"
+                            ]
+                        }
+                    ],
+                    "tips": "Exclusivo de ARK: Survival Ascended: sustituye al combate doble de Mantícora y Dragón de ARK Evolved."
+                },
+                {
+                    "name": "Reina Gusano de Hielo",
+                    "type": "Mazmorra",
+                    "summon": "Al final de la Mazmorra Helada (Frozen Dungeon). No necesita tributos.",
+                    "difficulties": [],
+                    "tips": "No desbloquea engramas Tek, pero da buen botín. Su nivel sube con cada jugador que entra."
+                },
+                {
+                    "name": "Elemental de Lava",
+                    "type": "Mazmorra",
+                    "summon": "Al final de la Mazmorra de la Jungla (Jungle Dungeon). No necesita tributos.",
+                    "difficulties": [],
+                    "tips": "No desbloquea engramas Tek, pero da buen botín. Su nivel sube con cada jugador que entra."
+                }
+            ]
+        },
+        {
+            "name": "Astraeos",
+            "image": "images/astraeos.png",
+            "bosses": [
+                {
+                    "name": "Natrix",
+                    "type": "Guardián",
+                    "summon": "Arena de Natrix. Se invoca desde un obelisco (necesitas los tributos en el inventario).",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "30",
+                            "tributes": [
+                                "1× Artifact of the Clever",
+                                "1× Artifact of the Hunter",
+                                "1× Artifact of the Massive"
+                            ],
+                            "tek": [
+                                "Tek Foundation",
+                                "Tek Quarter & Triangle Ceiling",
+                                "Tek Replicator",
+                                "Tek Triangle & Quarter Foundation",
+                                "Tek Triangle Roof & Corner"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "50",
+                            "tributes": [
+                                "1× Artifact of the Clever",
+                                "1× Artifact of the Hunter",
+                                "1× Artifact of the Massive",
+                                "5× Argentavis Talon",
+                                "5× Sarcosuchus Skin",
+                                "5× Sauropod Vertebra",
+                                "5× Titanoboa Venom"
+                            ],
+                            "tek": [
+                                "Todo lo de Gamma, más:",
+                                "Tek Boots",
+                                "Tek Ceiling & Hatchframe",
+                                "Tek Fence Foundation & Support",
+                                "Tek Ladder",
+                                "Tek Pillar",
+                                "Tek Quarter Wall & Railing",
+                                "Tek Roof, Ramp & Stairs",
+                                "Tek Sloped Wall",
+                                "Tek Wall, Doorways & Windowframe"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "70",
+                            "tributes": [
+                                "1× Artifact of the Clever",
+                                "1× Artifact of the Hunter",
+                                "1× Artifact of the Massive",
+                                "10× Argentavis Talon",
+                                "10× Sarcosuchus Skin",
+                                "10× Sauropod Vertebra",
+                                "10× Titanoboa Venom"
+                            ],
+                            "tek": [
+                                "Todo lo de Beta, más:",
+                                "Mosasaur Tek Saddle",
+                                "Tek Helmet",
+                                "Tek Turret"
+                            ]
+                        }
+                    ],
+                    "tips": "Usa los mismos tributos que la Broodmother y da los mismos engramas."
+                },
+                {
+                    "name": "Thodes",
+                    "type": "Guardián",
+                    "summon": "Se invoca desde un obelisco (necesitas los tributos en el inventario).",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "45",
+                            "tributes": [
+                                "1× Artifact of the Brute",
+                                "1× Artifact of the Pack",
+                                "1× Artifact of the Devourer"
+                            ],
+                            "tek": [
+                                "Tek Doors & Windows",
+                                "Tek Gauntlets",
+                                "Tek Replicator"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "65",
+                            "tributes": [
+                                "1× Artifact of the Brute",
+                                "1× Artifact of the Pack",
+                                "1× Artifact of the Devourer",
+                                "5× Megalodon Tooth",
+                                "5× Megalania Toxin",
+                                "5× Spinosaurus Sail",
+                                "5× Therizino Claws",
+                                "5× Thylacoleo Hook-Claw"
+                            ],
+                            "tek": [
+                                "Todo lo de Gamma, más:",
+                                "Tek Gate",
+                                "Tek Gateway",
+                                "Tek Generator",
+                                "Tek Large Cellar Door",
+                                "Tek Rifle",
+                                "Tek Trough"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "85",
+                            "tributes": [
+                                "1× Artifact of the Brute",
+                                "1× Artifact of the Pack",
+                                "1× Artifact of the Devourer",
+                                "10× Megalodon Tooth",
+                                "10× Megalania Toxin",
+                                "10× Spinosaurus Sail",
+                                "10× Therizino Claws",
+                                "10× Thylacoleo Hook-Claw"
+                            ],
+                            "tek": [
+                                "Todo lo de Beta, más:",
+                                "Rex Tek Saddle",
+                                "Tek Grenade",
+                                "Tek Large Wall"
+                            ]
+                        }
+                    ],
+                    "tips": "Usa los mismos tributos que el Megapithecus y da los mismos engramas."
+                },
+                {
+                    "name": "Hydraskos",
+                    "type": "Guardián",
+                    "summon": "Se invoca desde un obelisco (necesitas los tributos en el inventario).",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "55",
+                            "tributes": [
+                                "1× Artifact of the Cunning",
+                                "1× Artifact of the Immune",
+                                "1× Artifact of the Skylord",
+                                "1× Artifact of the Strong"
+                            ],
+                            "tek": [
+                                "Megalodon Tek Saddle",
+                                "Small Tek Teleporter",
+                                "Tapejara Tek Saddle",
+                                "Tek Behemoth Cellar Door",
+                                "Tek Behemoth Gate",
+                                "Tek Behemoth Gateway",
+                                "Tek Leggings",
+                                "Tek Replicator"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "75",
+                            "tributes": [
+                                "1× Artifact of the Cunning",
+                                "1× Artifact of the Immune",
+                                "1× Artifact of the Skylord",
+                                "1× Artifact of the Strong",
+                                "5× Allosaurus Brain",
+                                "5× Basilosaurus Blubber",
+                                "1× Giganotosaurus Heart",
+                                "5× Tusoteuthis Tentacle",
+                                "5× Tyrannosaurus Arm",
+                                "5× Yutyrannus Lungs"
+                            ],
+                            "tek": [
+                                "Todo lo de Gamma, más:",
+                                "Medium Tek Teleporter",
+                                "Tek Dedicated Storage",
+                                "Tek Doors & Windows",
+                                "Tek Fence Foundation & Support",
+                                "Tek Forcefield",
+                                "Tek Roof, Ramp & Stairs",
+                                "Tek Transmitter",
+                                "Vacuum Compartment & Moonpool"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "100",
+                            "tributes": [
+                                "1× Artifact of the Cunning",
+                                "1× Artifact of the Immune",
+                                "1× Artifact of the Skylord",
+                                "1× Artifact of the Strong",
+                                "10× Allosaurus Brain",
+                                "10× Basilosaurus Blubber",
+                                "2× Giganotosaurus Heart",
+                                "10× Tusoteuthis Tentacle",
+                                "15× Tyrannosaurus Arm",
+                                "10× Yutyrannus Lungs"
+                            ],
+                            "tek": [
+                                "Todo lo de Beta, más:",
+                                "Large Tek Teleporter",
+                                "Tek Chestpiece",
+                                "Tek Cloning Chamber"
+                            ]
+                        }
+                    ],
+                    "tips": "Usa los mismos tributos que el Dragón y da los mismos engramas."
+                },
+                {
+                    "name": "Shallocis",
+                    "type": "Jefe final",
+                    "summon": "Necesitas los trofeos de Natrix, Thodes e Hydraskos de esa dificultad, más Hex Coins.",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "60",
+                            "tributes": [
+                                "60× Hex Coins",
+                                "1× Gamma Natrix Trophy",
+                                "1× Gamma Thodes Trophy",
+                                "1× Gamma Hydraskos Trophy"
+                            ],
+                            "tek": [
+                                "Small Tek Teleporter",
+                                "Tek Gauntlets",
+                                "Tek Generator",
+                                "Tek Leggings",
+                                "Tek Replicator",
+                                "Tek Sleeping Pod",
+                                "Tek Trough"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "75",
+                            "tributes": [
+                                "150× Hex Coins",
+                                "1× Beta Natrix Trophy",
+                                "1× Beta Thodes Trophy",
+                                "1× Beta Hydraskos Trophy"
+                            ],
+                            "tek": [
+                                "Todo lo de Gamma, más:",
+                                "Medium Tek Teleporter",
+                                "Rock Drake Tek Saddle",
+                                "Tek Boots",
+                                "Tek Chestpiece",
+                                "Tek Dedicated Storage",
+                                "Tek Helmet",
+                                "Tek Rifle"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "100",
+                            "tributes": [
+                                "300× Hex Coins",
+                                "1× Alpha Natrix Trophy",
+                                "1× Alpha Thodes Trophy",
+                                "1× Alpha Hydraskos Trophy"
+                            ],
+                            "tek": [
+                                "Todo lo de Beta, más:",
+                                "Large Tek Teleporter",
+                                "Rex Tek Saddle",
+                                "Tek Cloning Chamber",
+                                "Tek Forcefield",
+                                "Tek Railgun"
+                            ]
+                        }
+                    ],
+                    "tips": "Da los mismos engramas Tek que Abyssalus: basta con derrotar a uno de los dos."
+                },
+                {
+                    "name": "Abyssalus",
+                    "type": "Jefe final",
+                    "summon": "Necesitas los trofeos de Natrix, Thodes e Hydraskos de esa dificultad, más Almas Astrales.",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "60",
+                            "tributes": [
+                                "20× Astral Soul",
+                                "1× Gamma Natrix Trophy",
+                                "1× Gamma Thodes Trophy",
+                                "1× Gamma Hydraskos Trophy"
+                            ],
+                            "tek": [
+                                "Small Tek Teleporter",
+                                "Tek Gauntlets",
+                                "Tek Generator",
+                                "Tek Leggings",
+                                "Tek Replicator",
+                                "Tek Sleeping Pod",
+                                "Tek Trough"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "75",
+                            "tributes": [
+                                "50× Astral Soul",
+                                "1× Beta Natrix Trophy",
+                                "1× Beta Thodes Trophy",
+                                "1× Beta Hydraskos Trophy"
+                            ],
+                            "tek": [
+                                "Todo lo de Gamma, más:",
+                                "Medium Tek Teleporter",
+                                "Rock Drake Tek Saddle",
+                                "Tek Boots",
+                                "Tek Chestpiece",
+                                "Tek Dedicated Storage",
+                                "Tek Helmet",
+                                "Tek Rifle"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "100",
+                            "tributes": [
+                                "100× Astral Soul",
+                                "1× Alpha Natrix Trophy",
+                                "1× Alpha Thodes Trophy",
+                                "1× Alpha Hydraskos Trophy"
+                            ],
+                            "tek": [
+                                "Todo lo de Beta, más:",
+                                "Large Tek Teleporter",
+                                "Rex Tek Saddle",
+                                "Tek Cloning Chamber",
+                                "Tek Forcefield",
+                                "Tek Railgun"
+                            ]
+                        }
+                    ],
+                    "tips": "Da los mismos engramas Tek que Shallocis: basta con derrotar a uno de los dos."
+                },
+                {
+                    "name": "Colossus",
+                    "type": "Minijefe",
+                    "summon": "Su terminal está en el suroeste de Helianthos.",
+                    "difficulties": [
+                        {
+                            "label": "Única",
+                            "level": "",
+                            "tributes": [
+                                "2× Corrupt Heart",
+                                "1× Alpha Rex Trophy",
+                                "5× Alpha Raptor Claw",
+                                "10× Acro Adrenal Gland",
+                                "10× Astral Soul"
+                            ],
+                            "tek": []
+                        }
+                    ],
+                    "tips": "No da engramas Tek."
+                },
+                {
+                    "name": "Kroaratos",
+                    "type": "Minijefe",
+                    "summon": "Su terminal está en el noroeste de Helianthos.",
+                    "difficulties": [
+                        {
+                            "label": "Única",
+                            "level": "",
+                            "tributes": [
+                                "5× Corrupt Heart",
+                                "5× Fire Talon",
+                                "1× Giganotosaurus Heart",
+                                "10× Boaratos Tusk",
+                                "3× Flaming Boaratos Tusk",
+                                "10× Astral Soul"
+                            ],
+                            "tek": []
+                        }
+                    ],
+                    "tips": "No da engramas Tek. Suelta la piel espartana del Boaratos."
+                },
+                {
+                    "name": "Minotarchos",
+                    "type": "Minijefe",
+                    "summon": "Su terminal está en lo más profundo del Laberinto.",
+                    "difficulties": [
+                        {
+                            "label": "Única",
+                            "level": "",
+                            "tributes": [
+                                "2× Corrupt Heart",
+                                "25× Corrupted Nodule",
+                                "5× Lightning Talon",
+                                "25× Megalodon Tooth",
+                                "10× Thylacoleo Hook-Claw"
+                            ],
+                            "tek": []
+                        }
+                    ],
+                    "tips": "No da engramas Tek."
+                },
+                {
+                    "name": "Erymanthian y Kalydonios",
+                    "type": "Minijefe",
+                    "summon": "Su terminal está en el norte de Lemnokis.",
+                    "difficulties": [
+                        {
+                            "label": "Única",
+                            "level": "",
+                            "tributes": [
+                                "2× Corrupt Heart",
+                                "25× Corrupted Nodule",
+                                "5× Fire Talon",
+                                "5× Poison Talon",
+                                "10× Therizino Claws"
+                            ],
+                            "tek": []
+                        }
+                    ],
+                    "tips": "No da engramas Tek."
+                },
+                {
+                    "name": "Thanatos",
+                    "type": "Jefe errante",
+                    "summon": "Aparece por Therokis durante un rato y ataca todo lo que ve. No necesita tributos.",
+                    "difficulties": [],
+                    "tips": "No da engramas Tek. Suelta equipo aleatorio y rasgos de equipo, como el Rey Titán errante de Extinction."
+                }
+            ]
+        },
+        {
+            "name": "Genesis 1",
+            "image": "images/genesis-1.png",
+            "bosses": [
+                {
+                    "name": "Moeder, Señora del Océano",
+                    "type": "Guardián",
+                    "summon": "Misión \"One Tough Moeder\" desde el Dispensador de Misiones, en el bioma del océano.",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "",
+                            "tributes": [],
+                            "tek": [
+                                "Small Tek Teleporter",
+                                "Tek Generator",
+                                "Tek Sensor",
+                                "Tek Trough"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "",
+                            "tributes": [],
+                            "tek": [
+                                "Todo lo de Gamma, más:",
+                                "Medium Tek Teleporter",
+                                "Tek Boots",
+                                "Tek Gauntlets",
+                                "Tek Helmet"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "",
+                            "tributes": [],
+                            "tek": [
+                                "Todo lo de Beta, más:",
+                                "Large Tek Teleporter",
+                                "Tek Forcefield",
+                                "Tek Grenade Launcher"
+                            ]
+                        }
+                    ],
+                    "tips": "Destruye primero a las anguilas que invoca. Los X-Megalodon con silla Tek ayudan mucho."
+                },
+                {
+                    "name": "Controlador Maestro Corrupto",
+                    "type": "Jefe final",
+                    "summon": "Habla con HLN-A y elige \"Arrival Protocol\". Gamma: 58 misiones completadas, Beta: 116, Alfa: 168.",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "",
+                            "tributes": [],
+                            "tek": [
+                                "Gamma Terran Ascension Implant",
+                                "Tek Claws",
+                                "Tek Dedicated Storage",
+                                "Tek Replicator",
+                                "Unassembled TEK Hover Skiff"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "",
+                            "tributes": [],
+                            "tek": [
+                                "Todo lo de Gamma, más:",
+                                "Astrocetus Tek Saddle",
+                                "Beta Terran Ascension Implant",
+                                "Tek Leggings",
+                                "Tek Shoulder Cannon"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "",
+                            "tributes": [],
+                            "tek": [
+                                "Todo lo de Beta, más:",
+                                "Alpha Terran Ascension Implant",
+                                "Cruise Missile",
+                                "Tek Chestpiece"
+                            ]
+                        }
+                    ],
+                    "tips": "Es la forma digital de Rockwell. En la fase final aturde a los dinos y desmonta a los jugadores."
+                }
+            ]
+        },
+        {
+            "name": "Scorched Earth",
+            "image": "images/scorched-earth.png",
+            "bosses": [
+                {
+                    "name": "Mantícora",
+                    "type": "Guardián",
+                    "summon": "Se invoca desde un obelisco (necesitas los tributos en el inventario).",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "55",
+                            "tributes": [
+                                "2× Fire Talon",
+                                "2× Lightning Talon",
+                                "2× Poison Talon",
+                                "1× Artifact of the Gatekeeper",
+                                "1× Artifact of the Crag",
+                                "1× Artifact of the Destroyer"
+                            ],
+                            "tek": [
+                                "Small Tek Teleporter",
+                                "Tek Gauntlets",
+                                "Tek Generator",
+                                "Tek Leggings",
+                                "Tek Replicator",
+                                "Tek Trough"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "70",
+                            "tributes": [
+                                "10× Fire Talon",
+                                "10× Lightning Talon",
+                                "10× Poison Talon",
+                                "1× Artifact of the Gatekeeper",
+                                "1× Artifact of the Crag",
+                                "1× Artifact of the Destroyer"
+                            ],
+                            "tek": [
+                                "Todo lo de Gamma, más:",
+                                "Medium Tek Teleporter",
+                                "Tapejara Tek Saddle",
+                                "Tek Dedicated Storage",
+                                "Tek Rifle"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "95",
+                            "tributes": [
+                                "20× Fire Talon",
+                                "20× Lightning Talon",
+                                "20× Poison Talon",
+                                "1× Artifact of the Gatekeeper",
+                                "1× Artifact of the Crag",
+                                "1× Artifact of the Destroyer"
+                            ],
+                            "tek": [
+                                "Todo lo de Beta, más:",
+                                "Large Tek Teleporter",
+                                "Rex Tek Saddle",
+                                "Tek Cloning Chamber",
+                                "Tek Forcefield",
+                                "Tek Grenade"
+                            ]
+                        }
+                    ],
+                    "tips": "Vuela y lanza veneno: lleva armas a distancia y dinos con mucha vida."
+                }
+            ]
+        },
+        {
+            "name": "Extinción",
+            "image": "images/extincion.png",
+            "bosses": [
+                {
+                    "name": "Titán del Desierto",
+                    "type": "Titán",
+                    "summon": "Terminal del Titán del Desierto (Desert Dome).",
+                    "difficulties": [
+                        {
+                            "label": "Única",
+                            "level": "",
+                            "tributes": [
+                                "1× Artifact of Chaos",
+                                "100× Corrupt Heart",
+                                "10× Fire Talon",
+                                "10× Sarcosuchus Skin"
+                            ],
+                            "tek": [
+                                "Tek Boots",
+                                "Tek Dedicated Storage",
+                                "Tek Generator",
+                                "Tek Railgun",
+                                "Tek Replicator",
+                                "Tek Trough"
+                            ]
+                        }
+                    ],
+                    "tips": "Se puede tamear temporalmente después de derrotarlo."
+                },
+                {
+                    "name": "Titán del Bosque",
+                    "type": "Titán",
+                    "summon": "Terminal del Titán del Bosque (Crater Forest).",
+                    "difficulties": [
+                        {
+                            "label": "Única",
+                            "level": "",
+                            "tributes": [
+                                "1× Artifact of Growth",
+                                "100× Corrupt Heart",
+                                "10× Sauropod Vertebra",
+                                "10× Tyrannosaurus Arm"
+                            ],
+                            "tek": [
+                                "Large Tek Teleporter",
+                                "Medium Tek Teleporter",
+                                "Rex Tek Saddle",
+                                "Small Tek Teleporter",
+                                "Tek Gauntlets",
+                                "Tek Leggings",
+                                "Tek Replicator",
+                                "Tek Sword"
+                            ]
+                        }
+                    ],
+                    "tips": "Se puede tamear temporalmente después de derrotarlo."
+                },
+                {
+                    "name": "Titán de Hielo",
+                    "type": "Titán",
+                    "summon": "Terminal del Titán de Hielo (Snow Dome).",
+                    "difficulties": [
+                        {
+                            "label": "Única",
+                            "level": "",
+                            "tributes": [
+                                "1× Artifact of the Void",
+                                "100× Corrupt Heart",
+                                "10× Spinosaurus Sail",
+                                "10× Therizino Claws"
+                            ],
+                            "tek": [
+                                "Tapejara Tek Saddle",
+                                "Tek Chestpiece",
+                                "Tek Forcefield",
+                                "Tek Helmet",
+                                "Tek Replicator",
+                                "Tek Rifle"
+                            ]
+                        }
+                    ],
+                    "tips": "Se puede tamear temporalmente después de derrotarlo."
+                },
+                {
+                    "name": "Rey Titán",
+                    "type": "Jefe final",
+                    "summon": "Terminal del Rey Titán. Necesitas los trofeos de los 3 titanes.",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "",
+                            "tributes": [
+                                "5× Alpha Tyrannosaur Tooth",
+                                "150× Corrupt Heart",
+                                "10× Titanoboa Venom",
+                                "1× Desert Titan Trophy",
+                                "1× Forest Titan Trophy",
+                                "1× Ice Titan Trophy"
+                            ],
+                            "tek": [
+                                "Homo Deus Record"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "",
+                            "tributes": [
+                                "10× Alpha Tyrannosaur Tooth",
+                                "300× Corrupt Heart",
+                                "20× Titanoboa Venom",
+                                "1× Desert Titan Trophy",
+                                "1× Forest Titan Trophy",
+                                "1× Ice Titan Trophy",
+                                "1× King Titan Trophy (Gamma)"
+                            ],
+                            "tek": [
+                                "Lo mismo que en Gamma"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "",
+                            "tributes": [
+                                "10× Alpha Tyrannosaur Tooth",
+                                "300× Corrupt Heart",
+                                "20× Giganotosaurus Heart",
+                                "20× Spinosaurus Sail",
+                                "20× Titanoboa Venom",
+                                "1× Desert Titan Trophy",
+                                "1× Forest Titan Trophy",
+                                "1× Ice Titan Trophy",
+                                "1× King Titan Trophy (Beta)"
+                            ],
+                            "tek": [
+                                "Lo mismo que en Gamma"
+                            ]
+                        }
+                    ],
+                    "tips": "Desbloquea el registro Homo Deus. Para Beta y Alfa necesitas el trofeo del Rey Titán de la dificultad anterior."
+                }
+            ]
+        },
+        {
+            "name": "Lost Colony",
+            "image": "images/lost-colony.png",
+            "bosses": [
+                {
+                    "name": "Reina Perdida",
+                    "type": "Guardián",
+                    "summon": "Misión desde las terminales de Lost Colony.",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "55",
+                            "tributes": [
+                                "1× Alpha Zombie Brains",
+                                "5× Neophyte Horns",
+                                "100× Minor Aberrant Sigil",
+                                "100× Minor Crimson Sigil"
+                            ],
+                            "tek": [
+                                "Gigadesmodus Platform Saddle",
+                                "Gigadesmodus Saddle",
+                                "Small Tek Teleporter",
+                                "Tek Gauntlets",
+                                "Tek Generator",
+                                "Tek Leggings",
+                                "Tek Replicator",
+                                "Tek Sleeping Pod",
+                                "Tek Spear",
+                                "Tek Trough"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "70",
+                            "tributes": [
+                                "1× Alpha Ossidon Skull",
+                                "5× Alpha Zombie Brains",
+                                "10× Neophyte Horns",
+                                "150× Greater Aberrant Sigil",
+                                "150× Greater Crimson Sigil"
+                            ],
+                            "tek": [
+                                "Todo lo de Gamma, más:",
+                                "Medium Tek Teleporter",
+                                "Tek Boots",
+                                "Tek Chestpiece",
+                                "Tek Dedicated Storage",
+                                "Tek Helmet",
+                                "Tek Rifle"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "95",
+                            "tributes": [
+                                "5× Alpha Ossidon Skull",
+                                "10× Alpha Zombie Brains",
+                                "15× Neophyte Horns",
+                                "200× Prime Aberrant Sigil",
+                                "200× Prime Crimson Sigil"
+                            ],
+                            "tek": [
+                                "Todo lo de Beta, más:",
+                                "Large Tek Teleporter",
+                                "Rex Tek Saddle",
+                                "Tek Cloning Chamber",
+                                "Tek Forcefield",
+                                "Tek Railgun",
+                                "Tek Shield"
+                            ]
+                        }
+                    ],
+                    "tips": "Hay que derrotar al Rey Perdido y a la Reina Perdida para conseguir los engramas Tek."
+                },
+                {
+                    "name": "Rey Perdido",
+                    "type": "Guardián",
+                    "summon": "Palacio Rojo, a través de la misión \"Red-Handed\" desde la Terminal Roja.",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "55",
+                            "tributes": [
+                                "1× Alpha Zombie Brains",
+                                "5× Neophyte Horns",
+                                "100× Minor Aberrant Sigil",
+                                "100× Minor Crimson Sigil"
+                            ],
+                            "tek": [
+                                "Gigadesmodus Platform Saddle",
+                                "Gigadesmodus Saddle",
+                                "Small Tek Teleporter",
+                                "Tek Gauntlets",
+                                "Tek Generator",
+                                "Tek Leggings",
+                                "Tek Replicator",
+                                "Tek Sleeping Pod",
+                                "Tek Spear",
+                                "Tek Trough"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "70",
+                            "tributes": [
+                                "1× Alpha Ossidon Skull",
+                                "5× Alpha Zombie Brains",
+                                "10× Neophyte Horns",
+                                "150× Greater Aberrant Sigil",
+                                "150× Greater Crimson Sigil"
+                            ],
+                            "tek": [
+                                "Todo lo de Gamma, más:",
+                                "Medium Tek Teleporter",
+                                "Tek Boots",
+                                "Tek Chestpiece",
+                                "Tek Dedicated Storage",
+                                "Tek Helmet",
+                                "Tek Rifle"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "95",
+                            "tributes": [
+                                "5× Alpha Ossidon Skull",
+                                "10× Alpha Zombie Brains",
+                                "15× Neophyte Horns",
+                                "200× Prime Aberrant Sigil",
+                                "200× Prime Crimson Sigil"
+                            ],
+                            "tek": [
+                                "Todo lo de Beta, más:",
+                                "Large Tek Teleporter",
+                                "Rex Tek Saddle",
+                                "Tek Cloning Chamber",
+                                "Tek Forcefield",
+                                "Tek Railgun",
+                                "Tek Shield"
+                            ]
+                        }
+                    ],
+                    "tips": "Hay que derrotar al Rey Perdido y a la Reina Perdida para conseguir los engramas Tek."
+                }
+            ]
+        },
+        {
+            "name": "Aberration",
+            "image": "images/aberration.png",
+            "bosses": [
+                {
+                    "name": "Rockwell",
+                    "type": "Jefe final",
+                    "summon": "Arena de Rockwell. Se invoca desde un obelisco o la terminal de Aberration.",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "60",
+                            "tributes": [
+                                "1× Artifact of the Depths",
+                                "1× Artifact of the Shadows",
+                                "1× Artifact of the Stalker"
+                            ],
+                            "tek": [
+                                "Gamma Aberrant Implant",
+                                "Small Tek Teleporter",
+                                "Tek Gauntlets",
+                                "Tek Generator",
+                                "Tek Leggings",
+                                "Tek Replicator",
+                                "Tek Sleeping Pod",
+                                "Tek Trough"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "75",
+                            "tributes": [
+                                "1× Artifact of the Depths",
+                                "1× Artifact of the Shadows",
+                                "1× Artifact of the Stalker",
+                                "4× Basilisk Scale",
+                                "12× Nameless Venom",
+                                "2× Reaper Pheromone Gland",
+                                "2× Rock Drake Feather"
+                            ],
+                            "tek": [
+                                "Todo lo de Gamma, más:",
+                                "Beta Aberrant Implant",
+                                "Medium Tek Teleporter",
+                                "Rock Drake Tek Saddle",
+                                "Tek Boots",
+                                "Tek Chestpiece",
+                                "Tek Dedicated Storage",
+                                "Tek Helmet",
+                                "Tek Rifle"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "100",
+                            "tributes": [
+                                "1× Artifact of the Depths",
+                                "1× Artifact of the Shadows",
+                                "1× Artifact of the Stalker",
+                                "8× Basilisk Scale",
+                                "20× Nameless Venom",
+                                "7× Reaper Pheromone Gland",
+                                "7× Rock Drake Feather",
+                                "1× Alpha Basilisk Fang",
+                                "1× Alpha Karkinos Claw",
+                                "1× Alpha Reaper King Barb"
+                            ],
+                            "tek": [
+                                "Todo lo de Beta, más:",
+                                "Alpha Aberrant Implant",
+                                "Large Tek Teleporter",
+                                "Rex Tek Saddle",
+                                "Tek Cloning Chamber",
+                                "Tek Forcefield",
+                                "Tek Railgun"
+                            ]
+                        }
+                    ],
+                    "tips": "Solo puedes llevar ciertos dinos. Al derrotarlo consigues el implante Aberrante."
+                }
+            ]
+        },
+        {
+            "name": "Valguero",
+            "image": "images/valguero.png",
+            "bosses": [
+                {
+                    "name": "Grendel",
+                    "type": "Guardián",
+                    "summon": "Forsaken Oasis. Se invoca desde un obelisco (necesitas los tributos en el inventario).",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "70",
+                            "tributes": [
+                                "1× Artifact of the Devourer",
+                                "1× Artifact of the Pack",
+                                "1× Artifact of the Skylord",
+                                "5× Allosaurus Brain",
+                                "5× Argentavis Talon",
+                                "5× Sauropod Vertebra",
+                                "5× Sarcosuchus Skin",
+                                "5× Titanoboa Venom"
+                            ],
+                            "tek": [
+                                "Megalodon Tek Saddle",
+                                "Small Tek Teleporter",
+                                "Tapejara Tek Saddle",
+                                "Tek Behemoth Gate",
+                                "Tek Behemoth Gateway",
+                                "Tek Ceiling & Hatchframe",
+                                "Tek Gauntlets",
+                                "Tek Generator",
+                                "Tek Large Cellar Door",
+                                "Tek Leggings",
+                                "Tek Replicator",
+                                "Tek Trough",
+                                "Tek Wall, Doorways & Windowframe"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "80",
+                            "tributes": [
+                                "1× Artifact of the Cunning",
+                                "1× Artifact of the Immune",
+                                "1× Artifact of the Strong",
+                                "10× Allosaurus Brain",
+                                "8× Argentavis Talon",
+                                "8× Sauropod Vertebra",
+                                "8× Sarcosuchus Skin",
+                                "5× Titanoboa Venom",
+                                "10× Tyrannosaurus Arm"
+                            ],
+                            "tek": [
+                                "Todo lo de Gamma, más:",
+                                "Tek Forcefield",
+                                "Tek Gate",
+                                "Tek Gateway",
+                                "Tek Rifle",
+                                "Tek Transmitter",
+                                "Vacuum Compartment & Moonpool"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "90",
+                            "tributes": [
+                                "1× Artifact of the Brute",
+                                "1× Artifact of the Crag",
+                                "1× Artifact of the Destroyer",
+                                "1× Artifact of the Gatekeeper",
+                                "15× Allosaurus Brain",
+                                "15× Argentavis Talon",
+                                "2× Giganotosaurus Heart",
+                                "10× Sarcosuchus Skin",
+                                "10× Titanoboa Venom",
+                                "15× Tyrannosaurus Arm"
+                            ],
+                            "tek": [
+                                "Todo lo de Beta, más:",
+                                "Large Tek Teleporter",
+                                "Rex Tek Saddle",
+                                "Tek Chestpiece",
+                                "Tek Cloning Chamber",
+                                "Tek Grenade"
+                            ]
+                        }
+                    ],
+                    "tips": "Exclusivo de ARK: Survival Ascended. Los buitres que invoca hacen mucho daño a los jugadores montados."
+                },
+                {
+                    "name": "Broodmother salvaje",
+                    "type": "Jefe errante",
+                    "summon": "Aparece salvaje por el mapa. No necesita tributos.",
+                    "difficulties": [],
+                    "tips": "No da engramas Tek: suelta planos (blueprints) aleatorios."
+                }
+            ]
+        },
+        {
+            "name": "The Center",
+            "image": "images/the-center.png",
+            "bosses": [
+                {
+                    "name": "Broodmother Lysrix",
+                    "type": "Guardián",
+                    "summon": "Se invoca desde un obelisco (necesitas los tributos en el inventario).",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "30",
+                            "tributes": [
+                                "1× Artifact of the Clever",
+                                "1× Artifact of the Hunter",
+                                "1× Artifact of the Massive"
+                            ],
+                            "tek": [
+                                "Tek Foundation",
+                                "Tek Replicator"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "50",
+                            "tributes": [
+                                "1× Artifact of the Clever",
+                                "1× Artifact of the Hunter",
+                                "1× Artifact of the Massive",
+                                "5× Argentavis Talon",
+                                "5× Sarcosuchus Skin",
+                                "5× Sauropod Vertebra",
+                                "5× Titanoboa Venom"
+                            ],
+                            "tek": [
+                                "Todo lo de Gamma, más:",
+                                "Tek Boots",
+                                "Tek Ceiling & Hatchframe",
+                                "Tek Fence Foundation & Support",
+                                "Tek Ladder",
+                                "Tek Pillar",
+                                "Tek Quarter & Triangle Ceiling",
+                                "Tek Quarter Wall & Railing",
+                                "Tek Roof, Ramp & Stairs",
+                                "Tek Sloped Wall",
+                                "Tek Wall, Doorways & Windowframe"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "70",
+                            "tributes": [
+                                "1× Artifact of the Clever",
+                                "1× Artifact of the Hunter",
+                                "1× Artifact of the Massive",
+                                "10× Argentavis Talon",
+                                "10× Sarcosuchus Skin",
+                                "10× Sauropod Vertebra",
+                                "10× Titanoboa Venom"
+                            ],
+                            "tek": [
+                                "Todo lo de Beta, más:",
+                                "Mosasaur Tek Saddle",
+                                "Tek Helmet",
+                                "Tek Turret"
+                            ]
+                        }
+                    ],
+                    "tips": "Los dinos que puedes llevar a la arena son limitados (Rex, Therizino, Yutyrannus, Daeodon...). No se permiten voladores."
+                },
+                {
+                    "name": "Megapithecus",
+                    "type": "Guardián",
+                    "summon": "Se invoca desde un obelisco (necesitas los tributos en el inventario).",
+                    "difficulties": [
+                        {
+                            "label": "Gamma (fácil)",
+                            "level": "45",
+                            "tributes": [
+                                "1× Artifact of the Brute",
+                                "1× Artifact of the Devourer",
+                                "1× Artifact of the Pack"
+                            ],
+                            "tek": [
+                                "Tek Doors & Windows",
+                                "Tek Gauntlets",
+                                "Tek Replicator"
+                            ]
+                        },
+                        {
+                            "label": "Beta (media)",
+                            "level": "65",
+                            "tributes": [
+                                "1× Artifact of the Brute",
+                                "1× Artifact of the Devourer",
+                                "1× Artifact of the Pack",
+                                "5× Megalania Toxin",
+                                "5× Megalodon Tooth",
+                                "5× Spinosaurus Sail",
+                                "5× Therizino Claws",
+                                "5× Thylacoleo Hook-Claw"
+                            ],
+                            "tek": [
+                                "Todo lo de Gamma, más:",
+                                "Tek Gate",
+                                "Tek Gateway",
+                                "Tek Generator",
+                                "Tek Large Cellar Door",
+                                "Tek Rifle",
+                                "Tek Trough"
+                            ]
+                        },
+                        {
+                            "label": "Alfa (difícil)",
+                            "level": "85",
+                            "tributes": [
+                                "1× Artifact of the Brute",
+                                "1× Artifact of the Devourer",
+                                "1× Artifact of the Pack",
+                                "10× Megalania Toxin",
+                                "10× Megalodon Tooth",
+                                "10× Spinosaurus Sail",
+                                "10× Therizino Claws",
+                                "10× Thylacoleo Hook-Claw"
+                            ],
+                            "tek": [
+                                "Todo lo de Beta, más:",
+                                "Rex Tek Saddle",
+                                "Tek Grenade"
+                            ]
+                        }
+                    ],
+                    "tips": "Los dinos que puedes llevar a la arena son limitados (Rex, Therizino, Yutyrannus, Daeodon...). No se permiten voladores."
+                }
+            ]
+        }
+    ]
+}
