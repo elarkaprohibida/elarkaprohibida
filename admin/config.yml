@@ -131,6 +131,37 @@ collections:
               - {label: "Destacado", name: "featured", widget: "boolean", default: false}
           - {label: "Pasos de entrega", name: "steps", widget: "list"}
 
+  - name: "guia"
+    label: "Guía de Tameo"
+    files:
+      - file: "data/guia.json"
+        name: "guia"
+        label: "Guía de Tameo"
+        fields:
+          - label: "Consejos generales"
+            name: "sections"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Título", name: "title", widget: "string"}
+              - {label: "Consejos", name: "items", widget: "list"}
+          - label: "Dinos"
+            name: "dinos"
+            widget: "list"
+            summary: "{{fields.name}} ({{fields.method}})"
+            fields:
+              - {label: "Nombre", name: "name", widget: "string"}
+              - {label: "Imagen", name: "image", widget: "image", required: false}
+              - label: "Método de tameo"
+                name: "method"
+                widget: "select"
+                options: ["Noqueo", "Pasivo", "Especial"]
+              - {label: "Comida favorita", name: "food", widget: "text", required: false}
+              - {label: "Cómo noquearlo / tamearlo", name: "knockout", widget: "text", required: false}
+              - {label: "Dónde encontrarlo", name: "location", widget: "text", required: false}
+              - {label: "Consejos", name: "tips", widget: "text", required: false}
+              - {label: "Enlace a Dododex", name: "dododex", widget: "string", required: false}
+
   - name: "hall-of-fame"
     label: "Salón de la Fama"
     files:

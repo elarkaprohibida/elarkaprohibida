@@ -836,3 +836,32 @@ a{
         width: 90%;
     }
 }
+/* GUÍA DE TAMEO */
+[hidden] {
+    display: none !important;
+}
+
+.guide-info {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.guide-row {
+    width: auto;
+    margin: 0;
+    text-align: left;
+}
+
+.guide-row .price-label {
+    color: #00ff99;
+}
+
+.guide-row p {
+    margin: 0;
+    line-height: 1.6;
+}
+
+.guide-info .btn {
+    align-self: flex-start;
+}

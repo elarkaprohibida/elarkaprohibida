@@ -1,0 +1,1014 @@
+{
+    "sections": [
+        {
+            "title": "🧪 Básicos del tameo",
+            "items": [
+                "💤 Noqueo: duerme al dino con tranquilizantes y luego mete la comida en su inventario.",
+                "🤝 Pasivo: el dino no se duerme. Pon la comida en el último slot de la barra y pulsa E para dársela.",
+                "✨ Especial: tienen su propio método (huevos, minijuegos, ofrendas…). Lee bien los pasos.",
+                "🍖 El kibble (pienso) favorito es lo más rápido y da la mejor efectividad."
+            ]
+        },
+        {
+            "title": "🎯 Consejos para noquear",
+            "items": [
+                "Lleva narcóticos o Biotoxina para que no se despierte durante el tameo.",
+                "No dejes que le hagan daño mientras está dormido: baja la efectividad.",
+                "Construye una trampa de piedra o metal para los dinos grandes.",
+                "Dispara a la cabeza para hacer más torpor (salvo los que tienen la cabeza acorazada)."
+            ]
+        }
+    ],
+    "dinos": [
+        {
+            "name": "Carcharodontosaurio",
+            "image": "images/dinos/carcharodontosaurio.png",
+            "method": "Especial",
+            "food": "No se tamea con comida: le llevas cadáveres frescos de criaturas que hayas cazado.",
+            "knockout": "No se noquea. 1) Mata a los carnívoros de la zona. 2) Arrastra un cadáver grande y fresco hasta él. 3) Cuando se levante y olfatee el aire, suelta el cadáver y aléjate. 4) Repite hasta llenar la barra de confianza. 5) Móntalo y mata criaturas mientras lo montas hasta completar el tameo.",
+            "location": "The Island, The Center, Ragnarok, Extinction, Valguero y otros mapas.",
+            "tips": "Cuanto más pesado sea el cadáver, más confianza gana. Mientras lo montas, recibir daño baja la efectividad: caza presas que peguen poco.",
+            "dododex": "https://www.dododex.com/taming/carcharodontosaurus"
+        },
+        {
+            "name": "Giganotosaurus",
+            "image": "images/dinos/giganotosaurus.png",
+            "method": "Noqueo",
+            "food": "Kibble Excepcional > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Dardos de choque (rifle). Prepara muchos, aguanta muchísimo torpor.",
+            "location": "Zonas de montaña y volcán (The Island, The Center, Ragnarok, Valguero...).",
+            "tips": "Su torpor baja MUY rápido: lleva Biotoxina o muchísimos narcóticos. Atrápalo en una trampa de puertas de metal o behemoth. Si le pegas, entra en furia y hace más daño: no lo ataques con tus dinos.",
+            "dododex": "https://www.dododex.com/taming/giganotosaurus"
+        },
+        {
+            "name": "Ossidón",
+            "image": "images/dinos/ossidon.png",
+            "method": "Especial",
+            "food": "No se tamea con comida, sino con el minijuego de la bola de hielo.",
+            "knockout": "1) Tranquilízalo hasta el 50% de torpor. 2) Móntalo (mínimo 4 veces). 3) Montado, forma una bola de nieve con clic derecho. 4) Atrapa dentro de la bola los carámbanos que dispara y a las criaturas salvajes. Cada carámbano atrapado mejora el tameo.",
+            "location": "Zonas heladas de Lost Colony.",
+            "tips": "Mete primero unas 5 criaturas y luego prioriza los carámbanos. Usa dinos grandes (Rex, Giga) para el combate; los pequeños no sirven contra su bola. Es un tameo largo, ten paciencia.",
+            "dododex": "https://www.dododex.com/taming/ossidon"
+        },
+        {
+            "name": "Dreadnoughtus",
+            "image": "images/dinos/dreadnoughtus.png",
+            "method": "Especial",
+            "food": "Elemento (para que te siga) y una veta de Elemento (para que coma).",
+            "knockout": "1) Dale Elemento para que te siga durante 1 minuto. 2) Llévalo a una veta de Elemento (mejor si es alfa). 3) Mientras come, defiéndelo de 5 oleadas de criaturas corrompidas. Cada oleada da hasta un 20% del tameo.",
+            "location": "Extinction (camina despacio por el páramo).",
+            "tips": "Limpia el camino antes de llevarlo, que se atasca fácilmente. Necesitas un dino de combate fuerte. Si recibe muchos golpes baja la efectividad.",
+            "dododex": "https://www.dododex.com/taming/dreadnoughtus"
+        },
+        {
+            "name": "Rock Golem",
+            "image": "images/dinos/rock-golem.png",
+            "method": "Noqueo",
+            "food": "Kibble Extraordinario > Azufre > Arcilla > Piedra",
+            "knockout": "SOLO disparos a la CABEZA con proyectiles explosivos o contundentes: cañón (lo mejor) o lanzacohetes. Los tiros al cuerpo hacen daño en vez de torpor y lo pueden matar.",
+            "location": "Scorched Earth, Ragnarok, Extinction y otros. Se camufla como una roca en laderas de montaña.",
+            "tips": "Busca rocas que no encajen con el terreno. Es muy lento: usa el terreno a tu favor. Recibe un 90% menos de daño de ataques no explosivos.",
+            "dododex": "https://www.dododex.com/taming/rockelemental"
+        },
+        {
+            "name": "Deinosuchus",
+            "image": "images/dinos/deinosuchus.png",
+            "method": "Pasivo",
+            "food": "Kibble Superior > Cordero crudo > Carne de primera cruda > Pescado de primera crudo > Carne cruda",
+            "knockout": "No se noquea. Cuando esté tumbado tomando el sol con la boca abierta, acércate y mete la comida en su boca (E).",
+            "location": "Pantanos, ríos y costas.",
+            "tips": "Usa armadura Ghillie para acercarte sin que te detecte. Es mejor tamearlo en tierra que en el agua.",
+            "dododex": "https://www.dododex.com/taming/deinosuchus"
+        },
+        {
+            "name": "Shastasaurus",
+            "image": "images/dinos/shastasaurus.png",
+            "method": "Especial",
+            "food": "Kibble Extraordinario (unos 64 para nivel 150) o más de 400 de pescado de primera crudo.",
+            "knockout": "1) Monta un Ichthyosaurus tameado para que te siga (lleva 1-3). 2) Sube a la superficie. 3) Quítale las 3 sanguijuelas con una hoz de metal (tienes 30-90 segundos según cuántos Ichthys lleves). 4) Dale de comer en la boca hasta terminar.",
+            "location": "Océano profundo de The Center.",
+            "tips": "Limpia antes la zona de depredadores. Lleva tanque de buceo y aletas. Cuidado de no golpear al Shastasaurus con la hoz.",
+            "dododex": "https://www.dododex.com/taming/shastasaurus"
+        },
+        {
+            "name": "Oasisaur",
+            "image": "https://ark.wiki.gg/images/thumb/Oasisaur.png/320px-Oasisaur.png",
+            "method": "Especial",
+            "food": "No come kibble: se alimenta de plantas en macetas (desentiérralas con una pala llevando una maceta vacía).",
+            "knockout": "1) Pon una Esencia de la Muerte (de un tame criable muerto) en el inventario de su oasis. 2) Aparece una cría clon. 3) Defiéndela de 3 oleadas de buitres. Al superar las 3, queda tameado.",
+            "location": "Dunas de Scorched Earth.",
+            "tips": "Solo 1 Oasisaur por tribu. La criatura de la esencia se pierde. Usa armas a distancia contra los buitres (niveles 31, 61 y 121).",
+            "dododex": "https://www.dododex.com/taming/oasisaur"
+        },
+        {
+            "name": "Rhyniognatha",
+            "image": "images/dinos/rhyniognatha.png",
+            "method": "Especial",
+            "food": "La hembra embarazada tiene antojos: Kibble Superior/Excepcional/Extraordinario, Elemento, Perlas negras, huevos, etc.",
+            "knockout": "Los adultos salvajes NO se tamean. 1) Consigue una feromona de un macho salvaje. 2) Debilita a una hembra por debajo del 10% de vida. 3) Aplica la feromona a un dino tuyo con mucho peso de arrastre (300+). 4) Espera unas 8 horas de gestación cumpliendo sus antojos. 5) Cría al bebé que nace (el anfitrión muere).",
+            "location": "The Island y Lost Island.",
+            "tips": "Usa un anfitrión con mucho peso de arrastre (Giga, Bronto) para heredar el 100% de las stats. Cumple los 5 antojos para mejores stats.",
+            "dododex": "https://www.dododex.com/taming/rhyniognatha"
+        },
+        {
+            "name": "Mosasaurus",
+            "image": "images/dinos/mosasaurus.png",
+            "method": "Noqueo",
+            "food": "Kibble Excepcional > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Bajo el agua: ballesta con flechas tranquilizantes o lanzaarpones con lanzas tranquilizantes (el rifle no dispara bajo el agua).",
+            "location": "Océano profundo.",
+            "tips": "Su torpor baja rápido: lleva narcóticos o Biotoxina. Hazlo desde una jaula/plataforma o con un dino acuático fuerte; hay muchos tiburones en la zona.",
+            "dododex": "https://www.dododex.com/taming/mosasaurus"
+        },
+        {
+            "name": "Tusoteuthis",
+            "image": "images/dinos/tusoteuthis.png",
+            "method": "Pasivo",
+            "food": "Perlas negras (unas 50) > Chuleta de cordero cocinada",
+            "knockout": "No se noquea. Deja que agarre a uno de tus dinos (un Carbonemys aguanta bien) y entonces acércate a su pico con las Perlas negras en el último slot y dale de comer.",
+            "location": "Océano profundo.",
+            "tips": "Usa un cebo resistente. Después de alimentarlo, nada hacia arriba para no recibir daño.",
+            "dododex": "https://www.dododex.com/taming/tusoteuthis"
+        },
+        {
+            "name": "Rex",
+            "image": "images/dinos/rex.png",
+            "method": "Noqueo",
+            "food": "Kibble Excepcional > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Casi todos los mapas, en zonas abiertas y bosques.",
+            "tips": "Hazlo desde lo alto de un acantilado o con una trampa 2x2 de cimientos de piedra rodeada de puertas de piedra de dos alturas. Huye cuando tiene mucho torpor: ve a por él con un dino rápido.",
+            "dododex": "https://www.dododex.com/taming/rex"
+        },
+        {
+            "name": "Spinosaur",
+            "image": "images/dinos/spinosaur.png",
+            "method": "Noqueo",
+            "food": "Kibble Excepcional > Cordero crudo > Carne de primera cruda > Pescado de primera crudo > Carne cruda",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Ríos, costas y pantanos.",
+            "tips": "Es rápido en tierra y muy bueno en el agua: noquéalo lejos del agua o en una trampa de piedra.",
+            "dododex": "https://www.dododex.com/taming/spinosaur"
+        },
+        {
+            "name": "Yutyrannus",
+            "image": "images/dinos/yutyrannus.png",
+            "method": "Noqueo",
+            "food": "Kibble Extraordinario > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Dardos tranquilizantes con rifle de cañón largo (o dardos de choque si es de nivel alto).",
+            "location": "Zonas nevadas.",
+            "tips": "Su rugido asusta a dinos pequeños y medianos. Ve a pie o con un dino grande, y usa una trampa de piedra.",
+            "dododex": "https://www.dododex.com/taming/yutyrannus"
+        },
+        {
+            "name": "Therizinosaurus",
+            "image": "images/dinos/therizinosaurus.png",
+            "method": "Noqueo",
+            "food": "Kibble Excepcional > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Dardos tranquilizantes con rifle de cañón largo (o dardos de choque si es de nivel alto).",
+            "location": "Bosques y zonas de secuoyas.",
+            "tips": "Pega muy fuerte y es rápido. Usa una trampa de piedra o dispárale desde lo alto.",
+            "dododex": "https://www.dododex.com/taming/therizinosaurus"
+        },
+        {
+            "name": "Brontosaurus",
+            "image": "images/dinos/brontosaurus.png",
+            "method": "Noqueo",
+            "food": "Kibble Excepcional > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Muchas flechas o dardos tranquilizantes (tiene muchísimo torpor). Dispárale desde un volador o una roca alta.",
+            "location": "Costas y llanuras abiertas.",
+            "tips": "Su coletazo hace daño en área: no te quedes cerca ni dejes tus dinos al lado. Lleva bastantes narcóticos.",
+            "dododex": "https://www.dododex.com/taming/brontosaurus"
+        },
+        {
+            "name": "Diplodocus",
+            "image": "images/dinos/diplodocus.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Se puede noquear con flechas tranquilizantes o tamear pasivamente dándole comida a mano.",
+            "location": "Costas y llanuras.",
+            "tips": "Es inofensivo: solo te empuja. Es de los tameos más rápidos del juego.",
+            "dododex": "https://www.dododex.com/taming/diplodocus"
+        },
+        {
+            "name": "Paraceratherium",
+            "image": "images/dinos/paraceratherium.png",
+            "method": "Noqueo",
+            "food": "Kibble Superior > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Llanuras y costas.",
+            "tips": "Es pacífico y huye: dispárale desde un volador o persíguelo con un dino rápido.",
+            "dododex": "https://www.dododex.com/taming/paraceratherium"
+        },
+        {
+            "name": "Quetzal",
+            "image": "images/dinos/quetzal.png",
+            "method": "Noqueo",
+            "food": "Kibble Excepcional > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Dardos tranquilizantes desde un volador (Argentavis o Pteranodon) mientras vuela; también se puede bajar con un lanzaarpones con red.",
+            "location": "Vuela por casi todo el mapa, a mucha altura.",
+            "tips": "Noquéalo sobre tierra firme: si cae al agua, se ahoga. Llévate mucha comida, el tameo es largo.",
+            "dododex": "https://www.dododex.com/taming/quetzal"
+        },
+        {
+            "name": "Grifo",
+            "image": "images/dinos/grifo.png",
+            "method": "Noqueo",
+            "food": "Kibble Extraordinario > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Flechas o dardos tranquilizantes (unos 7 dardos para nivel 1). Mejor dentro de un corral de puertas de piedra.",
+            "location": "Ragnarok, Lost Island y Fjordur, cerca de acantilados y árboles.",
+            "tips": "Atráelo al corral con un volador rápido. Su torpor baja muy rápido: lleva muchos narcóticos.",
+            "dododex": "https://www.dododex.com/taming/griffin"
+        },
+        {
+            "name": "Plesiosaur",
+            "image": "images/dinos/plesiosaur.png",
+            "method": "Noqueo",
+            "food": "Kibble Superior > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Bajo el agua: ballesta con flechas tranquilizantes o lanzaarpones con lanzas tranquilizantes (el rifle no dispara bajo el agua).",
+            "location": "Océano profundo.",
+            "tips": "Tiene mucha vida y torpor: lleva narcóticos. Cuidado con los tiburones mientras está noqueado.",
+            "dododex": "https://www.dododex.com/taming/plesiosaur"
+        },
+        {
+            "name": "Basilosaurus",
+            "image": "images/dinos/basilosaurus.png",
+            "method": "Pasivo",
+            "food": "Kibble Excepcional > Cordero crudo > Carne de primera cruda",
+            "knockout": "No se noquea. Acércate y dale de comer a mano (E) cada vez que tenga hambre.",
+            "location": "Océano.",
+            "tips": "Suelen ir acompañados de Mantas y Megalodones que atacan mientras come. Usa un Ichthyosaurus para escapar rápido.",
+            "dododex": "https://www.dododex.com/taming/basilosaurus"
+        },
+        {
+            "name": "Fasolasuchus",
+            "image": "images/dinos/fasolasuchus.png",
+            "method": "Especial",
+            "food": "Kibble Excepcional",
+            "knockout": "1) Espera a que se entierre. 2) Lanza una granada o detona C4 sobre el montículo. 3) Cuando salga aturdido, móntalo. 4) Llévalo a chocar contra rocas para acumular torpor hasta noquearlo, y luego aliméntalo.",
+            "location": "Scorched Earth y Aberration.",
+            "tips": "Las vetas de metal, cristal o sal dan más torpor que las rocas normales. Los árboles no cuentan. En Aberration, hazlo de día.",
+            "dododex": "https://www.dododex.com/taming/fasolasuchus"
+        },
+        {
+            "name": "Thylacoleo",
+            "image": "images/dinos/thylacoleo.png",
+            "method": "Noqueo",
+            "food": "Kibble Extraordinario > Chuleta de cordero cocinada > Cordero crudo",
+            "knockout": "Dardos tranquilizantes con rifle de cañón largo (o dardos de choque si es de nivel alto).",
+            "location": "Bosques y secuoyas: se esconde subido a los árboles.",
+            "tips": "No te acerques si está en un árbol: salta sobre ti y derriba a los voladores. Mejor desde un dino alto o desde lejos.",
+            "dododex": "https://www.dododex.com/taming/thylacoleo"
+        },
+        {
+            "name": "Pyromane",
+            "image": "images/dinos/pyromane.png",
+            "method": "Especial",
+            "food": "No necesita comida para el tameo.",
+            "knockout": "1) Llévalo al agua o usa una granada extintora para dejarlo \"Empapado\". 2) Bájale la vida por debajo del 50%. 3) Móntalo. 4) Ataca criaturas para prenderles fuego y absorbe las llamas (Ctrl + clic derecho) para avanzar el tameo.",
+            "location": "The Center, Scorched Earth, Aberration, Ragnarok, Valguero, Astraeos.",
+            "tips": "Explota al morir: no uses dinos de nivel bajo. Ponte armadura Flak contra el fuego y las explosiones.",
+            "dododex": "https://www.dododex.com/taming/pyromane"
+        },
+        {
+            "name": "Dreadmare",
+            "image": "images/dinos/dreadmare.png",
+            "method": "Especial",
+            "food": "Tributos: piel de Sarcosuchus, vela de Espinosaurio, corazón de Giga y partes de criaturas alfa.",
+            "knockout": "Requiere el DLC de pago \"Fantastic Tames - Dreadmare\". Mata a un Dreadmare salvaje para conseguir un altar. Coloca el altar de noche con los tributos y derrótalo varias veces (4 o más, según el nivel).",
+            "location": "Solo aparece de noche: The Center, Scorched Earth, Extinction, Ragnarok, Valguero, Astraeos, Lost Colony.",
+            "tips": "Usa armas a distancia y una bola de cadenas para bajarlo al suelo. El altar caduca si no lo colocas pronto.",
+            "dododex": "https://www.dododex.com/taming/dreadmare"
+        },
+        {
+            "name": "Wyvern",
+            "image": "images/dinos/wyvern.png",
+            "method": "Especial",
+            "food": "Bebé: solo Leche de Wyvern.",
+            "knockout": "Los adultos NO se tamean. Roba un huevo de un nido en las trincheras de wyverns, incúbalo a 80-90 °C (unas 5 horas) y cría al bebé con Leche de Wyvern.",
+            "location": "Trincheras de wyverns en Scorched Earth, Ragnarok, Valguero, Lost Island y Fjordur.",
+            "tips": "Entra rápido con un Pteranodon, coge el huevo y sal. La leche se saca noqueando a una wyvern hembra o matando a una wyvern alfa.",
+            "dododex": "https://www.dododex.com/taming/wyvern"
+        },
+        {
+            "name": "Allosaurus",
+            "image": "images/dinos/allosaurus.png",
+            "method": "Noqueo",
+            "food": "Kibble Superior > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Llanuras y montañas, en manadas de 3.",
+            "tips": "Van en grupo: separa a uno antes de noquearlo. Una trampa de piedra ayuda mucho.",
+            "dododex": "https://www.dododex.com/taming/allosaurus"
+        },
+        {
+            "name": "Carnotaurus",
+            "image": "images/dinos/carnotaurus.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Llanuras y bosques.",
+            "tips": "Súbete a una roca alta: no puede alcanzarte y es fácil de noquear.",
+            "dododex": "https://www.dododex.com/taming/carnotaurus"
+        },
+        {
+            "name": "Stegosaurus",
+            "image": "images/dinos/stegosaurus.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Llanuras y bosques.",
+            "tips": "Su cola pega muy fuerte: dispárale desde lejos y nunca por detrás de cerca.",
+            "dododex": "https://www.dododex.com/taming/stegosaurus"
+        },
+        {
+            "name": "Triceratops",
+            "image": "images/dinos/triceratops.png",
+            "method": "Noqueo",
+            "food": "Kibble Simple > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Llanuras y costas.",
+            "tips": "Te embiste si le disparas: súbete a una roca o usa una bola.",
+            "dododex": "https://www.dododex.com/taming/triceratops"
+        },
+        {
+            "name": "Pachyrhinosaurus",
+            "image": "images/dinos/pachyrhinosaurus.png",
+            "method": "Noqueo",
+            "food": "Repelente de insectos (¡su favorito!) > Verduras > Bayas Mejo",
+            "knockout": "Flechas o dardos tranquilizantes AL CUERPO: su cabeza está acorazada y recibe menos torpor.",
+            "location": "Bosques y llanuras.",
+            "tips": "Su torpor baja muy rápido: lleva muchos narcóticos. Para uno de nivel alto necesitas bastante repelente. Desde un Grifo encima de él es muy fácil: no te puede alcanzar.",
+            "dododex": "https://www.dododex.com/taming/pachyrhinosaurus"
+        },
+        {
+            "name": "Mammoth",
+            "image": "images/dinos/mammoth.png",
+            "method": "Noqueo",
+            "food": "Kibble Superior > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Zonas nevadas, en manada.",
+            "tips": "Separa a uno de la manada. Sus pisotones hacen mucho daño.",
+            "dododex": "https://www.dododex.com/taming/mammoth"
+        },
+        {
+            "name": "Woolly Rhino",
+            "image": "images/dinos/woolly-rhino.png",
+            "method": "Noqueo",
+            "food": "Kibble Superior > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Zonas nevadas.",
+            "tips": "Su embestida es muy peligrosa. Dispárale desde una roca alta o corre en círculos mientras lo tranquilizas.",
+            "dododex": "https://www.dododex.com/taming/woollyrhino"
+        },
+        {
+            "name": "Dire Bear",
+            "image": "images/dinos/dire-bear.png",
+            "method": "Noqueo",
+            "food": "Kibble Superior > Miel de abeja gigante > Cordero crudo > Carne cruda",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Bosques y zonas nevadas.",
+            "tips": "Es rápido y pega fuerte: usa una trampa de piedra.",
+            "dododex": "https://www.dododex.com/taming/direbear"
+        },
+        {
+            "name": "Megatherium",
+            "image": "images/dinos/megatherium.png",
+            "method": "Noqueo",
+            "food": "Kibble Superior > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Bosques y secuoyas.",
+            "tips": "Tamealo en un corral de piedra y lejos de acantilados: te puede tirar de un golpe.",
+            "dododex": "https://www.dododex.com/taming/megatherium"
+        },
+        {
+            "name": "Megalosaurus",
+            "image": "images/dinos/megalosaurus.png",
+            "method": "Noqueo",
+            "food": "Kibble Superior > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Cuevas y zonas oscuras de bosque.",
+            "tips": "Es nocturno: de día está dormido y es mucho más fácil de noquear. De noche es muy agresivo.",
+            "dododex": "https://www.dododex.com/taming/megalosaurus"
+        },
+        {
+            "name": "Baryonyx",
+            "image": "images/dinos/baryonyx.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Pescado de primera crudo > Pescado crudo",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Ríos y pantanos.",
+            "tips": "Su ataque de cola aturde: no te quedes cerca. Noquéalo fuera del agua.",
+            "dododex": "https://www.dododex.com/taming/baryonyx"
+        },
+        {
+            "name": "Sarcosuchus",
+            "image": "images/dinos/sarcosuchus.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Cordero crudo > Pescado de primera crudo > Carne cruda",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Ríos y pantanos.",
+            "tips": "Noquéalo fuera del agua: en el agua es mucho más peligroso.",
+            "dododex": "https://www.dododex.com/taming/sarco"
+        },
+        {
+            "name": "Kaprosuchus",
+            "image": "images/dinos/kaprosuchus.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Pantanos.",
+            "tips": "Salta y te agarra: lleva una bola y no lo dejes acercarse.",
+            "dododex": "https://www.dododex.com/taming/kaprosuchus"
+        },
+        {
+            "name": "Ankylosaurus",
+            "image": "images/dinos/ankylosaurus.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Montañas y llanuras rocosas.",
+            "tips": "Es lento y fácil de esquivar: un buen primer tameo.",
+            "dododex": "https://www.dododex.com/taming/ankylosaurus"
+        },
+        {
+            "name": "Doedicurus",
+            "image": "images/dinos/doedicurus.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Llanuras y zonas rocosas.",
+            "tips": "Cuando se hace bola recibe menos torpor: dispárale cuando no esté rodando.",
+            "dododex": "https://www.dododex.com/taming/doedicurus"
+        },
+        {
+            "name": "Castoroides",
+            "image": "images/dinos/castoroides.png",
+            "method": "Noqueo",
+            "food": "Kibble Superior > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Ríos y lagos, cerca de sus presas de castor.",
+            "tips": "Saquea las presas de castor: tienen madera, cemento y paja.",
+            "dododex": "https://www.dododex.com/taming/castoroides"
+        },
+        {
+            "name": "Argentavis",
+            "image": "images/dinos/argentavis.png",
+            "method": "Noqueo",
+            "food": "Kibble Superior > Cordero crudo > Carne de primera cruda > Carne cruda > Carne podrida",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Montañas y acantilados.",
+            "tips": "Se queda atacándote: noquéalo sobre tierra firme. Si cae al agua, se ahoga.",
+            "dododex": "https://www.dododex.com/taming/argentavis"
+        },
+        {
+            "name": "Gigantoraptor",
+            "image": "images/dinos/gigantoraptor.png",
+            "method": "Especial",
+            "food": "Solo se tamean las crías.",
+            "knockout": "1) Encuentra un nido con un adulto y una cría vivos. 2) Distrae al adulto tirando huevos fertilizados lejos. 3) Escóndete en el nido. 4) Imita los movimientos de la cría (girar, reverencia, aletear con A, S o D) en unos 2 segundos.",
+            "location": "The Island, The Center, Aberration, Extinction, Ragnarok, Valguero y otros.",
+            "tips": "No dejes que muera el adulto o no podrás impronta. Usa armadura Ghillie. No te alejes o se puede reiniciar el progreso.",
+            "dododex": "https://www.dododex.com/taming/gigantoraptor"
+        },
+        {
+            "name": "Yi Ling",
+            "image": "images/dinos/yi-ling.png",
+            "method": "Noqueo",
+            "food": "Kibble Excepcional",
+            "knockout": "Los tranquilizantes no le afectan. Deja que te ataque hasta acumular 30+ plumas, aturdirlo con Fruto de Planta Z cuando haga el picado, y dale narcóticos en el último slot (la Biotoxina es la mejor).",
+            "location": "Aberration.",
+            "tips": "Encerrarte en una mini trampa (2x2 con puertas de dos alturas) facilita aturdirlo durante el picado.",
+            "dododex": "https://www.dododex.com/taming/yiling"
+        },
+        {
+            "name": "Mantis",
+            "image": "images/dinos/mantis.png",
+            "method": "Pasivo",
+            "food": "Cuerno de gusano de la muerte > Cuerno de rinoceronte lanudo",
+            "knockout": "No se noquea. Ponte repelente de insectos, acércate y dale el cuerno desde el último slot (E). Espera unos minutos entre cada cuerno.",
+            "location": "Scorched Earth, Ragnarok, Extinction, Valguero y otros.",
+            "tips": "Sin repelente te ataca. Una trampa de 1 cimiento con paredes deja parte del cuerpo fuera para darle de comer seguro.",
+            "dododex": "https://www.dododex.com/taming/mantis"
+        },
+        {
+            "name": "Thorny Dragon",
+            "image": "images/dinos/thorny-dragon.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Desiertos (Scorched Earth y similares).",
+            "tips": "Ya tameado sirve como herrería móvil y es muy bueno recogiendo madera.",
+            "dododex": "https://www.dododex.com/taming/thornydragon"
+        },
+        {
+            "name": "Morellatops",
+            "image": "images/dinos/morellatops.png",
+            "method": "Noqueo",
+            "food": "Kibble Simple > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Desiertos.",
+            "tips": "Es pacífico pero huye: usa una bola.",
+            "dododex": "https://www.dododex.com/taming/morellatops"
+        },
+        {
+            "name": "Megalodon",
+            "image": "images/dinos/megalodon.png",
+            "method": "Noqueo",
+            "food": "Kibble Superior > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Bajo el agua: ballesta con flechas tranquilizantes o lanzaarpones con lanzas tranquilizantes (el rifle no dispara bajo el agua).",
+            "location": "Océano.",
+            "tips": "Van en grupos. Noquéalo cerca de la superficie y ten cuidado con otros tiburones.",
+            "dododex": "https://www.dododex.com/taming/megalodon"
+        },
+        {
+            "name": "Dunkleosteus",
+            "image": "images/dinos/dunkleosteus.png",
+            "method": "Noqueo",
+            "food": "Kibble Superior > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Bajo el agua: ballesta con flechas tranquilizantes o lanzaarpones con lanzas tranquilizantes (el rifle no dispara bajo el agua).",
+            "location": "Océano profundo.",
+            "tips": "Es lento pero muy acorazado y pega fuerte. Ya tameado es genial para recoger metal y petróleo bajo el agua.",
+            "dododex": "https://www.dododex.com/taming/dunkleosteus"
+        },
+        {
+            "name": "Chalicotherium",
+            "image": "images/dinos/chalicotherium.png",
+            "method": "Pasivo",
+            "food": "Jarra de cerveza > Bayas estimulantes (muy lento)",
+            "knockout": "No se noquea. Agáchate, acércate por detrás y dale la cerveza desde el último slot (E). Espera unos minutos entre cada jarra.",
+            "location": "The Island, The Center, Ragnarok, Extinction, Valguero y otros.",
+            "tips": "Usa armadura Ghillie. Si le tocas, te ataca.",
+            "dododex": "https://www.dododex.com/taming/chalicotherium"
+        },
+        {
+            "name": "Gigantopithecus",
+            "image": "images/dinos/gigantopithecus.png",
+            "method": "Pasivo",
+            "food": "Kibble Normal > Verduras > Bayas Mejo",
+            "knockout": "No se noquea. Necesitas ser nivel 30. Agáchate, acércate por detrás y dale de comer desde el último slot (E) cada vez que tenga hambre.",
+            "location": "Zonas nevadas y bosques.",
+            "tips": "Si chocas con él, te ataca: aléjate fuera de su vista para que se calme. No le devuelvas el golpe o perderás efectividad.",
+            "dododex": "https://www.dododex.com/taming/gigantopithecus"
+        },
+        {
+            "name": "Raptor",
+            "image": "images/dinos/raptor.png",
+            "method": "Noqueo",
+            "food": "Kibble Simple > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Tirachinas, porra o un par de flechas tranquilizantes. Es frágil: no le dispares a la cabeza o lo matarás.",
+            "location": "Llanuras y bosques.",
+            "tips": "Salta sobre ti y te inmoviliza: lánzale una bola primero.",
+            "dododex": "https://www.dododex.com/taming/raptor"
+        },
+        {
+            "name": "Iguanodon",
+            "image": "images/dinos/iguanodon.png",
+            "method": "Noqueo",
+            "food": "Kibble Simple > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Llanuras y costas.",
+            "tips": "Ya tameado convierte bayas en semillas.",
+            "dododex": "https://www.dododex.com/taming/iguanodon"
+        },
+        {
+            "name": "Parasaur",
+            "image": "images/dinos/parasaur.png",
+            "method": "Noqueo",
+            "food": "Kibble Básico > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Tirachinas, porra o un par de flechas tranquilizantes. Es frágil: no le dispares a la cabeza o lo matarás.",
+            "location": "Costas y llanuras.",
+            "tips": "Uno de los tameos más fáciles. Ideal para empezar.",
+            "dododex": "https://www.dododex.com/taming/parasaur"
+        },
+        {
+            "name": "Gallimimus",
+            "image": "images/dinos/gallimimus.png",
+            "method": "Noqueo",
+            "food": "Kibble Simple > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Llanuras.",
+            "tips": "Es muy rápido: lánzale una bola antes de tranquilizarlo.",
+            "dododex": "https://www.dododex.com/taming/gallimimus"
+        },
+        {
+            "name": "Equus",
+            "image": "images/dinos/equus.png",
+            "method": "Especial",
+            "food": "Kibble Normal > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "1) Dale comida a mano desde el último slot (E), acercándote con cuidado. 2) Cuando lo permita, móntalo. 3) Cuando intente tirarte, dale de comer para calmarlo hasta terminar el tameo.",
+            "location": "Zonas frías y llanuras.",
+            "tips": "Es asustadizo y huye. Si la efectividad baja mucho, noquéalo para reiniciar el tameo.",
+            "dododex": "https://www.dododex.com/taming/equus"
+        },
+        {
+            "name": "Procoptodon",
+            "image": "images/dinos/procoptodon.png",
+            "method": "Noqueo",
+            "food": "Setas raras > Semillas de Planta Especie X",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Llanuras y zonas abiertas.",
+            "tips": "Huye muy rápido: usa una bola de cadenas (no la normal) o un dino rápido para alcanzarlo.",
+            "dododex": "https://www.dododex.com/taming/procoptodon"
+        },
+        {
+            "name": "Direwolf",
+            "image": "images/dinos/direwolf.png",
+            "method": "Noqueo",
+            "food": "Kibble Superior > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Zonas nevadas, en manada.",
+            "tips": "Separa a uno de la manada antes de empezar.",
+            "dododex": "https://www.dododex.com/taming/direwolf"
+        },
+        {
+            "name": "Sabertooth",
+            "image": "images/dinos/sabertooth.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Montañas y zonas nevadas.",
+            "tips": "Es rápido: usa bola o dispárale desde una roca alta.",
+            "dododex": "https://www.dododex.com/taming/sabertooth"
+        },
+        {
+            "name": "Beelzebufo",
+            "image": "images/dinos/beelzebufo.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Pantanos.",
+            "tips": "Su lengua tiene mucho alcance y da torpor: dispárale desde una roca alta.",
+            "dododex": "https://www.dododex.com/taming/beelzebufo"
+        },
+        {
+            "name": "Carbonemys",
+            "image": "images/dinos/carbonemys.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Costas, ríos y lagos.",
+            "tips": "Su caparazón reduce el daño. Es lento: fácil de noquear.",
+            "dododex": "https://www.dododex.com/taming/carbonemys"
+        },
+        {
+            "name": "Kentrosaurus",
+            "image": "images/dinos/kentrosaurus.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Llanuras y bosques.",
+            "tips": "No ataques cuerpo a cuerpo: sus púas hacen mucho daño. Dispárale desde lejos.",
+            "dododex": "https://www.dododex.com/taming/kentrosaurus"
+        },
+        {
+            "name": "Pteranodon",
+            "image": "images/dinos/pteranodon.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Tirachinas, porra o un par de flechas tranquilizantes. Es frágil: no le dispares a la cabeza o lo matarás.",
+            "location": "Costas y acantilados.",
+            "tips": "Lánzale una bola para que caiga al suelo y luego tranquilízalo.",
+            "dododex": "https://www.dododex.com/taming/pteranodon"
+        },
+        {
+            "name": "Pelagornis",
+            "image": "images/dinos/pelagornis.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Pescado de primera crudo > Pescado crudo",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Costas y lagos.",
+            "tips": "Lánzale una bola para que no se escape volando.",
+            "dododex": "https://www.dododex.com/taming/pelagornis"
+        },
+        {
+            "name": "Terror Bird",
+            "image": "images/dinos/terror-bird.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Llanuras.",
+            "tips": "Es rápido y agresivo: usa una bola.",
+            "dododex": "https://www.dododex.com/taming/terrorbird"
+        },
+        {
+            "name": "Lymantria",
+            "image": "images/dinos/lymantria.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Bola primero para que no se escape volando, y luego unas pocas flechas o dardos tranquilizantes.",
+            "location": "Scorched Earth, Ragnarok, Extinction, Valguero y otros.",
+            "tips": "Tiene poca vida: noquéalo rápido o se escapa o se muere.",
+            "dododex": "https://www.dododex.com/taming/lymantria"
+        },
+        {
+            "name": "Titanoboa",
+            "image": "images/dinos/titanoboa.png",
+            "method": "Especial",
+            "food": "Huevos FERTILIZADOS (no sirven los normales).",
+            "knockout": "No se noquea. Suelta un huevo fertilizado cerca de ella mientras no esté atacando a nada. Lo comerá y ganará progreso.",
+            "location": "Cuevas y pantanos.",
+            "tips": "Suelta el huevo desde tu inventario (si lo sueltas desde el de tu dino, lo ignora). Lo mejor es soltarlo desde un volador.",
+            "dododex": "https://www.dododex.com/taming/titanoboa"
+        },
+        {
+            "name": "Araneo",
+            "image": "images/dinos/araneo.png",
+            "method": "Pasivo",
+            "food": "Carne podrida",
+            "knockout": "Ponte repelente de insectos, acércate y dale de comer desde el último slot (E). También se puede noquear con flechas tranquilizantes.",
+            "location": "Cuevas.",
+            "tips": "Sin repelente te ataca en cuanto te ve. Sus telarañas te ralentizan.",
+            "dododex": "https://www.dododex.com/taming/araneo"
+        },
+        {
+            "name": "Pulmonoscorpius",
+            "image": "images/dinos/pulmonoscorpius.png",
+            "method": "Noqueo",
+            "food": "Narcóticos > Carne podrida > Narcobayas > Carne cruda (NO acepta carne de primera)",
+            "knockout": "Lánzale una bola y noquéalo a puñetazos por detrás, o con flechas tranquilizantes.",
+            "location": "Cuevas y zonas de jungla.",
+            "tips": "Su picadura da torpor: lleva bayas estimulantes.",
+            "dododex": "https://www.dododex.com/taming/pulmonoscorpius"
+        },
+        {
+            "name": "Arthropluera",
+            "image": "images/dinos/arthropluera.png",
+            "method": "Pasivo",
+            "food": "Carne podrida",
+            "knockout": "Ponte repelente de insectos, acércate y dale de comer desde el último slot (E).",
+            "location": "Cuevas y zonas de jungla.",
+            "tips": "Su ácido daña tu armadura y armas. Usa armadura Ghillie junto con el repelente.",
+            "dododex": "https://www.dododex.com/taming/arthropluera"
+        },
+        {
+            "name": "Onyc",
+            "image": "images/dinos/onyc.png",
+            "method": "Pasivo",
+            "food": "Cordero crudo > Carne de primera cruda > Chuleta de cordero cocinada",
+            "knockout": "No se noquea. Ponte repelente de insectos, acércate sin tocarlo y dale de comer desde el último slot (E).",
+            "location": "Cuevas.",
+            "tips": "No se deja tamear si está atacando o comiéndose un cadáver: busca uno tranquilo.",
+            "dododex": "https://www.dododex.com/taming/onyc"
+        },
+        {
+            "name": "Purlovia",
+            "image": "images/dinos/purlovia.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Zonas nevadas y llanuras (se esconde bajo tierra).",
+            "tips": "Corre en zigzag cuando salte a por ti. Mejor desde una roca alta.",
+            "dododex": "https://www.dododex.com/taming/purlovia"
+        },
+        {
+            "name": "Megalania",
+            "image": "images/dinos/megalania.png",
+            "method": "Noqueo",
+            "food": "Kibble Extraordinario > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Cuevas: se pega al techo y a las paredes.",
+            "tips": "¡Mira hacia arriba en las cuevas! Al dispararle cae al suelo. Su torpor baja muy rápido: lleva narcóticos.",
+            "dododex": "https://www.dododex.com/taming/megalania"
+        },
+        {
+            "name": "Megaloceros",
+            "image": "images/dinos/megaloceros.png",
+            "method": "Noqueo",
+            "food": "Kibble Simple > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Bosques y llanuras.",
+            "tips": "Es rápido: usa una bola.",
+            "dododex": "https://www.dododex.com/taming/megaloceros"
+        },
+        {
+            "name": "Phiomia",
+            "image": "images/dinos/phiomia.png",
+            "method": "Noqueo",
+            "food": "Kibble Básico > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Tirachinas, porra o un par de flechas tranquilizantes. Es frágil: no le dispares a la cabeza o lo matarás.",
+            "location": "Llanuras y costas.",
+            "tips": "Muy fácil. Ya tameado, dale bayas estimulantes y produce mucho excremento para fertilizante.",
+            "dododex": "https://www.dododex.com/taming/phiomia"
+        },
+        {
+            "name": "Moschops",
+            "image": "images/dinos/moschops.png",
+            "method": "Pasivo",
+            "food": "Pide una comida al azar (puede ser carne, bayas, verduras...).",
+            "knockout": "No se noquea. Míralo para ver qué comida quiere en ese momento y dásela a mano desde el último slot (E).",
+            "location": "Cuevas y zonas de pantano.",
+            "tips": "La comida que pide cambia: lleva variedad en el inventario.",
+            "dododex": "https://www.dododex.com/taming/moschops"
+        },
+        {
+            "name": "Lystrosaurus",
+            "image": "images/dinos/lystrosaurus.png",
+            "method": "Pasivo",
+            "food": "Flor rara > Bayas",
+            "knockout": "No se noquea. Dale de comer a mano desde el último slot (E) cada vez que tenga hambre.",
+            "location": "Zonas nevadas y llanuras frías.",
+            "tips": "Las Flores raras se consiguen en zonas altas y de montaña. Ya tameado, da más experiencia a quien lo acaricia.",
+            "dododex": "https://www.dododex.com/taming/lystrosaurus"
+        },
+        {
+            "name": "Ovis",
+            "image": "images/dinos/ovis.png",
+            "method": "Pasivo",
+            "food": "Pastel dulce de verduras (solo necesita 1)",
+            "knockout": "No se noquea. Acércate y dale un Pastel dulce de verduras desde el último slot (E).",
+            "location": "Montañas.",
+            "tips": "Con 1 pastel basta, incluso a nivel alto. Transpórtalo en criopod o con un Argentavis. Se le puede esquilar lana con unas tijeras.",
+            "dododex": "https://www.dododex.com/taming/ovis"
+        },
+        {
+            "name": "Achatina",
+            "image": "images/dinos/achatina.png",
+            "method": "Noqueo",
+            "food": "Pastel dulce de verduras (es lo ÚNICO que come)",
+            "knockout": "Flechas tranquilizantes a las partes blandas, no al caparazón. Si recibe mucho daño se mete en la concha y es fácil matarla sin querer.",
+            "location": "Pantanos y junglas.",
+            "tips": "Ya tameada solo come pasteles dulces: solo tamea una si puedes hacerlos. Produce pegamento orgánico y savia.",
+            "dododex": "https://www.dododex.com/taming/achatina"
+        },
+        {
+            "name": "Oviraptor",
+            "image": "images/dinos/oviraptor.png",
+            "method": "Noqueo",
+            "food": "Huevos (cuanto más pesados, mejor; sirven normales o fertilizados)",
+            "knockout": "Tirachinas, porra o un par de flechas tranquilizantes. Es frágil: no le dispares a la cabeza o lo matarás.",
+            "location": "Llanuras y costas.",
+            "tips": "Ya tameado aumenta la producción de huevos de los dinos cercanos.",
+            "dododex": "https://www.dododex.com/taming/oviraptor"
+        },
+        {
+            "name": "Pachy",
+            "image": "images/dinos/pachy.png",
+            "method": "Noqueo",
+            "food": "Kibble Simple > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "Tirachinas, porra o un par de flechas tranquilizantes. Es frágil: no le dispares a la cabeza o lo matarás.",
+            "location": "Bosques y llanuras.",
+            "tips": "Embiste con la cabeza: apunta al cuerpo.",
+            "dododex": "https://www.dododex.com/taming/pachy"
+        },
+        {
+            "name": "Hyaenodon",
+            "image": "images/dinos/hyaenodon.png",
+            "method": "Pasivo",
+            "food": "No se tamea con comida, sino acariciándolo.",
+            "knockout": "No se noquea. Acércate con cuidado y acarícialo (E) sin asustarlo.",
+            "location": "Llanuras y montañas.",
+            "tips": "Si se asusta pierde todo el progreso. Usa armadura Ghillie o caldo de cactus.",
+            "dododex": "https://www.dododex.com/taming/hyaenodon"
+        },
+        {
+            "name": "Troodon",
+            "image": "images/dinos/troodon.png",
+            "method": "Especial",
+            "food": "Gana afinidad matando criaturas.",
+            "knockout": "Deja que el Troodon mate a criaturas tuyas (por ejemplo bebés). Gana progreso con experiencia de combate, y de noche necesita mucha menos.",
+            "location": "Bosques y junglas.",
+            "tips": "De noche es mucho más peligroso. Su mordisco da torpor: lleva bayas estimulantes.",
+            "dododex": "https://www.dododex.com/taming/troodon"
+        },
+        {
+            "name": "Mesopithecus",
+            "image": "images/dinos/mesopithecus.png",
+            "method": "Pasivo",
+            "food": "Kibble Básico > Verduras (zanahoria, maíz...) > Bayas Mejo > Otras bayas",
+            "knockout": "No se noquea. Dale de comer a mano desde el último slot (E).",
+            "location": "Junglas y bosques.",
+            "tips": "Es pequeño y huye: no lo asustes. Se lleva en el hombro.",
+            "dododex": "https://www.dododex.com/taming/mesopithecus"
+        },
+        {
+            "name": "Pegomastax",
+            "image": "images/dinos/pegomastax.png",
+            "method": "Especial",
+            "food": "Bayas Mejo",
+            "knockout": "Deja que te robe la comida: lleva Bayas Mejo en el último slot y él mismo te las quitará. Espera a que vuelva para robarte otra vez.",
+            "location": "Bosques y llanuras.",
+            "tips": "Lleva solo bayas en el inventario (roba otras cosas también). Un corral pequeño evita que se escape lejos.",
+            "dododex": "https://www.dododex.com/taming/pegomastax"
+        },
+        {
+            "name": "Microraptor",
+            "image": "images/dinos/microraptor.png",
+            "method": "Noqueo",
+            "food": "Flor rara > Cordero crudo > Carne de primera cruda",
+            "knockout": "Bola primero y luego flechas o dardos tranquilizantes desde lejos.",
+            "location": "Bosques y secuoyas.",
+            "tips": "Salta sobre los jinetes y los desmonta. Con solo 1 Flor rara se tamea uno de nivel 150.",
+            "dododex": "https://www.dododex.com/taming/microraptor"
+        },
+        {
+            "name": "Compsognathus",
+            "image": "images/dinos/compsognathus.png",
+            "method": "Noqueo",
+            "food": "Carne de primera cruda > Pescado de primera crudo (solo comen carne de primera)",
+            "knockout": "Tirachinas, porra o un par de flechas tranquilizantes. Es frágil: no le dispares a la cabeza o lo matarás.",
+            "location": "Bosques y llanuras, en grupos.",
+            "tips": "Se despiertan muy rápido: lleva narcóticos. Cuidado si noqueas varios a la vez.",
+            "dododex": "https://www.dododex.com/taming/compy"
+        },
+        {
+            "name": "Dimetrodon",
+            "image": "images/dinos/dimetrodon.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Flechas tranquilizantes con arco o ballesta, o dardos tranquilizantes con rifle.",
+            "location": "Pantanos.",
+            "tips": "Ya tameado aísla del frío y el calor y ayuda a incubar huevos.",
+            "dododex": "https://www.dododex.com/taming/dimetrodon"
+        },
+        {
+            "name": "Dilophosaurus",
+            "image": "images/dinos/dilophosaurus.png",
+            "method": "Noqueo",
+            "food": "Kibble Básico > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Tirachinas, porra o un par de flechas tranquilizantes. Es frágil: no le dispares a la cabeza o lo matarás.",
+            "location": "Junglas y bosques.",
+            "tips": "Escupe veneno que ciega. Uno de los tameos más fáciles.",
+            "dododex": "https://www.dododex.com/taming/dilophosaur"
+        },
+        {
+            "name": "Dimorphodon",
+            "image": "images/dinos/dimorphodon.png",
+            "method": "Noqueo",
+            "food": "Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Bola primero, luego un par de flechas o dardos tranquilizantes.",
+            "location": "Junglas y costas.",
+            "tips": "Puedes atraerlo con un volador, bajarte y dispararle cuando se acerque.",
+            "dododex": "https://www.dododex.com/taming/dimorphodon"
+        },
+        {
+            "name": "Archaeopteryx",
+            "image": "images/dinos/archaeopteryx.png",
+            "method": "Noqueo",
+            "food": "Kibble Simple > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "Tirachinas, porra o un par de flechas tranquilizantes. Es frágil: no le dispares a la cabeza o lo matarás.",
+            "location": "Bosques y secuoyas.",
+            "tips": "Huye volando: usa ballesta o rifle. Tameado actúa como paracaídas y recoge savia.",
+            "dododex": "https://www.dododex.com/taming/archaeopteryx"
+        },
+        {
+            "name": "Ichthyornis",
+            "image": "images/dinos/ichthyornis.png",
+            "method": "Noqueo",
+            "food": "Kibble Normal > Pescado de primera crudo > Pescado crudo",
+            "knockout": "Bola primero y luego un par de flechas tranquilizantes al cuerpo (no a la cabeza).",
+            "location": "Costas.",
+            "tips": "Es muy frágil: es fácil matarlo sin querer.",
+            "dododex": "https://www.dododex.com/taming/ichthyornis"
+        },
+        {
+            "name": "Vulture",
+            "image": "images/dinos/vulture.png",
+            "method": "Pasivo",
+            "food": "Carne podrida > Carne cruda > Pescado crudo",
+            "knockout": "No se noquea. Dale de comer a mano desde el último slot (E), esperando a que tenga hambre entre cada toma.",
+            "location": "Desiertos y montañas.",
+            "tips": "No mates criaturas cerca mientras lo tameas.",
+            "dododex": "https://www.dododex.com/taming/vulture"
+        },
+        {
+            "name": "Jerboa",
+            "image": "images/dinos/jerboa.png",
+            "method": "Noqueo",
+            "food": "Semillas de Planta Especie Y",
+            "knockout": "Un par de golpes con un boomerang o incluso a puñetazos.",
+            "location": "Desiertos.",
+            "tips": "Tameado avisa de tormentas de arena, rayos y olas de calor antes de que lleguen.",
+            "dododex": "https://www.dododex.com/taming/jerboa"
+        },
+        {
+            "name": "Manta",
+            "image": "images/dinos/manta.png",
+            "method": "Pasivo",
+            "food": "Gel de rape (solo durante el tameo)",
+            "knockout": "No se noquea. Ponte repelente de insectos, acércate por detrás y dale el gel desde el último slot (E).",
+            "location": "Océano.",
+            "tips": "No la toques por delante, arriba o abajo. Las aletas de buceo ayudan mucho.",
+            "dododex": "https://www.dododex.com/taming/manta"
+        },
+        {
+            "name": "Ichthyosaurus",
+            "image": "images/dinos/ichthyosaurus.png",
+            "method": "Pasivo",
+            "food": "Kibble Simple > Cordero crudo > Carne de primera cruda > Carne cruda",
+            "knockout": "No se noquea. Dale de comer a mano desde el último slot (E), esperando unos minutos entre cada toma.",
+            "location": "Océano y costas.",
+            "tips": "Tienden a escapar: intenta llevarlo a zonas poco profundas. Cuidado con los Megalodones.",
+            "dododex": "https://www.dododex.com/taming/ichthyosaurus"
+        },
+        {
+            "name": "Electrophorus",
+            "image": "images/dinos/electrophorus.png",
+            "method": "Pasivo",
+            "food": "Biotoxina > Chuleta de cordero cocinada > Cordero crudo",
+            "knockout": "No se noquea. Dale de comer a mano desde el último slot (E).",
+            "location": "Ríos, pantanos y océano.",
+            "tips": "Montado en un Basilosaurus no te afectan sus descargas.",
+            "dododex": "https://www.dododex.com/taming/electrophorus"
+        }
+    ]
+}
