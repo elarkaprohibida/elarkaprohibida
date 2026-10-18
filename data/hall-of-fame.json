@@ -30,6 +30,21 @@
                 "Topo-eguna", "♡ Kyrtash ♡", "Boromola", "Rafael /C", "Victor", "Javitron", "Alvin",
                 "Sercu", "ZERO", "*Maga*", "Gunter", "MORE", "llimonero"
             ]
+        },
+        {
+            "title": "🦗 La Rhyniognatha Prohibida",
+            "date": "2026-10-18",
+            "image": "images/rhyniognatha-prohibida-2026.jpg",
+            "description": "Evento de Rhyniognatha celebrado a las 18:00 (hora española). Los tres primeros eligieron su Rhyniognatha entre las mejores, y todos los demás participantes se llevaron una de nivel 300 y 5.000 puntos de regalo.",
+            "winners": [
+                { "position": "gold", "player": "*Maga*", "prize": "Rhyniognatha a elegir entre 5 de nivel 450 + 15.000 puntos" },
+                { "position": "silver", "player": "Mambru", "prize": "Rhyniognatha a elegir entre 3 de nivel 300 + 7.500 puntos" },
+                { "position": "bronze", "player": "KHAN", "prize": "Rhyniognatha a elegir entre 3 de nivel 300 + 6.000 puntos" }
+            ],
+            "participants": [
+                "*Maga*", "Mambru", "KHAN", "Winiko26", "Boromola", "Sercu",
+                "BEEF ( NOMADA )", "Rafael /C", "💀 ŞĆØŘPIØŇŞ 1837"
+            ]
         }
     ]
 }
