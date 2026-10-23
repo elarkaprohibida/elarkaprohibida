@@ -32,6 +32,21 @@
             ]
         },
         {
+            "title": "🐊 El Fasolasuchus Prohibido",
+            "date": "2026-10-10",
+            "image": "images/fasolasuchus-prohibido-2026.png",
+            "description": "Desafío de Fasolasuchus: quien domara el ejemplar con más Energía y Peso combinados se llevaba la gloria. Solo contaban los dinos de los jugadores inscritos.",
+            "winners": [
+                { "position": "gold", "player": "Winiko26", "prize": "88 pts (Energía 41 + Peso 47)" },
+                { "position": "silver", "player": "*Maga*", "prize": "84 pts (Energía 42 + Peso 42)" },
+                { "position": "bronze", "player": "cacharro94", "prize": "83 pts (Energía 43 + Peso 40)" }
+            ],
+            "participants": [
+                "Winiko26", "*Maga*", "cacharro94", "♡ Kyrtash ♡", "Arastur", "hugo_cr",
+                "Lobo", "BEEF ( NOMADA )", "MORE", "Boromola"
+            ]
+        },
+        {
             "title": "🦗 La Rhyniognatha Prohibida",
             "date": "2026-10-18",
             "image": "images/rhyniognatha-prohibida-2026.jpg",
