@@ -1230,3 +1230,14 @@ button.btn {
         box-sizing: border-box;
     }
 }
+
+.cuenta-contrasenas {
+    margin-top: 12px;
+    padding-top: 10px;
+    border-top: 1px solid rgba(255,255,255,0.1);
+}
+
+.cuenta-contrasenas .cuenta-pin {
+    margin-top: 4px;
+    word-break: break-all;
+}

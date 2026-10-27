@@ -109,10 +109,31 @@
                 ${estados[vip.estado] || ''}
                 <p>Desde ${esc(vip.inicio)} · expira ${esc(vip.expira)}</p>
                 ${vip.estado !== 'expirado' ? `<p>${esc(vip.diasRestantes)} días restantes</p>` : ''}
+                ${contrasenasVip(vip)}
             `;
         }
         const cls = vip && !sinDatos.includes('vip') ? ` cuenta-vip-${esc(vip.estado)}` : '';
         return `<div class="box cuenta-card${cls}"><h2>👑 VIP</h2>${body}</div>`;
+    }
+
+    // Server passwords for the maps of the plan, while the VIP is active.
+    // undefined: expired (nothing to show); null: couldn't be read right now.
+    function contrasenasVip(vip) {
+        const c = vip.contrasenas;
+        if (c === undefined) return '';
+        if (c === null) return '<p class="cuenta-muted">Contraseñas no disponibles ahora mismo</p>';
+        if (!c.mapas.length) {
+            return '<p class="cuenta-muted">Pide la contraseña de tu mapa al staff en Discord</p>';
+        }
+        return `
+            <div class="cuenta-contrasenas">
+                <p class="cuenta-muted">🔑 Contraseñas${c.mes ? ` de ${esc(c.mes.toLowerCase())}` : ''}</p>
+                ${c.mapas.map(m => `
+                    <p>${esc(m.mapa)}<br><button class="cuenta-pin" data-action="pin" data-pin="${esc(m.password)}"
+                        title="Pulsa para mostrar">••••</button></p>
+                `).join('')}
+            </div>
+        `;
     }
 
     function tribuCard(tribu, sinDatos) {
