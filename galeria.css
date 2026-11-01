@@ -1,0 +1,133 @@
+/* GALERÍA */
+.galeria-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(280px, 1fr));
+    gap:18px;
+    width:80%;
+    margin:20px auto;
+}
+
+.galeria-item{
+    position:relative;
+    padding:0;
+    border:1px solid rgba(0,255,153,0.3);
+    border-radius:12px;
+    overflow:hidden;
+    background:rgba(0,0,0,0.5);
+    cursor:pointer;
+    aspect-ratio:16 / 10;
+    transition:0.3s;
+}
+
+.galeria-item img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    display:block;
+    transition:transform 0.4s;
+}
+
+.galeria-item:hover,
+.galeria-item:focus-visible{
+    border-color:#00ff99;
+    box-shadow:0 0 15px #00ff99;
+    outline:none;
+}
+
+.galeria-item:hover img{
+    transform:scale(1.06);
+}
+
+.galeria-titulo{
+    position:absolute;
+    left:0;
+    right:0;
+    bottom:0;
+    padding:28px 12px 10px;
+    background:linear-gradient(transparent, rgba(0,0,0,0.85));
+    color:white;
+    font-size:14px;
+    text-align:left;
+}
+
+/* VISOR (pantalla completa) */
+.visor{
+    position:fixed;
+    inset:0;
+    z-index:1000;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background:rgba(0,0,0,0.92);
+}
+
+.visor[hidden]{
+    display:none;
+}
+
+.visor-figura{
+    margin:0;
+    max-width:90vw;
+    text-align:center;
+}
+
+.visor-figura img{
+    max-width:90vw;
+    max-height:82vh;
+    border-radius:10px;
+    border:1px solid rgba(0,255,153,0.4);
+    box-shadow:0 0 25px rgba(0,255,153,0.25);
+}
+
+.visor-figura figcaption{
+    margin-top:12px;
+    color:#00ff99;
+    font-size:18px;
+}
+
+.visor-cerrar,
+.visor-flecha{
+    position:absolute;
+    background:rgba(0,0,0,0.6);
+    color:white;
+    border:1px solid rgba(0,255,153,0.4);
+    border-radius:50%;
+    width:48px;
+    height:48px;
+    font-size:26px;
+    line-height:1;
+    cursor:pointer;
+    transition:0.3s;
+}
+
+.visor-cerrar:hover,
+.visor-flecha:hover{
+    background:#00ff99;
+    color:black;
+    box-shadow:0 0 15px #00ff99;
+}
+
+.visor-cerrar{ top:20px; right:20px; font-size:20px; }
+.visor-anterior{ left:20px; top:50%; transform:translateY(-50%); }
+.visor-siguiente{ right:20px; top:50%; transform:translateY(-50%); }
+
+@media (max-width: 900px) {
+    .galeria-grid{
+        width:95%;
+        grid-template-columns:repeat(auto-fill, minmax(160px, 1fr));
+        gap:10px;
+    }
+
+    .galeria-titulo{
+        font-size:12px;
+    }
+
+    .visor-flecha{
+        width:40px;
+        height:40px;
+        font-size:22px;
+    }
+
+    .visor-anterior{ left:6px; }
+    .visor-siguiente{ right:6px; }
+}
