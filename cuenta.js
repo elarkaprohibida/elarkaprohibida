@@ -98,6 +98,12 @@
             body = noDisponible();
         } else if (!vip) {
             body = '<p class="cuenta-muted">Sin VIP</p>';
+        } else if (vip.estado === 'staff') {
+            body = `
+                <p class="cuenta-big">Staff</p>
+                <span class="cuenta-badge cuenta-badge-staff">Acceso de staff</span>
+                ${contrasenasVip(vip)}
+            `;
         } else {
             const estados = {
                 activo: '',

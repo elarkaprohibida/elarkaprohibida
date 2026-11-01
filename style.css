@@ -1176,6 +1176,15 @@ a{
     border-color: #ff5c5c;
 }
 
+.cuenta-vip-staff {
+    border-color: #b388ff;
+}
+
+.cuenta-badge-staff {
+    background: #b388ff;
+    color: black;
+}
+
 .cuenta-pin {
     font: inherit;
     font-family: monospace;
