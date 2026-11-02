@@ -3,7 +3,7 @@ body{
     font-family: Arial, sans-serif;
     color:white;
 
-    background: url("ark.png") no-repeat center center fixed;
+    background: url("images/fondos/fondo-1793582248606.jpg") no-repeat center center fixed;
     background-size: cover;
 }
 body::before{
