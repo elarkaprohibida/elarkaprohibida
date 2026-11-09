@@ -16,6 +16,18 @@ body::before{
     background:rgba(0,0,0,0.6);
     z-index:-1;
 }
+/* Fondo en una capa fija: iOS ignora background-attachment:fixed y
+   estiraría la imagen por toda la página. La URL sigue en body (el panel la cambia ahí). */
+body::after{
+    content:"";
+    position:fixed;
+    inset:0;
+    background-image:inherit;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    z-index:-2;
+}
 /* CABECERA */
 header{
     background: rgba(0,0,0,0.8);
@@ -714,7 +726,7 @@ a{
 /* SALÓN DE LA FAMA */
 .events-list {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(min(340px, 100%), 1fr));
     gap: 25px;
     width: 85%;
     margin: 20px auto;
@@ -1249,4 +1261,165 @@ button.btn {
 .cuenta-contrasenas .cuenta-pin {
     margin-top: 4px;
     word-break: break-all;
+}
+
+/* MÓVIL */
+@media (max-width: 900px) {
+    header {
+        padding: 14px 12px;
+    }
+
+    header h1 {
+        font-size: 28px;
+    }
+
+    nav {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 6px;
+        margin-top: 12px;
+    }
+
+    nav a {
+        margin: 0;
+        padding: 7px 11px;
+        font-size: 14px;
+        border-color: rgba(0, 255, 153, 0.3);
+        background: rgba(0, 0, 0, 0.4);
+    }
+
+    .container {
+        padding: 16px 12px;
+    }
+
+    .box {
+        width: auto;
+        max-width: 100%;
+        margin: 16px auto;
+        padding: 18px 16px;
+        box-sizing: border-box;
+    }
+
+    .content-row,
+    .content-row .box,
+    .side-column,
+    .rules-grid,
+    .packs-grid,
+    .shop-controls,
+    .shop-grid,
+    .detail-panel,
+    .events-list,
+    .boss-maps-grid,
+    .cuenta-grid,
+    .cuenta-login,
+    .cuenta-header,
+    .cuenta-eos {
+        width: 100%;
+        min-width: 0;
+        box-sizing: border-box;
+    }
+
+    /* Las cajas dentro de grids/listas no llevan margen propio (lo da el gap) */
+    .content-row .box,
+    .side-column .box,
+    .rules-grid .box,
+    .packs-grid .box,
+    .shop-grid .box,
+    .events-list .box,
+    .cuenta-grid .box,
+    .variant-list .box,
+    .boss-list .box,
+    .guide-info .box {
+        margin: 0;
+    }
+
+    .content-row {
+        align-items: stretch;
+        gap: 16px;
+    }
+
+    .side-column {
+        gap: 16px;
+    }
+
+    .maps-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px;
+        margin-top: 16px;
+    }
+
+    #mapsGrid .map-card:last-child {
+        grid-column: auto;
+    }
+
+    .maps-subheading {
+        font-size: 20px;
+    }
+
+    .packs-grid,
+    .rules-grid,
+    .cuenta-grid {
+        gap: 16px;
+    }
+
+    .packs-grid {
+        gap: 28px; /* espacio para la etiqueta "MÁS POPULAR" */
+    }
+
+    .shop-controls input,
+    .shop-controls select {
+        min-width: 0;
+        font-size: 16px; /* evita el zoom automático de iOS */
+    }
+
+    .shop-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px;
+    }
+
+    .dino-card {
+        padding: 12px;
+    }
+
+    .dino-card h3 {
+        font-size: 14px;
+    }
+
+    .variant-card .variant-main,
+    .variant-price {
+        min-width: 0;
+    }
+
+    .events-list {
+        grid-template-columns: 1fr;
+    }
+
+    .podium-item {
+        min-width: 90px;
+        padding: 12px 8px;
+    }
+
+    .boss-difficulties {
+        grid-template-columns: 1fr;
+    }
+
+    .dino-walker {
+        opacity: 0.6;
+        pointer-events: none;
+    }
+
+    /* En pantallas táctiles no hay hover: sin saltos al tocar */
+    .box:hover,
+    .map-card:hover,
+    .pack-card:hover,
+    .dino-card:hover {
+        transform: none;
+    }
+}
+
+@media (max-width: 380px) {
+    .shop-grid {
+        grid-template-columns: 1fr;
+    }
 }
